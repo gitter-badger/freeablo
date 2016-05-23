@@ -94,7 +94,7 @@ var searchData=
   ['render',['Render',['../namespace_render.html',1,'']]],
   ['render_2eh',['render.h',['../render_8h.html',1,'']]],
   ['renderdone',['renderDone',['../namespace_engine.html#a89057d19926de885e06263a8d3be9e95',1,'Engine']]],
-  ['renderer',['Renderer',['../class_f_a_render_1_1_tileset.html#a70538530bc36e033e360880ef311df61',1,'FARender::Tileset::Renderer()'],['../class_f_a_render_1_1_renderer.html#a5b93bce5ac2b91f51a877ee509d53161',1,'FARender::Renderer::Renderer()'],['../namespace_render.html#a83fdc275f915ff4a0aa699dd185c30e6',1,'Render::renderer()'],['../namespace_render.html#a0537ce4334a5cbbbf1ed246a12bc1b84',1,'Render::Renderer()']]],
+  ['renderer',['Renderer',['../class_f_a_render_1_1_tileset.html#a70538530bc36e033e360880ef311df61',1,'FARender::Tileset::Renderer()'],['../class_f_a_render_1_1_renderer.html#a5b93bce5ac2b91f51a877ee509d53161',1,'FARender::Renderer::Renderer()'],['../namespace_render.html#a0537ce4334a5cbbbf1ed246a12bc1b84',1,'Render::Renderer()'],['../namespace_render.html#a83fdc275f915ff4a0aa699dd185c30e6',1,'Render::renderer()']]],
   ['renderer',['Renderer',['../class_f_a_render_1_1_renderer.html',1,'FARender']]],
   ['renderer_2ecpp',['renderer.cpp',['../renderer_8cpp.html',1,'']]],
   ['renderer_2eh',['renderer.h',['../renderer_8h.html',1,'']]],
