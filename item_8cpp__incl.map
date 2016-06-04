@@ -1,19 +1,20 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$item_8h.html" title="item.h" alt="" coords="154,160,213,189"/>
-<area shape="rect" id="node53" href="$itemmanager_8h.html" title="itemmanager.h" alt="" coords="336,83,442,112"/>
-<area shape="rect" id="node97" href="$random_8h.html" title="../falevelgen/random.h" alt="" coords="6,83,156,112"/>
-<area shape="rect" id="node5" href="$baseitem_8h.html" title="diabloexe/baseitem.h" alt="" coords="816,237,960,267"/>
-<area shape="rect" id="node19" href="$uniqueitem_8h.html" title="diabloexe/uniqueitem.h" alt="" coords="1176,237,1330,267"/>
-<area shape="rect" id="node24" href="$affix_8h.html" title="diabloexe/affix.h" alt="" coords="984,237,1101,267"/>
-<area shape="rect" id="node30" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="258,237,346,267"/>
-<area shape="rect" id="node41" href="$celframe_8h.html" title="celframe.h" alt="" coords="258,315,341,344"/>
-<area shape="rect" id="node13" href="$faio_8h.html" title="faio/faio.h" alt="" coords="1205,315,1282,344"/>
-<area shape="rect" id="node36" href="$pal_8h.html" title="pal.h" alt="" coords="365,315,416,344"/>
-<area shape="rect" id="node45" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="258,392,373,421"/>
-<area shape="rect" id="node58" href="$diabloexe_8h.html" title="diabloexe/diabloexe.h" alt="" coords="1017,160,1164,189"/>
-<area shape="rect" id="node89" href="$baseitemmanager_8h.html" title="level/baseitemmanager.h" alt="" coords="421,237,586,267"/>
-<area shape="rect" id="node63" href="$settings_8h.html" title="settings/settings.h" alt="" coords="1556,237,1684,267"/>
-<area shape="rect" id="node73" href="$components_2diabloexe_2monster_8h.html" title="monster.h" alt="" coords="712,237,792,267"/>
-<area shape="rect" id="node78" href="$npc_8h.html" title="npc.h" alt="" coords="1405,237,1458,267"/>
-<area shape="rect" id="node84" href="$components_2diabloexe_2characterstats_8h.html" title="characterstats.h" alt="" coords="813,315,928,344"/>
+<area shape="rect" id="node3" href="$item_8h.html" title="item.h" alt="" coords="744,160,803,189"/>
+<area shape="rect" id="node72" href="$itemmanager_8h.html" title="itemmanager.h" alt="" coords="536,83,643,112"/>
+<area shape="rect" id="node108" href="$random_8h.html" title="../falevelgen/random.h" alt="" coords="2372,83,2521,112"/>
+<area shape="rect" id="node5" href="$baseitem_8h.html" title="diabloexe/baseitem.h" alt="" coords="731,392,875,421"/>
+<area shape="rect" id="node19" href="$uniqueitem_8h.html" title="diabloexe/uniqueitem.h" alt="" coords="283,392,437,421"/>
+<area shape="rect" id="node24" href="$affix_8h.html" title="diabloexe/affix.h" alt="" coords="589,392,707,421"/>
+<area shape="rect" id="node30" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="1860,237,1948,267"/>
+<area shape="rect" id="node41" href="$celframe_8h.html" title="celframe.h" alt="" coords="2093,392,2176,421"/>
+<area shape="rect" id="node13" href="$faio_8h.html" title="faio/faio.h" alt="" coords="476,469,553,499"/>
+<area shape="rect" id="node36" href="$pal_8h.html" title="pal.h" alt="" coords="2017,469,2068,499"/>
+<area shape="rect" id="node50" href="$celdecoder_8h.html" title="celdecoder.h" alt="" coords="1856,315,1952,344"/>
+<area shape="rect" id="node45" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="2092,469,2207,499"/>
+<area shape="rect" id="node57" href="$settings_8h.html" title="settings/settings.h" alt="" coords="1628,392,1756,421"/>
+<area shape="rect" id="node77" href="$diabloexe_8h.html" title="diabloexe/diabloexe.h" alt="" coords="779,315,925,344"/>
+<area shape="rect" id="node100" href="$baseitemmanager_8h.html" title="level/baseitemmanager.h" alt="" coords="43,392,208,421"/>
+<area shape="rect" id="node84" href="$components_2diabloexe_2monster_8h.html" title="monster.h" alt="" coords="1101,392,1181,421"/>
+<area shape="rect" id="node89" href="$npc_8h.html" title="npc.h" alt="" coords="461,392,515,421"/>
+<area shape="rect" id="node95" href="$components_2diabloexe_2characterstats_8h.html" title="characterstats.h" alt="" coords="1103,469,1217,499"/>
 </map>

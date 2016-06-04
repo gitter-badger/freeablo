@@ -1,10 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$render_8h.html" title="render.h" alt="" coords="572,83,641,112"/>
-<area shape="rect" id="node32" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="5,315,120,344"/>
-<area shape="rect" id="node17" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="276,160,364,189"/>
-<area shape="rect" id="node28" href="$celframe_8h.html" title="celframe.h" alt="" coords="104,237,187,267"/>
-<area shape="rect" id="node37" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="616,237,749,267"/>
-<area shape="rect" id="node41" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="1157,237,1288,267"/>
-<area shape="rect" id="node43" href="$drawcommand_8h.html" title="rocketglue/drawcommand.h" alt="" coords="963,160,1144,189"/>
-<area shape="rect" id="node23" href="$pal_8h.html" title="pal.h" alt="" coords="331,237,381,267"/>
+<area shape="rect" id="node3" href="$render_8h.html" title="render.h" alt="" coords="1139,83,1208,112"/>
+<area shape="rect" id="node32" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="1680,392,1795,421"/>
+<area shape="rect" id="node17" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="788,160,876,189"/>
+<area shape="rect" id="node28" href="$celframe_8h.html" title="celframe.h" alt="" coords="920,315,1003,344"/>
+<area shape="rect" id="node55" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="1100,237,1233,267"/>
+<area shape="rect" id="node59" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="1439,237,1569,267"/>
+<area shape="rect" id="node61" href="$drawcommand_8h.html" title="rocketglue/drawcommand.h" alt="" coords="1147,160,1328,189"/>
+<area shape="rect" id="node23" href="$pal_8h.html" title="pal.h" alt="" coords="819,392,869,421"/>
+<area shape="rect" id="node37" href="$celdecoder_8h.html" title="celdecoder.h" alt="" coords="691,237,787,267"/>
+<area shape="rect" id="node43" href="$settings_8h.html" title="settings/settings.h" alt="" coords="565,315,693,344"/>
 </map>

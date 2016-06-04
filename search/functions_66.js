@@ -49,7 +49,6 @@ var searchData=
   ['fillrenderstate',['fillRenderState',['../class_f_a_world_1_1_game_level.html#a20ff87442017fdfbe0c6295673fbde4e',1,'FAWorld::GameLevel::fillRenderState()'],['../class_f_a_world_1_1_world.html#a5afbd524390014b824643a3430395196',1,'FAWorld::World::fillRenderState()']]],
   ['fillroom',['fillRoom',['../namespace_f_a_level_gen.html#af99aba47cf4eef3fa03a5ba2886d33fa',1,'FALevelGen']]],
   ['fillserversprite',['fillServerSprite',['../class_f_a_render_1_1_renderer.html#a50c9a61c31dbaec1a33fdb51e3d6c4f3',1,'FARender::Renderer::fillServerSprite()'],['../class_f_a_render_1_1_sprite_manager.html#aa9c4cf0f79d87b274b3bdb8cddd69d85',1,'FARender::SpriteManager::fillServerSprite()']]],
-  ['filltransparent',['fillTransparent',['../namespace_cel.html#ae30f06d0e7a345473f58e2de84f9332c',1,'Cel']]],
   ['filter',['Filter',['../structtesting_1_1_flags.html#afc7350b7c1ac4c0e0efe2d9a94729eb7',1,'testing::Flags']]],
   ['filterflag',['FilterFlag',['../namespacegtest__shuffle__test.html#a4a93f7e13b5e23134c98eefcda7f5d5f',1,'gtest_shuffle_test']]],
   ['filtermatchestest',['FilterMatchesTest',['../classtesting_1_1internal_1_1_unit_test_options.html#a9975b59cece94874b303421697e3bca6',1,'testing::internal::UnitTestOptions']]],

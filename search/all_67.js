@@ -320,8 +320,6 @@ var searchData=
   ['graphicspage_2ecpp',['graphicspage.cpp',['../graphicspage_8cpp.html',1,'']]],
   ['graphicspage_2eh',['graphicspage.h',['../graphicspage_8h.html',1,'']]],
   ['graphicvalue',['graphicValue',['../class_diablo_exe_1_1_base_item.html#a8310487a1f6be7f37172706132e1c0a2',1,'DiabloExe::BaseItem']]],
-  ['greaterthanfirst',['greaterThanFirst',['../namespace_cel.html#a9d0a3591c085548f431278330c71042d',1,'Cel']]],
-  ['greaterthansecond',['greaterThanSecond',['../namespace_cel.html#a66479e176c7a5620791a4e88e114ed49',1,'Cel']]],
   ['gridlayout',['gridLayout',['../class_ui___main_window.html#ac4586abe48f0aabf940b0dc2df3772ed',1,'Ui_MainWindow']]],
   ['gridlayout_5f2',['gridLayout_2',['../class_ui___main_window.html#a6b2a0c5f7e8ff2a87134908dd770d2d2',1,'Ui_MainWindow']]],
   ['gridlayout_5f3',['gridLayout_3',['../class_ui___main_window.html#af42ea7d4c2e893181caad21e28166932',1,'Ui_MainWindow']]],

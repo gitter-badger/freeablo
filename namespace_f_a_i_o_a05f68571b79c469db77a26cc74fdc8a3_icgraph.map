@@ -1,8 +1,7 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$class_level_1_1_tile_set.html#a25885e5e41f2220ddec063dd66615054" title="Level::TileSet::TileSet" alt="" coords="172,5,321,35"/>
-<area shape="rect" id="node5" href="$class_cel_1_1_cel_file.html#a7aa56b24ad6db831061b2b1f4faed266" title="Cel::CelFile::CelFile" alt="" coords="177,59,316,88"/>
-<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213" title="FAIO::readCString" alt="" coords="181,112,312,141"/>
-<area shape="rect" id="node11" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="192,165,301,195"/>
-<area shape="rect" id="node13" href="$class_f_a_i_o_file_interface.html#a296920878fdde9a655191137f4ef410c" title="Seeks to a point in a previously opened file." alt="" coords="165,219,328,248"/>
-<area shape="rect" id="node9" href="$namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d" title="FAIO::readCStringFromWin32Binary" alt="" coords="376,112,611,141"/>
+<area shape="rect" id="node5" href="$namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213" title="FAIO::readCString" alt="" coords="181,59,312,88"/>
+<area shape="rect" id="node9" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="192,112,301,141"/>
+<area shape="rect" id="node11" href="$class_f_a_i_o_file_interface.html#a296920878fdde9a655191137f4ef410c" title="Seeks to a point in a previously opened file." alt="" coords="165,165,328,195"/>
+<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d" title="FAIO::readCStringFromWin32Binary" alt="" coords="376,59,611,88"/>
 </map>

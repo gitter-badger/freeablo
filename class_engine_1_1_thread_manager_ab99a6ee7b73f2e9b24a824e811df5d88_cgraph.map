@@ -36,16 +36,16 @@
 <area shape="rect" id="node68" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="1399,136,1545,165"/>
 <area shape="rect" id="node70" href="$namespace_render.html#a8b66dddb0313a61f2211531c6bfd433e" title="Render::getImageExtension" alt="" coords="1667,56,1851,85"/>
 <area shape="rect" id="node72" href="$class_misc_1_1_string_utils.html#a0f8cb0ac134191ba8417f74ab7dc4de6" title="Misc::StringUtils::ciEqual" alt="" coords="1673,109,1844,139"/>
-<area shape="rect" id="node74" href="$class_cel_1_1_cel_file.html#a3250aab7b67716ab35d84c4d4f1e76d8" title="if normal cel file, returns same as numFrames(), for an archive, the number of frames in each subcel..." alt="" coords="1676,163,1841,192"/>
-<area shape="rect" id="node76" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="1671,216,1847,245"/>
-<area shape="rect" id="node78" href="$namespace_f_a_i_o.html#a19fa8e6274a04bdeb5c54d1552e6248e" title="FAIO::FAfopen" alt="" coords="1901,136,2011,165"/>
-<area shape="rect" id="node90" href="$namespace_f_a_i_o.html#a9d547e56596e31ea2319e851e0010d90" title="FAIO::FAsize" alt="" coords="1905,189,2007,219"/>
-<area shape="rect" id="node92" href="$namespace_f_a_i_o.html#a68409e8d223eec973ba9abdce4e0c6d0" title="FAIO::FAfread" alt="" coords="1903,243,2009,272"/>
-<area shape="rect" id="node94" href="$namespace_f_a_i_o.html#aa25595114f47db59a9c880caf2c83022" title="FAIO::FAfclose" alt="" coords="1900,296,2012,325"/>
-<area shape="rect" id="node80" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="2073,111,2169,140"/>
-<area shape="rect" id="node82" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="2231,72,2388,101"/>
-<area shape="rect" id="node84" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="2261,151,2357,180"/>
-<area shape="rect" id="node88" href="$_s_file_open_file_ex_8cpp.html#af9090bd528ef09a1c58bdb3931be5ec3" title="SFileOpenFileEx" alt="" coords="2061,215,2181,244"/>
+<area shape="rect" id="node74" href="$class_cel_1_1_cel_file.html#a7d507525457f57e1e17486125a2599f1" title="Cel::CelFile::animLength" alt="" coords="1676,163,1841,192"/>
+<area shape="rect" id="node78" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="1671,243,1847,272"/>
+<area shape="rect" id="node76" href="$class_cel_1_1_cel_decoder.html#a415cd4fb18067cfc56481ea7fc6ab09f" title="Cel::CelDecoder::animationLength" alt="" coords="1900,136,2121,165"/>
+<area shape="rect" id="node80" href="$namespace_f_a_i_o.html#a19fa8e6274a04bdeb5c54d1552e6248e" title="FAIO::FAfopen" alt="" coords="1956,243,2065,272"/>
+<area shape="rect" id="node90" href="$namespace_f_a_i_o.html#a9d547e56596e31ea2319e851e0010d90" title="FAIO::FAsize" alt="" coords="1960,296,2061,325"/>
+<area shape="rect" id="node92" href="$namespace_f_a_i_o.html#a68409e8d223eec973ba9abdce4e0c6d0" title="FAIO::FAfread" alt="" coords="1957,349,2064,379"/>
+<area shape="rect" id="node94" href="$namespace_f_a_i_o.html#aa25595114f47db59a9c880caf2c83022" title="FAIO::FAfclose" alt="" coords="1955,189,2067,219"/>
+<area shape="rect" id="node82" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="2171,243,2267,272"/>
+<area shape="rect" id="node84" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="2316,204,2473,233"/>
+<area shape="rect" id="node86" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="2347,269,2443,299"/>
 <area shape="rect" id="node107" href="$class_f_a_render_1_1_sprite_manager.html#a3654837a02b4e588ea5a5f486dac3203" title="To be called from the render thread." alt="" coords="513,808,721,837"/>
 <area shape="rect" id="node109" href="$class_f_a_render_1_1_sprite_cache.html#aa02c7cd887f96554f6f2e62f2588d1fa" title="FARender::SpriteCache::clear" alt="" coords="808,848,1005,877"/>
 </map>

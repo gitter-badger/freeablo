@@ -4,16 +4,15 @@
 <area shape="rect" id="node7" href="$namespace_audio.html#aa723124f1d8ab10a57d74aac0df5d5cb" title="Audio::loadMusic" alt="" coords="187,112,309,141"/>
 <area shape="rect" id="node11" href="$namespace_audio.html#a640626e3ff91a05bf85051aa564d2be7" title="Audio::loadSound" alt="" coords="187,165,309,195"/>
 <area shape="rect" id="node15" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="160,219,336,248"/>
-<area shape="rect" id="node54" href="$class_cel_1_1_cel_file.html#a7aa56b24ad6db831061b2b1f4faed266" title="Cel::CelFile::CelFile" alt="" coords="179,272,317,301"/>
-<area shape="rect" id="node56" href="$class_cel_1_1_pal.html#a1374e8fdbb589d9ad415f4bc3f133ef2" title="Cel::Pal::Pal" alt="" coords="200,325,296,355"/>
-<area shape="rect" id="node58" href="$namespace_f_a_i_o.html#a50246eaf6ada4cf3d4baf2233e6ff303" title="FAIO::read32" alt="" coords="199,379,297,408"/>
-<area shape="rect" id="node60" href="$namespace_f_a_i_o.html#adbe05200f5a8daf26e51af1c19784e5d" title="FAIO::read16" alt="" coords="199,432,297,461"/>
-<area shape="rect" id="node62" href="$namespace_f_a_i_o.html#a0578f755094a703e3e31b577eb2381ff" title="FAIO::read8" alt="" coords="201,485,295,515"/>
-<area shape="rect" id="node64" href="$namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213" title="FAIO::readCString" alt="" coords="183,539,313,568"/>
-<area shape="rect" id="node68" href="$class_level_1_1_dun.html#aebe0dd29cec43011e986c36a9a52b7b7" title="Level::Dun::Dun" alt="" coords="189,592,307,621"/>
-<area shape="rect" id="node70" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="193,645,303,675"/>
-<area shape="rect" id="node72" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="195,699,301,728"/>
-<area shape="rect" id="node74" href="$class_f_a_i_o_file_interface.html#a79264fa428afc4411ef4d6d4eb25f38e" title="Reads data from a previously opened file." alt="" coords="167,752,329,781"/>
+<area shape="rect" id="node54" href="$class_cel_1_1_pal.html#a0fe143cf33cf944dd5e1befa7ae97593" title="Cel::Pal::Pal" alt="" coords="200,272,296,301"/>
+<area shape="rect" id="node56" href="$namespace_f_a_i_o.html#a50246eaf6ada4cf3d4baf2233e6ff303" title="FAIO::read32" alt="" coords="199,325,297,355"/>
+<area shape="rect" id="node58" href="$namespace_f_a_i_o.html#adbe05200f5a8daf26e51af1c19784e5d" title="FAIO::read16" alt="" coords="199,379,297,408"/>
+<area shape="rect" id="node60" href="$namespace_f_a_i_o.html#a0578f755094a703e3e31b577eb2381ff" title="FAIO::read8" alt="" coords="201,432,295,461"/>
+<area shape="rect" id="node62" href="$namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213" title="FAIO::readCString" alt="" coords="183,485,313,515"/>
+<area shape="rect" id="node66" href="$class_level_1_1_dun.html#aebe0dd29cec43011e986c36a9a52b7b7" title="Level::Dun::Dun" alt="" coords="189,539,307,568"/>
+<area shape="rect" id="node68" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="193,592,303,621"/>
+<area shape="rect" id="node70" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="195,645,301,675"/>
+<area shape="rect" id="node72" href="$class_f_a_i_o_file_interface.html#a79264fa428afc4411ef4d6d4eb25f38e" title="Reads data from a previously opened file." alt="" coords="167,699,329,728"/>
 <area shape="rect" id="node9" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="387,112,616,141"/>
 <area shape="rect" id="node13" href="$class_f_a_audio_1_1_audio_manager.html#a1c562d006a318f6c682dd80e6a278996" title="FAAudio::AudioManager::play" alt="" coords="404,165,599,195"/>
 <area shape="rect" id="node17" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="428,219,575,248"/>
@@ -33,5 +32,5 @@
 <area shape="rect" id="node51" href="$namespace_render.html#a6677c983912e2231696f463898e1a744" title="Render::loadTiledTexture" alt="" coords="676,405,844,435"/>
 <area shape="rect" id="node41" href="$class_f_a_render_1_1_sprite_cache.html#ada6cb9dd393a5d7a0a794f7fbf12b5e7" title="To be called from the render thread." alt="" coords="908,325,1095,355"/>
 <area shape="rect" id="node43" href="$class_f_a_render_1_1_sprite_manager.html#aba6477a1788e19b1e953fe354785807f" title="To be called from the render thread." alt="" coords="903,245,1100,275"/>
-<area shape="rect" id="node66" href="$namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d" title="FAIO::readCStringFromWin32Binary" alt="" coords="384,539,619,568"/>
+<area shape="rect" id="node64" href="$namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d" title="FAIO::readCStringFromWin32Binary" alt="" coords="384,485,619,515"/>
 </map>

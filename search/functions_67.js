@@ -248,8 +248,6 @@ var searchData=
   ['gf2_5fmatrix_5fsquare',['gf2_matrix_square',['../zlib_2crc32_8c.html#a797362ba54180ad549b381abfcde80c3',1,'crc32.c']]],
   ['gf2_5fmatrix_5ftimes',['gf2_matrix_times',['../zlib_2crc32_8c.html#a388bdea9cd672b42ff9d424c3357a71c',1,'crc32.c']]],
   ['graphicspage',['GraphicsPage',['../class_launcher_1_1_graphics_page.html#a4ce23ee1bb399a1528e3566dfc19361c',1,'Launcher::GraphicsPage']]],
-  ['greaterthanfirst',['greaterThanFirst',['../namespace_cel.html#a9d0a3591c085548f431278330c71042d',1,'Cel']]],
-  ['greaterthansecond',['greaterThanSecond',['../namespace_cel.html#a66479e176c7a5620791a4e88e114ed49',1,'Cel']]],
   ['gtest_5f1_5ftuple_5f',['GTEST_1_TUPLE_',['../namespacestd_1_1tr1.html#a395c10803bc36ce3c9f5a67354c257b5',1,'std::tr1']]],
   ['gtest_5f2_5ftuple_5f',['GTEST_2_TUPLE_',['../namespacestd_1_1tr1.html#a0f2292482b6202c06de044f1ef5ba8ec',1,'std::tr1']]],
   ['gtest_5f3_5ftuple_5f',['GTEST_3_TUPLE_',['../namespacestd_1_1tr1.html#a368170c49cc7d7f130c0564bbad01205',1,'std::tr1']]],

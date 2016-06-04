@@ -1,3 +1,5 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$class_private_code.html" title="PrivateCode" alt="" coords="7,5,100,35"/>
+<area shape="rect" id="node1" href="$class_prime_table.html" title="PrimeTable" alt="" coords="5,32,93,61"/>
+<area shape="rect" id="node3" href="$class_on_the_fly_prime_table.html" title="OnTheFlyPrimeTable" alt="" coords="155,5,299,35"/>
+<area shape="rect" id="node5" href="$class_pre_calculated_prime_table.html" title="PreCalculatedPrimeTable" alt="" coords="141,59,312,88"/>
 </map>

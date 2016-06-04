@@ -3,8 +3,6 @@ var searchData=
   ['last',['Last',['../class_queue.html#a430aca3d3b9f5fd588b215028d134b74',1,'Queue::Last()'],['../class_queue.html#a9b162059e84011b0088b22fc6dc8d188',1,'Queue::Last() const ']]],
   ['length',['Length',['../class_my_string.html#a878f7e0a327814729a04a412d7b95801',1,'MyString']]],
   ['lengthprocessed',['LengthProcessed',['../class_t_a_d_p_c_m_stream.html#a78f5f80d8374bb47353ea678596501b1',1,'TADPCMStream']]],
-  ['lessthanfirst',['lessThanFirst',['../namespace_cel.html#a6baa43c647b635d19832290ed64783a7',1,'Cel']]],
-  ['lessthansecond',['lessThanSecond',['../namespace_cel.html#aead8afcd6fb3e146b586bf2b147d8c4b',1,'Cel']]],
   ['level',['Level',['../class_level_1_1_level.html#ade4d4b0c78e61f91234f0ba66f92ddce',1,'Level::Level::Level(const Dun &amp;dun, const std::string &amp;tilPath, const std::string &amp;minPath, const std::string &amp;solPath, const std::string &amp;tileSetPath, const std::pair&lt; size_t, size_t &gt; &amp;downStairs, const std::pair&lt; size_t, size_t &gt; &amp;upStairs, std::map&lt; size_t, size_t &gt; doorMap, size_t previous, size_t next)'],['../class_level_1_1_level.html#a83d64f99ef71133190702dd4a953eac5',1,'Level::Level::Level()']]],
   ['levelup',['levelUp',['../class_f_a_world_1_1_actor_stats.html#a9437600fb7e625274e5f47c8755b1456',1,'FAWorld::ActorStats']]],
   ['libtomcalloc',['LibTomCalloc',['../crypt__libc_8c.html#ab306c8541dc18e414954d2c4769d6115',1,'crypt_libc.c']]],

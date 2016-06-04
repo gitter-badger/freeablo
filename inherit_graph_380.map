@@ -1,5 +1,3 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$struct_t_file_stream.html" title="TFileStream" alt="" coords="5,5,99,35"/>
-<area shape="rect" id="node3" href="$struct_t_block_stream.html" title="TBlockStream" alt="" coords="148,5,252,35"/>
-<area shape="rect" id="node5" href="$struct_t_encrypted_stream.html" title="TEncryptedStream" alt="" coords="301,5,432,35"/>
+<area shape="rect" id="node1" href="$struct_t_file_header2_ext.html" title="TFileHeader2Ext" alt="" coords="5,5,125,35"/>
 </map>

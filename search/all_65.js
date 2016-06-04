@@ -21,7 +21,7 @@ var searchData=
   ['empty',['empty',['../class_f_a_world_1_1_item.html#ae153cfeb18009ca67d76006522a84132',1,'FAWorld::Item']]],
   ['emptytesteventlistener',['EmptyTestEventListener',['../classtesting_1_1_empty_test_event_listener.html',1,'testing']]],
   ['enableif_3c_20true_20_3e',['EnableIf< true >',['../structtesting_1_1internal_1_1_enable_if_3_01true_01_4.html',1,'testing::internal']]],
-  ['enablescissor',['EnableScissor',['../struct_draw_command.html#a40d8f591b21860cb525d0e1c19312c60a73e9063b623ffcb4649be6c3c153ecc2',1,'DrawCommand::EnableScissor()'],['../struct_draw_command.html#a66f33eef18fcfc675e7100ca2afefef4',1,'DrawCommand::enableScissor()']]],
+  ['enablescissor',['enableScissor',['../struct_draw_command.html#a66f33eef18fcfc675e7100ca2afefef4',1,'DrawCommand::enableScissor()'],['../struct_draw_command.html#a40d8f591b21860cb525d0e1c19312c60a73e9063b623ffcb4649be6c3c153ecc2',1,'DrawCommand::EnableScissor()']]],
   ['enablescissorregion',['EnableScissorRegion',['../class_rocket_s_d_l2_renderer.html#a7ad7c990b8da972855f79def5b22a595',1,'RocketSDL2Renderer']]],
   ['enablewarn_2eh',['enablewarn.h',['../enablewarn_8h.html',1,'']]],
   ['encodemultipartformdata',['EncodeMultipartFormData',['../namespaceupload.html#a8508b71e682255af76e4c9d1dcfc59b5',1,'upload']]],

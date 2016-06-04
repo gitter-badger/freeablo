@@ -1,18 +1,19 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$_s_base_file_table_8cpp.html#a21e0e812c080c5c524a57788756b4ca2" title="TranslateBetTable" alt="" coords="120,85,248,115"/>
-<area shape="rect" id="node5" href="$_storm_common_8h.html#ad45353be81c314aa55264bd932a0758e" title="LoadBetTable" alt="" coords="297,59,399,88"/>
-<area shape="rect" id="node25" href="$_storm_common_8h.html#a214be2e28f839a8b8842cd1eb2f3ef71" title="SaveMPQTables" alt="" coords="464,112,584,141"/>
-<area shape="rect" id="node7" href="$_s_base_file_table_8cpp.html#a8dffbc95a113e2b15eb324cc91a029ab" title="BuildFileTable_HetBet" alt="" coords="448,59,600,88"/>
-<area shape="rect" id="node23" href="$_storm_lib_8h.html#a65c5c13489a621c481282da76b101e16" title="SFileGetFileInfo" alt="" coords="467,5,581,35"/>
-<area shape="rect" id="node9" href="$_storm_common_8h.html#a1c0a0948adf593a715e4cdc76bd252fd" title="BuildFileTable" alt="" coords="660,59,764,88"/>
-<area shape="rect" id="node11" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="836,59,961,88"/>
-<area shape="rect" id="node13" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="1064,5,1141,35"/>
-<area shape="rect" id="node17" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1032,112,1173,141"/>
-<area shape="rect" id="node21" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="1023,59,1183,88"/>
-<area shape="rect" id="node15" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1275,165,1325,195"/>
-<area shape="rect" id="node19" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1233,112,1367,141"/>
-<area shape="rect" id="node27" href="$_storm_lib_8h.html#a4a8f24295ae27ee91ab52a2cc8a0e9ba" title="SFileCompactArchive" alt="" coords="824,112,973,141"/>
-<area shape="rect" id="node29" href="$_storm_lib_8h.html#a5f3daefb5c0d87a791fcc42ec40714d2" title="SFileFlushArchive" alt="" coords="648,164,776,193"/>
-<area shape="rect" id="node32" href="$_storm_lib_8h.html#abe1ae9917ea665286bffd1524561fceb" title="SFileCloseArchive" alt="" coords="833,165,964,195"/>
-<area shape="rect" id="node34" href="$namespace_f_a_i_o.html#ae82e5f53b89d70f240951c564bdff66a" title="FAIO::quit" alt="" coords="1061,165,1144,195"/>
+<area shape="rect" id="node3" href="$_s_base_file_table_8cpp.html#a21e0e812c080c5c524a57788756b4ca2" title="TranslateBetTable" alt="" coords="120,87,248,116"/>
+<area shape="rect" id="node5" href="$_storm_common_8h.html#ad45353be81c314aa55264bd932a0758e" title="LoadBetTable" alt="" coords="297,112,399,141"/>
+<area shape="rect" id="node27" href="$_storm_common_8h.html#a214be2e28f839a8b8842cd1eb2f3ef71" title="SaveMPQTables" alt="" coords="464,59,584,88"/>
+<area shape="rect" id="node7" href="$_s_base_file_table_8cpp.html#a8dffbc95a113e2b15eb324cc91a029ab" title="BuildFileTable_HetBet" alt="" coords="448,112,600,141"/>
+<area shape="rect" id="node25" href="$_storm_lib_8h.html#a65c5c13489a621c481282da76b101e16" title="SFileGetFileInfo" alt="" coords="467,165,581,195"/>
+<area shape="rect" id="node9" href="$_storm_common_8h.html#a1c0a0948adf593a715e4cdc76bd252fd" title="BuildFileTable" alt="" coords="660,112,764,141"/>
+<area shape="rect" id="node11" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="836,112,961,141"/>
+<area shape="rect" id="node13" href="$fontgenerator_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1077,219,1128,248"/>
+<area shape="rect" id="node15" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="1064,165,1141,195"/>
+<area shape="rect" id="node19" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1032,59,1173,88"/>
+<area shape="rect" id="node23" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="1023,112,1183,141"/>
+<area shape="rect" id="node17" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1275,5,1325,35"/>
+<area shape="rect" id="node21" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1233,59,1367,88"/>
+<area shape="rect" id="node29" href="$_storm_lib_8h.html#a4a8f24295ae27ee91ab52a2cc8a0e9ba" title="SFileCompactArchive" alt="" coords="824,5,973,35"/>
+<area shape="rect" id="node31" href="$_storm_lib_8h.html#a5f3daefb5c0d87a791fcc42ec40714d2" title="SFileFlushArchive" alt="" coords="648,59,776,88"/>
+<area shape="rect" id="node34" href="$_storm_lib_8h.html#abe1ae9917ea665286bffd1524561fceb" title="SFileCloseArchive" alt="" coords="833,59,964,88"/>
+<area shape="rect" id="node36" href="$namespace_f_a_i_o.html#ae82e5f53b89d70f240951c564bdff66a" title="FAIO::quit" alt="" coords="1061,5,1144,35"/>
 </map>

@@ -1,3 +1,5 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$structgz__header__s.html" title="gz_header_s" alt="" coords="5,5,101,35"/>
+<area shape="rect" id="node1" href="$classgtest__xml__test__utils_1_1_g_test_x_m_l_test_case.html" title="gtest_xml_test_utils.GTestXMLTestCase" alt="" coords="7,32,268,61"/>
+<area shape="rect" id="node3" href="$classgtest__xml__outfiles__test_1_1_g_test_x_m_l_out_files_test.html" title="gtest_xml_outfiles_test.GTestXMLOutFilesTest" alt="" coords="332,5,631,35"/>
+<area shape="rect" id="node5" href="$classgtest__xml__output__unittest_1_1_g_test_x_m_l_output_unit_test.html" title="gtest_xml_output_unittest.GTestXMLOutputUnitTest" alt="" coords="317,59,645,88"/>
 </map>

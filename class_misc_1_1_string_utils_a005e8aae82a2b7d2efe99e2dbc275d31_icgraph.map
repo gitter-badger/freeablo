@@ -1,10 +1,8 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$namespace_cel.html#a8b0f7a8271312959f51b91ddc45d23e3" title="Cel::isTileCel" alt="" coords="284,5,385,35"/>
-<area shape="rect" id="node7" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="280,59,389,88"/>
-<area shape="rect" id="node9" href="$class_misc_1_1_string_utils.html#a79a0bc2bbd6fa14a52eb4401418bba87" title="Misc::StringUtils::ciEndsWith" alt="" coords="237,112,432,141"/>
-<area shape="rect" id="node16" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="713,139,769,168"/>
-<area shape="rect" id="node5" href="$class_cel_1_1_cel_file.html#a7aa56b24ad6db831061b2b1f4faed266" title="Cel::CelFile::CelFile" alt="" coords="481,5,620,35"/>
-<area shape="rect" id="node12" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="484,112,617,141"/>
-<area shape="rect" id="node18" href="$cel_8cpp.html#aa961b58ed42f67771ef42d9e03f0155a" title="hashPngFolder" alt="" coords="496,59,605,88"/>
-<area shape="rect" id="node14" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="671,72,812,101"/>
+<area shape="rect" id="node3" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="280,5,389,35"/>
+<area shape="rect" id="node5" href="$class_misc_1_1_string_utils.html#a79a0bc2bbd6fa14a52eb4401418bba87" title="Misc::StringUtils::ciEndsWith" alt="" coords="237,59,432,88"/>
+<area shape="rect" id="node11" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="708,85,764,115"/>
+<area shape="rect" id="node7" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="481,59,615,88"/>
+<area shape="rect" id="node13" href="$cel_8cpp.html#aa961b58ed42f67771ef42d9e03f0155a" title="hashPngFolder" alt="" coords="493,5,603,35"/>
+<area shape="rect" id="node9" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="665,19,807,48"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_cel_1_1_cel_file.html#ad307fd30a1a89e2e7d5ac11fb4076f71" title="Cel::CelFile::numFrames" alt="" coords="292,5,460,35"/>
-<area shape="rect" id="node5" href="$namespace_render.html#a83ee7f6e3cb7a513ab4bac2c05614c26" title="Render::createTransparentSurface" alt="" coords="265,59,487,88"/>
-<area shape="rect" id="node9" href="$namespace_render.html#a8384399aba8d9bca82788367f744016f" title="Render::drawFrame" alt="" coords="308,112,444,141"/>
-<area shape="rect" id="node7" href="$namespace_render.html#aaa59a6d2c1fc80969f9af8a563250bf0" title="Render::clearTransparentSurface" alt="" coords="537,59,751,88"/>
-<area shape="rect" id="node11" href="$namespace_render.html#a255d3d88fd6f86eb173484b03e176d23" title="Render::setpixel" alt="" coords="585,112,703,141"/>
+<area shape="rect" id="node3" href="$class_cel_1_1_cel_file.html#a103a98a40c2cf0a0ea2089bfbacf5081" title="Cel::CelFile::numFrames" alt="" coords="292,5,460,35"/>
+<area shape="rect" id="node7" href="$namespace_render.html#a83ee7f6e3cb7a513ab4bac2c05614c26" title="Render::createTransparentSurface" alt="" coords="265,59,487,88"/>
+<area shape="rect" id="node11" href="$namespace_render.html#a8384399aba8d9bca82788367f744016f" title="Render::drawFrame" alt="" coords="308,112,444,141"/>
+<area shape="rect" id="node5" href="$class_cel_1_1_cel_decoder.html#a479b654e61ded68536bb1ba9f067b221" title="Cel::CelDecoder::numFrames" alt="" coords="547,5,741,35"/>
+<area shape="rect" id="node9" href="$namespace_render.html#aaa59a6d2c1fc80969f9af8a563250bf0" title="Render::clearTransparentSurface" alt="" coords="537,59,751,88"/>
+<area shape="rect" id="node13" href="$namespace_render.html#a255d3d88fd6f86eb173484b03e176d23" title="Render::setpixel" alt="" coords="585,112,703,141"/>
 </map>

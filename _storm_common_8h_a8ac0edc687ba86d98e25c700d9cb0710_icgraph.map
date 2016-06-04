@@ -1,10 +1,11 @@
 <map id="G" name="G">
 <area shape="rect" id="node4" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="376,5,517,35"/>
 <area shape="rect" id="node8" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="189,112,315,141"/>
-<area shape="rect" id="node17" href="$_storm_lib_8h.html#abe1ae9917ea665286bffd1524561fceb" title="SFileCloseArchive" alt="" coords="187,59,317,88"/>
+<area shape="rect" id="node19" href="$_storm_lib_8h.html#abe1ae9917ea665286bffd1524561fceb" title="SFileCloseArchive" alt="" coords="187,59,317,88"/>
 <area shape="rect" id="node6" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="577,5,711,35"/>
-<area shape="rect" id="node10" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="408,112,485,141"/>
-<area shape="rect" id="node15" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="367,165,527,195"/>
-<area shape="rect" id="node12" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="619,85,669,115"/>
-<area shape="rect" id="node19" href="$namespace_f_a_i_o.html#ae82e5f53b89d70f240951c564bdff66a" title="FAIO::quit" alt="" coords="405,59,488,88"/>
+<area shape="rect" id="node10" href="$fontgenerator_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="421,112,472,141"/>
+<area shape="rect" id="node12" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="408,165,485,195"/>
+<area shape="rect" id="node17" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="367,219,527,248"/>
+<area shape="rect" id="node14" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="619,112,669,141"/>
+<area shape="rect" id="node21" href="$namespace_f_a_i_o.html#ae82e5f53b89d70f240951c564bdff66a" title="FAIO::quit" alt="" coords="405,59,488,88"/>
 </map>

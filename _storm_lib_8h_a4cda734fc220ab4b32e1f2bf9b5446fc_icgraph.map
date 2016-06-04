@@ -1,12 +1,11 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$_storm_lib_8h.html#a6e34d029cecd26331b44985dd5622927" title="SFileSetFilePointer" alt="" coords="191,179,324,208"/>
-<area shape="rect" id="node5" href="$namespace_f_a_i_o.html#a05f68571b79c469db77a26cc74fdc8a3" title="FAIO::FAfseek" alt="" coords="375,139,484,168"/>
-<area shape="rect" id="node19" href="$namespace_f_a_i_o.html#ac08b4b781701ddb250389584e532cfee" title="FAIO::FAftell" alt="" coords="380,219,479,248"/>
+<area shape="rect" id="node3" href="$_storm_lib_8h.html#a6e34d029cecd26331b44985dd5622927" title="SFileSetFilePointer" alt="" coords="191,152,324,181"/>
+<area shape="rect" id="node5" href="$namespace_f_a_i_o.html#a05f68571b79c469db77a26cc74fdc8a3" title="FAIO::FAfseek" alt="" coords="375,112,484,141"/>
+<area shape="rect" id="node17" href="$namespace_f_a_i_o.html#ac08b4b781701ddb250389584e532cfee" title="FAIO::FAftell" alt="" coords="380,192,479,221"/>
 <area shape="rect" id="node7" href="$class_level_1_1_tile_set.html#a25885e5e41f2220ddec063dd66615054" title="Level::TileSet::TileSet" alt="" coords="540,5,689,35"/>
-<area shape="rect" id="node9" href="$class_cel_1_1_cel_file.html#a7aa56b24ad6db831061b2b1f4faed266" title="Cel::CelFile::CelFile" alt="" coords="545,59,684,88"/>
-<area shape="rect" id="node11" href="$namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213" title="FAIO::readCString" alt="" coords="549,112,680,141"/>
-<area shape="rect" id="node15" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="560,165,669,195"/>
-<area shape="rect" id="node17" href="$class_f_a_i_o_file_interface.html#a296920878fdde9a655191137f4ef410c" title="Seeks to a point in a previously opened file." alt="" coords="533,219,696,248"/>
-<area shape="rect" id="node13" href="$namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d" title="FAIO::readCStringFromWin32Binary" alt="" coords="744,112,979,141"/>
-<area shape="rect" id="node21" href="$class_f_a_i_o_file_interface.html#a6f40abe000b3ba4870610a5e491cf512" title="Returns the current position of the file pointer." alt="" coords="537,272,692,301"/>
+<area shape="rect" id="node9" href="$namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213" title="FAIO::readCString" alt="" coords="549,59,680,88"/>
+<area shape="rect" id="node13" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="560,112,669,141"/>
+<area shape="rect" id="node15" href="$class_f_a_i_o_file_interface.html#a296920878fdde9a655191137f4ef410c" title="Seeks to a point in a previously opened file." alt="" coords="533,165,696,195"/>
+<area shape="rect" id="node11" href="$namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d" title="FAIO::readCStringFromWin32Binary" alt="" coords="744,59,979,88"/>
+<area shape="rect" id="node19" href="$class_f_a_i_o_file_interface.html#a6f40abe000b3ba4870610a5e491cf512" title="Returns the current position of the file pointer." alt="" coords="537,219,692,248"/>
 </map>

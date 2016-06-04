@@ -1,51 +1,51 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="299,729,496,759"/>
-<area shape="rect" id="node116" href="$class_f_a_render_1_1_f_a_sprite_group.html#a6a3acc826355578573d25afe1e614a53" title="FARender::FASpriteGroup::getCacheIndex" alt="" coords="263,783,532,812"/>
-<area shape="rect" id="node118" href="$namespace_render.html#ae8490bd4dd892c99b383fe597d8c51e6" title="Render::drawCursor" alt="" coords="328,836,467,865"/>
-<area shape="rect" id="node122" href="$class_f_a_render_1_1_f_a_sprite_group.html#a9589a5e95775b4a2eb6add446df7c4b8" title="FARender::FASpriteGroup::getWidth" alt="" coords="280,889,515,919"/>
-<area shape="rect" id="node124" href="$class_f_a_render_1_1_f_a_sprite_group.html#aa295382f7e191a3e57b0cb1b84fbbc6d" title="FARender::FASpriteGroup::getHeight" alt="" coords="279,943,516,972"/>
-<area shape="rect" id="node5" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="581,729,768,759"/>
-<area shape="rect" id="node7" href="$class_f_a_render_1_1_sprite_cache.html#ac89d731619ab8f11003e563b3885dfed" title="To be called from the game thread." alt="" coords="817,649,1108,679"/>
-<area shape="rect" id="node9" href="$class_f_a_render_1_1_sprite_cache.html#a2b08caf45b2056810d72c42572947f8f" title="Can be called from any thread." alt="" coords="829,703,1096,732"/>
-<area shape="rect" id="node11" href="$class_misc_1_1_string_utils.html#ad4f3a03d1fd36d62265a3272da3e2a58" title="Misc::StringUtils::split" alt="" coords="888,756,1037,785"/>
-<area shape="rect" id="node13" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="889,809,1036,839"/>
-<area shape="rect" id="node15" href="$namespace_render.html#a8b66dddb0313a61f2211531c6bfd433e" title="Render::getImageExtension" alt="" coords="1157,729,1341,759"/>
-<area shape="rect" id="node17" href="$class_misc_1_1_string_utils.html#a0f8cb0ac134191ba8417f74ab7dc4de6" title="Misc::StringUtils::ciEqual" alt="" coords="1164,783,1335,812"/>
-<area shape="rect" id="node19" href="$class_cel_1_1_cel_file.html#a3250aab7b67716ab35d84c4d4f1e76d8" title="if normal cel file, returns same as numFrames(), for an archive, the number of frames in each subcel..." alt="" coords="1167,836,1332,865"/>
-<area shape="rect" id="node21" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="1161,889,1337,919"/>
-<area shape="rect" id="node23" href="$namespace_f_a_i_o.html#a19fa8e6274a04bdeb5c54d1552e6248e" title="FAIO::FAfopen" alt="" coords="1392,189,1501,219"/>
-<area shape="rect" id="node91" href="$namespace_f_a_i_o.html#a9d547e56596e31ea2319e851e0010d90" title="FAIO::FAsize" alt="" coords="1396,940,1497,969"/>
-<area shape="rect" id="node99" href="$namespace_f_a_i_o.html#a68409e8d223eec973ba9abdce4e0c6d0" title="FAIO::FAfread" alt="" coords="1393,1017,1500,1047"/>
-<area shape="rect" id="node109" href="$namespace_f_a_i_o.html#aa25595114f47db59a9c880caf2c83022" title="FAIO::FAfclose" alt="" coords="1391,849,1503,879"/>
-<area shape="rect" id="node25" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="1564,137,1660,167"/>
-<area shape="rect" id="node27" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="1721,5,1879,35"/>
-<area shape="rect" id="node29" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="1752,163,1848,192"/>
-<area shape="rect" id="node47" href="$_s_file_open_file_ex_8cpp.html#af9090bd528ef09a1c58bdb3931be5ec3" title="SFileOpenFileEx" alt="" coords="1552,421,1672,451"/>
-<area shape="rect" id="node31" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="2147,371,2275,400"/>
-<area shape="rect" id="node33" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="1947,267,2080,296"/>
-<area shape="rect" id="node35" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="1947,109,2080,139"/>
-<area shape="rect" id="node41" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="1943,213,2084,243"/>
-<area shape="rect" id="node43" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="1967,688,2060,717"/>
-<area shape="rect" id="node37" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="2149,188,2272,217"/>
-<area shape="rect" id="node39" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="2324,253,2455,283"/>
-<area shape="rect" id="node53" href="$_s_file_open_file_ex_8cpp.html#afa582c7f26b956201e18cd3677caefb8" title="OpenPatchedFile" alt="" coords="1739,475,1861,504"/>
-<area shape="rect" id="node60" href="$_s_base_file_table_8cpp.html#af5707ce5a7b11e9d533b24cda45ce7b1" title="GetFileEntryAny" alt="" coords="1741,59,1859,88"/>
-<area shape="rect" id="node64" href="$_s_base_common_8cpp.html#af3e146ce1fda8ffaf72d6391956f29a3" title="CreateFileHandle" alt="" coords="1739,528,1861,557"/>
-<area shape="rect" id="node66" href="$_s_base_file_table_8cpp.html#a551f6e01e95accafb0042ae9b8d81e61" title="AllocateFileName" alt="" coords="1737,317,1863,347"/>
-<area shape="rect" id="node70" href="$_s_base_common_8cpp.html#af48f792817421c6ae782d3ea4f6e8772" title="DecryptFileKey" alt="" coords="1744,421,1856,451"/>
-<area shape="rect" id="node76" href="$_s_file_get_file_info_8cpp.html#a3909beee4f92f439ad52faef54a6a296" title="SFileGetFileName" alt="" coords="1736,581,1864,611"/>
-<area shape="rect" id="node86" href="$_file_stream_8cpp.html#a10b9a284527af83a44533867b0aff0fc" title="GetLastError" alt="" coords="1965,1069,2061,1099"/>
-<area shape="rect" id="node88" href="$_s_base_common_8cpp.html#a18f4fd98a66477ad38b6b12f27cf2ad0" title="FreeFileHandle" alt="" coords="1745,760,1855,789"/>
-<area shape="rect" id="node55" href="$_s_base_file_table_8cpp.html#a90069131da300c2a6d9ff0b7a1b41806" title="GetFileEntryExact" alt="" coords="1949,528,2077,557"/>
-<area shape="rect" id="node72" href="$_file_stream_8cpp.html#a4182f61165951a9334874d488e089844" title="GetPlainFileName" alt="" coords="1949,421,2077,451"/>
-<area shape="rect" id="node74" href="$_s_base_common_8cpp.html#a253e7854c54b950673d285bc8ceba83a" title="HashString" alt="" coords="1971,475,2056,504"/>
-<area shape="rect" id="node78" href="$_s_base_common_8cpp.html#a3216d5c62d758be099dfa3324cf34dd3" title="IsValidFileHandle" alt="" coords="1952,863,2075,892"/>
-<area shape="rect" id="node81" href="$_file_stream_8cpp.html#a900badc0a3d7dff123d1c8a0b45c3c70" title="FileStream_GetFileName" alt="" coords="1929,581,2097,611"/>
-<area shape="rect" id="node83" href="$_file_stream_8cpp.html#ac501502e4d0f6f5904f24190566c3beb" title="CopyFileName" alt="" coords="1959,635,2068,664"/>
-<area shape="rect" id="node93" href="$_s_file_read_file_8cpp.html#a1d30c5a49fb9c1c1669884646282e4d3" title="SFileGetFileSize" alt="" coords="1740,965,1860,995"/>
-<area shape="rect" id="node96" href="$_file_stream_8cpp.html#af505319882f0f4aaf396b6d061a2275b" title="FileStream_GetSize" alt="" coords="1944,965,2083,995"/>
-<area shape="rect" id="node101" href="$_s_file_read_file_8cpp.html#a3c81a68cbecef70ab57c9d3145ef8b7d" title="SFileReadFile" alt="" coords="1560,1017,1664,1047"/>
-<area shape="rect" id="node105" href="$_s_base_common_8cpp.html#ace1d87f4df2379a25c5516fbcc027d0c" title="AllocatePatchInfo" alt="" coords="1737,1069,1863,1099"/>
-<area shape="rect" id="node111" href="$_s_file_open_file_ex_8cpp.html#a49a09a38e6dc3b1afd95163a1c9052c6" title="SFileCloseFile" alt="" coords="1559,837,1665,867"/>
-<area shape="rect" id="node120" href="$namespace_render.html#a725f4e1357ec4979c7ed97f447c7d5a6" title="Render::drawAt" alt="" coords="619,836,731,865"/>
+<area shape="rect" id="node3" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="299,433,496,463"/>
+<area shape="rect" id="node116" href="$class_f_a_render_1_1_f_a_sprite_group.html#a6a3acc826355578573d25afe1e614a53" title="FARender::FASpriteGroup::getCacheIndex" alt="" coords="263,487,532,516"/>
+<area shape="rect" id="node118" href="$namespace_render.html#ae8490bd4dd892c99b383fe597d8c51e6" title="Render::drawCursor" alt="" coords="328,540,467,569"/>
+<area shape="rect" id="node122" href="$class_f_a_render_1_1_f_a_sprite_group.html#a9589a5e95775b4a2eb6add446df7c4b8" title="FARender::FASpriteGroup::getWidth" alt="" coords="280,593,515,623"/>
+<area shape="rect" id="node124" href="$class_f_a_render_1_1_f_a_sprite_group.html#aa295382f7e191a3e57b0cb1b84fbbc6d" title="FARender::FASpriteGroup::getHeight" alt="" coords="279,647,516,676"/>
+<area shape="rect" id="node5" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="581,433,768,463"/>
+<area shape="rect" id="node7" href="$class_f_a_render_1_1_sprite_cache.html#ac89d731619ab8f11003e563b3885dfed" title="To be called from the game thread." alt="" coords="817,353,1108,383"/>
+<area shape="rect" id="node9" href="$class_f_a_render_1_1_sprite_cache.html#a2b08caf45b2056810d72c42572947f8f" title="Can be called from any thread." alt="" coords="829,407,1096,436"/>
+<area shape="rect" id="node11" href="$class_misc_1_1_string_utils.html#ad4f3a03d1fd36d62265a3272da3e2a58" title="Misc::StringUtils::split" alt="" coords="888,460,1037,489"/>
+<area shape="rect" id="node13" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="889,513,1036,543"/>
+<area shape="rect" id="node15" href="$namespace_render.html#a8b66dddb0313a61f2211531c6bfd433e" title="Render::getImageExtension" alt="" coords="1157,433,1341,463"/>
+<area shape="rect" id="node17" href="$class_misc_1_1_string_utils.html#a0f8cb0ac134191ba8417f74ab7dc4de6" title="Misc::StringUtils::ciEqual" alt="" coords="1164,487,1335,516"/>
+<area shape="rect" id="node19" href="$class_cel_1_1_cel_file.html#a7d507525457f57e1e17486125a2599f1" title="Cel::CelFile::animLength" alt="" coords="1167,540,1332,569"/>
+<area shape="rect" id="node23" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="1161,761,1337,791"/>
+<area shape="rect" id="node21" href="$class_cel_1_1_cel_decoder.html#a415cd4fb18067cfc56481ea7fc6ab09f" title="Cel::CelDecoder::animationLength" alt="" coords="1391,267,1612,296"/>
+<area shape="rect" id="node25" href="$namespace_f_a_i_o.html#a19fa8e6274a04bdeb5c54d1552e6248e" title="FAIO::FAfopen" alt="" coords="1447,320,1556,349"/>
+<area shape="rect" id="node91" href="$namespace_f_a_i_o.html#a9d547e56596e31ea2319e851e0010d90" title="FAIO::FAsize" alt="" coords="1451,864,1552,893"/>
+<area shape="rect" id="node99" href="$namespace_f_a_i_o.html#a68409e8d223eec973ba9abdce4e0c6d0" title="FAIO::FAfread" alt="" coords="1448,1017,1555,1047"/>
+<area shape="rect" id="node109" href="$namespace_f_a_i_o.html#aa25595114f47db59a9c880caf2c83022" title="FAIO::FAfclose" alt="" coords="1445,761,1557,791"/>
+<area shape="rect" id="node27" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="1673,163,1769,192"/>
+<area shape="rect" id="node29" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="1831,5,1988,35"/>
+<area shape="rect" id="node31" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="1861,163,1957,192"/>
+<area shape="rect" id="node49" href="$_s_file_open_file_ex_8cpp.html#af9090bd528ef09a1c58bdb3931be5ec3" title="SFileOpenFileEx" alt="" coords="1661,424,1781,453"/>
+<area shape="rect" id="node33" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="2256,636,2384,665"/>
+<area shape="rect" id="node35" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="2056,109,2189,139"/>
+<area shape="rect" id="node37" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="2056,213,2189,243"/>
+<area shape="rect" id="node43" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="2052,267,2193,296"/>
+<area shape="rect" id="node45" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="2076,584,2169,613"/>
+<area shape="rect" id="node39" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="2259,267,2381,296"/>
+<area shape="rect" id="node41" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="2433,136,2564,165"/>
+<area shape="rect" id="node55" href="$_s_file_open_file_ex_8cpp.html#afa582c7f26b956201e18cd3677caefb8" title="OpenPatchedFile" alt="" coords="1848,477,1971,507"/>
+<area shape="rect" id="node62" href="$_s_base_file_table_8cpp.html#af5707ce5a7b11e9d533b24cda45ce7b1" title="GetFileEntryAny" alt="" coords="1851,371,1968,400"/>
+<area shape="rect" id="node66" href="$_s_base_common_8cpp.html#af3e146ce1fda8ffaf72d6391956f29a3" title="CreateFileHandle" alt="" coords="1848,317,1971,347"/>
+<area shape="rect" id="node68" href="$_s_base_file_table_8cpp.html#a551f6e01e95accafb0042ae9b8d81e61" title="AllocateFileName" alt="" coords="1847,59,1972,88"/>
+<area shape="rect" id="node72" href="$_s_base_common_8cpp.html#af48f792817421c6ae782d3ea4f6e8772" title="DecryptFileKey" alt="" coords="1853,424,1965,453"/>
+<area shape="rect" id="node78" href="$_s_file_get_file_info_8cpp.html#a3909beee4f92f439ad52faef54a6a296" title="SFileGetFileName" alt="" coords="1845,581,1973,611"/>
+<area shape="rect" id="node86" href="$_file_stream_8cpp.html#a10b9a284527af83a44533867b0aff0fc" title="GetLastError" alt="" coords="2075,1069,2171,1099"/>
+<area shape="rect" id="node88" href="$_s_base_common_8cpp.html#a18f4fd98a66477ad38b6b12f27cf2ad0" title="FreeFileHandle" alt="" coords="1855,709,1964,739"/>
+<area shape="rect" id="node57" href="$_s_base_file_table_8cpp.html#a90069131da300c2a6d9ff0b7a1b41806" title="GetFileEntryExact" alt="" coords="2059,477,2187,507"/>
+<area shape="rect" id="node74" href="$_file_stream_8cpp.html#a4182f61165951a9334874d488e089844" title="GetPlainFileName" alt="" coords="2059,424,2187,453"/>
+<area shape="rect" id="node76" href="$_s_base_common_8cpp.html#a253e7854c54b950673d285bc8ceba83a" title="HashString" alt="" coords="2080,371,2165,400"/>
+<area shape="rect" id="node80" href="$_s_base_common_8cpp.html#a3216d5c62d758be099dfa3324cf34dd3" title="IsValidFileHandle" alt="" coords="2061,812,2184,841"/>
+<area shape="rect" id="node83" href="$_file_stream_8cpp.html#a900badc0a3d7dff123d1c8a0b45c3c70" title="FileStream_GetFileName" alt="" coords="2039,531,2207,560"/>
+<area shape="rect" id="node93" href="$_s_file_read_file_8cpp.html#a1d30c5a49fb9c1c1669884646282e4d3" title="SFileGetFileSize" alt="" coords="1849,915,1969,944"/>
+<area shape="rect" id="node96" href="$_file_stream_8cpp.html#af505319882f0f4aaf396b6d061a2275b" title="FileStream_GetSize" alt="" coords="2053,915,2192,944"/>
+<area shape="rect" id="node101" href="$_s_file_read_file_8cpp.html#a3c81a68cbecef70ab57c9d3145ef8b7d" title="SFileReadFile" alt="" coords="1669,1017,1773,1047"/>
+<area shape="rect" id="node105" href="$_s_base_common_8cpp.html#ace1d87f4df2379a25c5516fbcc027d0c" title="AllocatePatchInfo" alt="" coords="1847,1069,1972,1099"/>
+<area shape="rect" id="node111" href="$_s_file_open_file_ex_8cpp.html#a49a09a38e6dc3b1afd95163a1c9052c6" title="SFileCloseFile" alt="" coords="1668,761,1775,791"/>
+<area shape="rect" id="node120" href="$namespace_render.html#a725f4e1357ec4979c7ed97f447c7d5a6" title="Render::drawAt" alt="" coords="619,540,731,569"/>
 </map>

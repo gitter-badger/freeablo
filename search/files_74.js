@@ -4,8 +4,6 @@ var searchData=
   ['threadmanager_2eh',['threadmanager.h',['../threadmanager_8h.html',1,'']]],
   ['threads_2ec',['Threads.c',['../_threads_8c.html',1,'']]],
   ['threads_2eh',['Threads.h',['../_threads_8h.html',1,'']]],
-  ['tiledecoding_2ecpp',['tiledecoding.cpp',['../tiledecoding_8cpp.html',1,'']]],
-  ['tiledecoding_2eh',['tiledecoding.h',['../tiledecoding_8h.html',1,'']]],
   ['tileset_2ecpp',['tileset.cpp',['../components_2level_2tileset_8cpp.html',1,'']]],
   ['tileset_2ecpp',['tileset.cpp',['../apps_2freeablo_2falevelgen_2tileset_8cpp.html',1,'']]],
   ['tileset_2eh',['tileset.h',['../apps_2freeablo_2falevelgen_2tileset_8h.html',1,'']]],

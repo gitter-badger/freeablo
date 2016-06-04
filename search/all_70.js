@@ -11,7 +11,7 @@ var searchData=
   ['page',['Page',['../class_launcher_1_1_page.html',1,'Launcher']]],
   ['page_2eh',['page.h',['../page_8h.html',1,'']]],
   ['pageswidget',['pagesWidget',['../class_ui___main_window.html#abaefeae20268d23656c42b514760c401',1,'Ui_MainWindow']]],
-  ['pal',['Pal',['../class_cel_1_1_pal.html#a1374e8fdbb589d9ad415f4bc3f133ef2',1,'Cel::Pal']]],
+  ['pal',['Pal',['../class_cel_1_1_pal.html#a09b14aee2e2d21fd212f282ac63f6ae3',1,'Cel::Pal::Pal()'],['../class_cel_1_1_pal.html#a0fe143cf33cf944dd5e1befa7ae97593',1,'Cel::Pal::Pal(const std::string &amp;filename)']]],
   ['pal',['Pal',['../class_cel_1_1_pal.html',1,'Cel']]],
   ['pal_2ecpp',['pal.cpp',['../pal_8cpp.html',1,'']]],
   ['pal_2eh',['pal.h',['../pal_8h.html',1,'']]],

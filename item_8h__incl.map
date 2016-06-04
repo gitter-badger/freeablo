@@ -1,10 +1,12 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$baseitem_8h.html" title="diabloexe/baseitem.h" alt="" coords="325,83,469,112"/>
-<area shape="rect" id="node17" href="$uniqueitem_8h.html" title="diabloexe/uniqueitem.h" alt="" coords="5,83,160,112"/>
-<area shape="rect" id="node22" href="$affix_8h.html" title="diabloexe/affix.h" alt="" coords="184,83,301,112"/>
-<area shape="rect" id="node28" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="493,83,581,112"/>
-<area shape="rect" id="node39" href="$celframe_8h.html" title="celframe.h" alt="" coords="625,160,708,189"/>
-<area shape="rect" id="node11" href="$faio_8h.html" title="faio/faio.h" alt="" coords="76,160,153,189"/>
-<area shape="rect" id="node34" href="$pal_8h.html" title="pal.h" alt="" coords="449,160,500,189"/>
-<area shape="rect" id="node43" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="641,237,756,267"/>
+<area shape="rect" id="node3" href="$baseitem_8h.html" title="diabloexe/baseitem.h" alt="" coords="187,237,331,267"/>
+<area shape="rect" id="node17" href="$uniqueitem_8h.html" title="diabloexe/uniqueitem.h" alt="" coords="5,237,160,267"/>
+<area shape="rect" id="node22" href="$affix_8h.html" title="diabloexe/affix.h" alt="" coords="355,237,472,267"/>
+<area shape="rect" id="node28" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="1229,83,1317,112"/>
+<area shape="rect" id="node39" href="$celframe_8h.html" title="celframe.h" alt="" coords="1361,237,1444,267"/>
+<area shape="rect" id="node11" href="$faio_8h.html" title="faio/faio.h" alt="" coords="41,315,119,344"/>
+<area shape="rect" id="node34" href="$pal_8h.html" title="pal.h" alt="" coords="1241,315,1292,344"/>
+<area shape="rect" id="node48" href="$celdecoder_8h.html" title="celdecoder.h" alt="" coords="1081,160,1177,189"/>
+<area shape="rect" id="node43" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="1569,315,1684,344"/>
+<area shape="rect" id="node55" href="$settings_8h.html" title="settings/settings.h" alt="" coords="939,237,1067,267"/>
 </map>

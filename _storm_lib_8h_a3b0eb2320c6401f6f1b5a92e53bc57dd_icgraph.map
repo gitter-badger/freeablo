@@ -1,9 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$_storm_lib_8h.html#a65c5c13489a621c481282da76b101e16" title="SFileGetFileInfo" alt="" coords="207,5,321,35"/>
-<area shape="rect" id="node5" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="201,59,327,88"/>
-<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="419,5,496,35"/>
-<area shape="rect" id="node11" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="387,59,528,88"/>
-<area shape="rect" id="node15" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="377,112,537,141"/>
-<area shape="rect" id="node9" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="629,5,680,35"/>
-<area shape="rect" id="node13" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="588,59,721,88"/>
+<area shape="rect" id="node3" href="$_storm_lib_8h.html#a65c5c13489a621c481282da76b101e16" title="SFileGetFileInfo" alt="" coords="207,32,321,61"/>
+<area shape="rect" id="node5" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="201,85,327,115"/>
+<area shape="rect" id="node7" href="$fontgenerator_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="432,5,483,35"/>
+<area shape="rect" id="node9" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="419,59,496,88"/>
+<area shape="rect" id="node13" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="387,112,528,141"/>
+<area shape="rect" id="node17" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="377,165,537,195"/>
+<area shape="rect" id="node11" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="629,59,680,88"/>
+<area shape="rect" id="node15" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="588,112,721,141"/>
 </map>

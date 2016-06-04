@@ -1,11 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="node5" href="$faio_8h.html" title="faio/faio.h" alt="" coords="5,160,83,189"/>
-<area shape="rect" id="node13" href="$stringops_8h.html" title="misc/stringops.h" alt="" coords="763,160,880,189"/>
-<area shape="rect" id="node24" href="$celfile_8h.html" title="celfile.h" alt="" coords="535,83,601,112"/>
-<area shape="rect" id="node35" href="$celframe_8h.html" title="celframe.h" alt="" coords="656,160,739,189"/>
-<area shape="rect" id="node44" href="$tiledecoding_8h.html" title="tiledecoding.h" alt="" coords="159,83,260,112"/>
-<area shape="rect" id="node49" href="$celdecoding_8h.html" title="celdecoding.h" alt="" coords="409,83,511,112"/>
-<area shape="rect" id="node54" href="$cl2decoding_8h.html" title="cl2decoding.h" alt="" coords="284,83,385,112"/>
-<area shape="rect" id="node30" href="$pal_8h.html" title="pal.h" alt="" coords="309,160,360,189"/>
-<area shape="rect" id="node39" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="600,237,715,267"/>
+<area shape="rect" id="node3" href="$faio_8h.html" title="faio/faio.h" alt="" coords="144,315,221,344"/>
+<area shape="rect" id="node11" href="$stringops_8h.html" title="misc/stringops.h" alt="" coords="1299,315,1416,344"/>
+<area shape="rect" id="node22" href="$celfile_8h.html" title="celfile.h" alt="" coords="464,83,531,112"/>
+<area shape="rect" id="node28" href="$pal_8h.html" title="pal.h" alt="" coords="397,315,448,344"/>
+<area shape="rect" id="node33" href="$celframe_8h.html" title="celframe.h" alt="" coords="296,237,379,267"/>
+<area shape="rect" id="node42" href="$celdecoder_8h.html" title="celdecoder.h" alt="" coords="532,160,628,189"/>
+<area shape="rect" id="node37" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="5,315,120,344"/>
+<area shape="rect" id="node49" href="$settings_8h.html" title="settings/settings.h" alt="" coords="656,237,784,267"/>
 </map>

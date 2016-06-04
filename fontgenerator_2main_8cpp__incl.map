@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$celdecoder_8h.html" title="cel/celdecoder.h" alt="" coords="799,83,916,112"/>
+<area shape="rect" id="node40" href="$faio_8h.html" title="faio/faio.h" alt="" coords="935,237,1012,267"/>
+<area shape="rect" id="node46" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="1362,83,1495,112"/>
+<area shape="rect" id="node48" href="$_storm_lib_8h.html" title="StormLib.h" alt="" coords="1156,83,1242,112"/>
+<area shape="rect" id="node75" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="1519,83,1650,112"/>
+<area shape="rect" id="node16" href="$settings_8h.html" title="settings/settings.h" alt="" coords="460,160,588,189"/>
+<area shape="rect" id="node26" href="$celframe_8h.html" title="celframe.h" alt="" coords="778,160,860,189"/>
+<area shape="rect" id="node34" href="$pal_8h.html" title="pal.h" alt="" coords="759,237,810,267"/>
+<area shape="rect" id="node30" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="1036,237,1151,267"/>
+<area shape="rect" id="node50" href="$_storm_port_8h.html" title="StormPort.h" alt="" coords="1387,237,1478,267"/>
+</map>

@@ -1,7 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_cel_1_1_cel_file.html#a7aa56b24ad6db831061b2b1f4faed266" title="Cel::CelFile::CelFile" alt="" coords="249,5,388,35"/>
-<area shape="rect" id="node5" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="252,112,385,141"/>
-<area shape="rect" id="node11" href="$cel_8cpp.html#aa961b58ed42f67771ef42d9e03f0155a" title="hashPngFolder" alt="" coords="264,59,373,88"/>
-<area shape="rect" id="node7" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="439,59,580,88"/>
-<area shape="rect" id="node9" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="481,112,537,141"/>
+<area shape="rect" id="node3" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="249,59,383,88"/>
+<area shape="rect" id="node9" href="$cel_8cpp.html#aa961b58ed42f67771ef42d9e03f0155a" title="hashPngFolder" alt="" coords="261,5,371,35"/>
+<area shape="rect" id="node5" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="433,5,575,35"/>
+<area shape="rect" id="node7" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="476,59,532,88"/>
 </map>

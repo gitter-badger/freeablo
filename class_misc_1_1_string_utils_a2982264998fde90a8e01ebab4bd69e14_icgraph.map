@@ -1,9 +1,8 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_misc_1_1_string_utils.html#a79a0bc2bbd6fa14a52eb4401418bba87" title="Misc::StringUtils::ciEndsWith" alt="" coords="245,59,440,88"/>
-<area shape="rect" id="node16" href="$class_misc_1_1_string_utils.html#a7c20a5ff0a11cb0d4038d225346a0dff" title="Misc::StringUtils::ciStartsWith" alt="" coords="244,112,441,141"/>
-<area shape="rect" id="node5" href="$class_cel_1_1_cel_file.html#a7aa56b24ad6db831061b2b1f4faed266" title="Cel::CelFile::CelFile" alt="" coords="492,5,631,35"/>
-<area shape="rect" id="node7" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="495,112,628,141"/>
-<area shape="rect" id="node13" href="$cel_8cpp.html#aa961b58ed42f67771ef42d9e03f0155a" title="hashPngFolder" alt="" coords="507,59,616,88"/>
-<area shape="rect" id="node9" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="681,59,823,88"/>
-<area shape="rect" id="node11" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="724,112,780,141"/>
+<area shape="rect" id="node3" href="$class_misc_1_1_string_utils.html#a79a0bc2bbd6fa14a52eb4401418bba87" title="Misc::StringUtils::ciEndsWith" alt="" coords="245,32,440,61"/>
+<area shape="rect" id="node14" href="$class_misc_1_1_string_utils.html#a7c20a5ff0a11cb0d4038d225346a0dff" title="Misc::StringUtils::ciStartsWith" alt="" coords="244,85,441,115"/>
+<area shape="rect" id="node5" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="492,59,625,88"/>
+<area shape="rect" id="node11" href="$cel_8cpp.html#aa961b58ed42f67771ef42d9e03f0155a" title="hashPngFolder" alt="" coords="504,5,613,35"/>
+<area shape="rect" id="node7" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="676,5,817,35"/>
+<area shape="rect" id="node9" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="719,59,775,88"/>
 </map>

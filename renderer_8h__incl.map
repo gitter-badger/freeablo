@@ -1,17 +1,19 @@
 <map id="G" name="G">
-<area shape="rect" id="node17" href="$render_8h.html" title="render/render.h" alt="" coords="2668,237,2777,267"/>
-<area shape="rect" id="node67" href="$position_8h.html" title="../faworld/position.h" alt="" coords="1820,160,1956,189"/>
-<area shape="rect" id="node102" href="$spritemanager_8h.html" title="spritemanager.h" alt="" coords="3245,83,3360,112"/>
-<area shape="rect" id="node30" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="3083,315,3171,344"/>
-<area shape="rect" id="node40" href="$celframe_8h.html" title="celframe.h" alt="" coords="2856,392,2939,421"/>
-<area shape="rect" id="node49" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="2261,392,2395,421"/>
-<area shape="rect" id="node53" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="2549,392,2680,421"/>
-<area shape="rect" id="node55" href="$drawcommand_8h.html" title="rocketglue/drawcommand.h" alt="" coords="2416,315,2597,344"/>
-<area shape="rect" id="node63" href="$levelobjects_8h.html" title="levelobjects.h" alt="" coords="2672,315,2773,344"/>
-<area shape="rect" id="node35" href="$pal_8h.html" title="pal.h" alt="" coords="3107,392,3157,421"/>
-<area shape="rect" id="node44" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="2800,469,2915,499"/>
-<area shape="rect" id="node74" href="$savegame_8h.html" title="../fasavegame/savegame.h" alt="" coords="961,237,1140,267"/>
-<area shape="rect" id="node92" href="$netobject_8h.html" title="netobject.h" alt="" coords="2000,237,2085,267"/>
-<area shape="rect" id="node97" href="$misc_8h.html" title="misc/misc.h" alt="" coords="1883,237,1976,267"/>
-<area shape="rect" id="node104" href="$spritecache_8h.html" title="spritecache.h" alt="" coords="3261,160,3360,189"/>
+<area shape="rect" id="node17" href="$render_8h.html" title="render/render.h" alt="" coords="2657,237,2767,267"/>
+<area shape="rect" id="node85" href="$position_8h.html" title="../faworld/position.h" alt="" coords="1181,160,1317,189"/>
+<area shape="rect" id="node120" href="$spritemanager_8h.html" title="spritemanager.h" alt="" coords="3624,83,3739,112"/>
+<area shape="rect" id="node30" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="3013,315,3101,344"/>
+<area shape="rect" id="node40" href="$celframe_8h.html" title="celframe.h" alt="" coords="2761,469,2844,499"/>
+<area shape="rect" id="node67" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="2195,392,2328,421"/>
+<area shape="rect" id="node71" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="2533,392,2664,421"/>
+<area shape="rect" id="node73" href="$drawcommand_8h.html" title="rocketglue/drawcommand.h" alt="" coords="2405,315,2587,344"/>
+<area shape="rect" id="node81" href="$levelobjects_8h.html" title="levelobjects.h" alt="" coords="2661,315,2763,344"/>
+<area shape="rect" id="node35" href="$pal_8h.html" title="pal.h" alt="" coords="2824,547,2875,576"/>
+<area shape="rect" id="node49" href="$celdecoder_8h.html" title="celdecoder.h" alt="" coords="2964,392,3060,421"/>
+<area shape="rect" id="node44" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="2635,547,2749,576"/>
+<area shape="rect" id="node55" href="$settings_8h.html" title="settings/settings.h" alt="" coords="3197,469,3325,499"/>
+<area shape="rect" id="node92" href="$savegame_8h.html" title="../fasavegame/savegame.h" alt="" coords="1097,237,1276,267"/>
+<area shape="rect" id="node110" href="$netobject_8h.html" title="netobject.h" alt="" coords="68,237,153,267"/>
+<area shape="rect" id="node115" href="$misc_8h.html" title="misc/misc.h" alt="" coords="647,237,740,267"/>
+<area shape="rect" id="node122" href="$spritecache_8h.html" title="spritecache.h" alt="" coords="3640,160,3739,189"/>
 </map>

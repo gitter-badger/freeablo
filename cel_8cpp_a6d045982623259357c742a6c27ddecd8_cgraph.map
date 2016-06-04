@@ -1,27 +1,28 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="127,114,260,143"/>
-<area shape="rect" id="node9" href="$class_misc_1_1_string_utils.html#a005e8aae82a2b7d2efe99e2dbc275d31" title="Misc::StringUtils::endsWith" alt="" coords="572,34,753,63"/>
-<area shape="rect" id="node40" href="$cel_8cpp.html#ac6d9cc522882cacfc20d57b2599d60d9" title="getCelHashes" alt="" coords="141,61,245,90"/>
-<area shape="rect" id="node44" href="$class_cel_1_1_cel_file.html#ad307fd30a1a89e2e7d5ac11fb4076f71" title="Cel::CelFile::numFrames" alt="" coords="109,167,277,197"/>
-<area shape="rect" id="node46" href="$cel_8cpp.html#a43cc38d563a843cbd27f896138b85fe7" title="hashCelFrame" alt="" coords="140,313,247,342"/>
-<area shape="rect" id="node5" href="$class_misc_1_1_string_utils.html#ad4f3a03d1fd36d62265a3272da3e2a58" title="Misc::StringUtils::split" alt="" coords="348,61,497,90"/>
-<area shape="rect" id="node7" href="$class_misc_1_1_string_utils.html#a79a0bc2bbd6fa14a52eb4401418bba87" title="Misc::StringUtils::ciEndsWith" alt="" coords="325,114,520,143"/>
-<area shape="rect" id="node13" href="$class_misc_1_1_string_utils.html#aa4d0bd593b4e8eebea933db0511616e2" title="Transforms input string to lower case w/o copy." alt="" coords="805,113,979,142"/>
-<area shape="rect" id="node16" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="375,218,471,247"/>
-<area shape="rect" id="node11" href="$class_misc_1_1_string_utils.html#a2982264998fde90a8e01ebab4bd69e14" title="Returns lower case copy of input string." alt="" coords="568,113,757,142"/>
-<area shape="rect" id="node18" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="584,218,741,247"/>
-<area shape="rect" id="node20" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="615,271,711,301"/>
-<area shape="rect" id="node22" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="828,273,956,302"/>
-<area shape="rect" id="node24" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="825,326,959,355"/>
-<area shape="rect" id="node26" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="825,379,959,409"/>
-<area shape="rect" id="node36" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="821,166,963,195"/>
-<area shape="rect" id="node38" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="845,219,939,249"/>
-<area shape="rect" id="node28" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="1028,379,1151,409"/>
-<area shape="rect" id="node30" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="1201,353,1332,382"/>
-<area shape="rect" id="node34" href="$_s_base_file_table_8cpp.html#a8b7cf3b06d4cc7779a95a0ef92172269" title="GetBits" alt="" coords="1233,406,1300,435"/>
-<area shape="rect" id="node32" href="$lookup_8h.html#a28bbffa78951ac929184f31d92a05388" title="hashlittle2" alt="" coords="1383,353,1463,382"/>
-<area shape="rect" id="node48" href="$cel_8cpp.html#a7ce622a05d031dc030e405be42c38c0e" title="hashImageData" alt="" coords="365,406,480,435"/>
-<area shape="rect" id="node50" href="$md5_8c.html#a26c1379e5ead2590effec89de6b8cd11" title="md5_init" alt="" coords="628,486,697,515"/>
-<area shape="rect" id="node52" href="$namespace_misc.html#a5456d95d832a2ffd3c57f30a1647fa97" title="Misc::md5_append" alt="" coords="827,433,957,462"/>
-<area shape="rect" id="node54" href="$namespace_misc.html#add1b0340264e37b35c23fd978442e80a" title="Misc::md5_finish" alt="" coords="603,433,723,462"/>
+<area shape="rect" id="node3" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="127,145,260,174"/>
+<area shape="rect" id="node9" href="$class_misc_1_1_string_utils.html#a005e8aae82a2b7d2efe99e2dbc275d31" title="Misc::StringUtils::endsWith" alt="" coords="575,26,756,55"/>
+<area shape="rect" id="node40" href="$cel_8cpp.html#ac6d9cc522882cacfc20d57b2599d60d9" title="getCelHashes" alt="" coords="141,78,245,107"/>
+<area shape="rect" id="node44" href="$class_cel_1_1_cel_file.html#a103a98a40c2cf0a0ea2089bfbacf5081" title="Cel::CelFile::numFrames" alt="" coords="109,223,277,253"/>
+<area shape="rect" id="node48" href="$cel_8cpp.html#a43cc38d563a843cbd27f896138b85fe7" title="hashCelFrame" alt="" coords="140,343,247,373"/>
+<area shape="rect" id="node5" href="$class_misc_1_1_string_utils.html#ad4f3a03d1fd36d62265a3272da3e2a58" title="Misc::StringUtils::split" alt="" coords="349,53,499,82"/>
+<area shape="rect" id="node7" href="$class_misc_1_1_string_utils.html#a79a0bc2bbd6fa14a52eb4401418bba87" title="Misc::StringUtils::ciEndsWith" alt="" coords="327,106,521,135"/>
+<area shape="rect" id="node13" href="$class_misc_1_1_string_utils.html#aa4d0bd593b4e8eebea933db0511616e2" title="Transforms input string to lower case w/o copy." alt="" coords="808,105,981,134"/>
+<area shape="rect" id="node16" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="376,210,472,239"/>
+<area shape="rect" id="node11" href="$class_misc_1_1_string_utils.html#a2982264998fde90a8e01ebab4bd69e14" title="Returns lower case copy of input string." alt="" coords="571,105,760,134"/>
+<area shape="rect" id="node18" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="587,210,744,239"/>
+<area shape="rect" id="node20" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="617,263,713,293"/>
+<area shape="rect" id="node22" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="831,265,959,294"/>
+<area shape="rect" id="node24" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="828,318,961,347"/>
+<area shape="rect" id="node26" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="828,371,961,401"/>
+<area shape="rect" id="node36" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="824,158,965,187"/>
+<area shape="rect" id="node38" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="848,211,941,241"/>
+<area shape="rect" id="node28" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="1031,371,1153,401"/>
+<area shape="rect" id="node30" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="1204,345,1335,374"/>
+<area shape="rect" id="node34" href="$_s_base_file_table_8cpp.html#a8b7cf3b06d4cc7779a95a0ef92172269" title="GetBits" alt="" coords="1236,398,1303,427"/>
+<area shape="rect" id="node32" href="$lookup_8h.html#a28bbffa78951ac929184f31d92a05388" title="hashlittle2" alt="" coords="1385,345,1465,374"/>
+<area shape="rect" id="node46" href="$class_cel_1_1_cel_decoder.html#a479b654e61ded68536bb1ba9f067b221" title="Cel::CelDecoder::numFrames" alt="" coords="327,263,521,293"/>
+<area shape="rect" id="node50" href="$cel_8cpp.html#a7ce622a05d031dc030e405be42c38c0e" title="hashImageData" alt="" coords="367,399,481,429"/>
+<area shape="rect" id="node52" href="$md5_8c.html#a26c1379e5ead2590effec89de6b8cd11" title="md5_init" alt="" coords="631,478,700,507"/>
+<area shape="rect" id="node54" href="$namespace_misc.html#a5456d95d832a2ffd3c57f30a1647fa97" title="Misc::md5_append" alt="" coords="829,425,960,454"/>
+<area shape="rect" id="node56" href="$namespace_misc.html#add1b0340264e37b35c23fd978442e80a" title="Misc::md5_finish" alt="" coords="605,425,725,454"/>
 </map>

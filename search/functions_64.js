@@ -1,12 +1,8 @@
 var searchData=
 [
   ['deathtestusefork',['DeathTestUseFork',['../structtesting_1_1_flags.html#a4468e5625833043596c44be174349d8c',1,'testing::Flags']]],
-  ['decodegreaterlessthan',['decodeGreaterLessThan',['../namespace_cel.html#ad07fe4f9fafb5f75587121217d527a8e',1,'Cel']]],
-  ['decodegreaterthan',['decodeGreaterThan',['../namespace_cel.html#a378afc15133ba4096dbc24563bc87bb0',1,'Cel']]],
-  ['decodelessthan',['decodeLessThan',['../namespace_cel.html#a10fe8aca0cfb889447cf209ccad57a32',1,'Cel']]],
+  ['decode',['decode',['../class_cel_1_1_cel_decoder.html#aaeceb15b913e14638fccceaa65f6cf20',1,'Cel::CelDecoder']]],
   ['decodeonebyte',['DecodeOneByte',['../class_t_huffmann_tree.html#aeacbf46b8d0c2dd39c5525f231541d0c',1,'THuffmannTree']]],
-  ['decoderaw32',['decodeRaw32',['../namespace_cel.html#a189c475447ce4f63b3cc3f19c159ff36',1,'Cel']]],
-  ['decodetileframe',['decodeTileFrame',['../namespace_cel.html#a5b636b6b8aecb4224673830e3b554a49',1,'Cel']]],
   ['decompress',['Decompress',['../class_t_huffmann_tree.html#a5fae7bcc8bb1852bf8036ae0e78e3a09',1,'THuffmannTree::Decompress()'],['../storm__dll_8cpp.html#a206b3a5d1e02fffbdeff72ace2f4648a',1,'Decompress(char *pbOutBuffer, int *pdwOutLength, char *pbInBuffer, int dwInLength):&#160;storm_dll.cpp'],['../storm__dll_8h.html#a206b3a5d1e02fffbdeff72ace2f4648a',1,'Decompress(char *pbOutBuffer, int *pdwOutLength, char *pbInBuffer, int dwInLength):&#160;storm_dll.cpp']]],
   ['decompress_5fhuff',['Decompress_huff',['../_s_compression_8cpp.html#af6ddfa41c2bcdabfb985348a84dff2df',1,'SCompression.cpp']]],
   ['decompress_5fsparse',['Decompress_SPARSE',['../_s_compression_8cpp.html#a0ae2e64309b3cae6ee4f6fe72dae9939',1,'SCompression.cpp']]],
@@ -120,7 +116,6 @@ var searchData=
   ['drawminpillartop',['drawMinPillarTop',['../namespace_render.html#ab52f404c5feb88408defadb935b310e5',1,'Render']]],
   ['drawmintile',['drawMinTile',['../namespace_render.html#a3bbdc70f166ed8419fcfa4d292258b6a',1,'Render']]],
   ['drawroom',['drawRoom',['../namespace_f_a_level_gen.html#a60b3d16c7a0db3ab5895ed0679dc388d',1,'FALevelGen']]],
-  ['drawrow',['drawRow',['../namespace_cel.html#a3bb8d81110887523119ae23b019cac2c',1,'Cel']]],
   ['dump',['dump',['../class_f_a_world_1_1_inventory.html#a1218b871051e65d5d625da5caed5f098',1,'FAWorld::Inventory::dump()'],['../struct_diablo_exe_1_1_affix.html#a5563b42760ed0e11b16798473a5f8a89',1,'DiabloExe::Affix::dump()'],['../class_diablo_exe_1_1_base_item.html#abe3494014dfc59c663ce57a58e094a94',1,'DiabloExe::BaseItem::dump()'],['../class_diablo_exe_1_1_character_stats.html#a2d97c034cf10dc728f1a30d3c3bd470c',1,'DiabloExe::CharacterStats::dump()'],['../class_diablo_exe_1_1_diablo_exe.html#a6b96c6decba7dde07ef2897e89066f7e',1,'DiabloExe::DiabloExe::dump()'],['../struct_diablo_exe_1_1_monster.html#a2431baf0ee83b39193c461570b0226f4',1,'DiabloExe::Monster::dump()'],['../class_diablo_exe_1_1_npc.html#ab5216cea48f6c28408c47836addcd49d',1,'DiabloExe::Npc::dump()'],['../class_diablo_exe_1_1_unique_item.html#a892403f28c90f5ccd99ab6b9f463683c',1,'DiabloExe::UniqueItem::dump()']]],
   ['dumpbaseitems',['dumpBaseItems',['../class_f_a_world_1_1_item_manager.html#a7e220987ec79e6be1b2789798dd21770',1,'FAWorld::ItemManager']]],
   ['dumpitempositions',['dumpItemPositions',['../class_f_a_world_1_1_item_manager.html#a7c9597dbc5e1a0d6ddde4ea70acb274a',1,'FAWorld::ItemManager']]],

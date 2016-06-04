@@ -1,11 +1,13 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$levelobjects_8h.html" title="levelobjects.h" alt="" coords="556,83,657,112"/>
-<area shape="rect" id="node5" href="$render_8h.html" title="render.h" alt="" coords="572,160,641,189"/>
-<area shape="rect" id="node34" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="5,392,120,421"/>
-<area shape="rect" id="node19" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="276,237,364,267"/>
-<area shape="rect" id="node30" href="$celframe_8h.html" title="celframe.h" alt="" coords="104,315,187,344"/>
-<area shape="rect" id="node39" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="616,315,749,344"/>
-<area shape="rect" id="node43" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="1157,315,1288,344"/>
-<area shape="rect" id="node45" href="$drawcommand_8h.html" title="rocketglue/drawcommand.h" alt="" coords="963,237,1144,267"/>
-<area shape="rect" id="node25" href="$pal_8h.html" title="pal.h" alt="" coords="331,315,381,344"/>
+<area shape="rect" id="node3" href="$levelobjects_8h.html" title="levelobjects.h" alt="" coords="1123,83,1224,112"/>
+<area shape="rect" id="node5" href="$render_8h.html" title="render.h" alt="" coords="1139,160,1208,189"/>
+<area shape="rect" id="node34" href="$helper2d_8h.html" title="misc/helper2d.h" alt="" coords="1680,469,1795,499"/>
+<area shape="rect" id="node19" href="$celfile_8h.html" title="cel/celfile.h" alt="" coords="788,237,876,267"/>
+<area shape="rect" id="node30" href="$celframe_8h.html" title="celframe.h" alt="" coords="920,392,1003,421"/>
+<area shape="rect" id="node57" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="1100,315,1233,344"/>
+<area shape="rect" id="node61" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="1439,315,1569,344"/>
+<area shape="rect" id="node63" href="$drawcommand_8h.html" title="rocketglue/drawcommand.h" alt="" coords="1147,237,1328,267"/>
+<area shape="rect" id="node25" href="$pal_8h.html" title="pal.h" alt="" coords="819,469,869,499"/>
+<area shape="rect" id="node39" href="$celdecoder_8h.html" title="celdecoder.h" alt="" coords="691,315,787,344"/>
+<area shape="rect" id="node45" href="$settings_8h.html" title="settings/settings.h" alt="" coords="565,392,693,421"/>
 </map>
