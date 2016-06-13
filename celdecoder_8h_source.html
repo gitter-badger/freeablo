@@ -105,9 +105,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l00022"></a>00022     <span class="keyword">private</span>:
 <a name="l00023"></a>00023 
 <a name="l00024"></a>00024         <span class="keyword">typedef</span> std::vector&lt;uint8_t&gt; FrameBytes;
-<a name="l00025"></a>00025         <span class="keyword">typedef</span> FrameBytes&amp; FrameBytesRef;
+<a name="l00025"></a>00025         <span class="keyword">typedef</span> <span class="keyword">const</span> std::vector&lt;uint8_t&gt;&amp; FrameBytesRef;
 <a name="l00026"></a>00026         <span class="keyword">typedef</span> std::vector&lt;Colour&gt;&amp; ColoursRef;
-<a name="l00027"></a>00027         <span class="keyword">typedef</span> std::function&lt;void(CelDecoder&amp;, const FrameBytesRef, const Pal&amp;, ColoursRef)&gt; FrameDecoder;
+<a name="l00027"></a>00027         <span class="keyword">typedef</span> std::function&lt;void(CelDecoder&amp;, FrameBytesRef, const Pal&amp;, ColoursRef)&gt; FrameDecoder;
 <a name="l00028"></a>00028 
 <a name="l00029"></a>00029         <span class="keywordtype">void</span> readConfiguration();
 <a name="l00030"></a>00030         <span class="keywordtype">void</span> readCelName();
@@ -120,15 +120,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l00037"></a>00037         <span class="keywordtype">bool</span> isType2or4(FrameBytesRef frame);
 <a name="l00038"></a>00038         <span class="keywordtype">bool</span> isType3or5(FrameBytesRef frame);
 <a name="l00039"></a>00039 
-<a name="l00040"></a>00040         <span class="keywordtype">void</span> decodeFrameType0(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00041"></a>00041         <span class="keywordtype">void</span> decodeFrameType1(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00042"></a>00042         <span class="keywordtype">void</span> decodeFrameType2(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00043"></a>00043         <span class="keywordtype">void</span> decodeFrameType3(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00044"></a>00044         <span class="keywordtype">void</span> decodeFrameType4(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00045"></a>00045         <span class="keywordtype">void</span> decodeFrameType5(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00046"></a>00046         <span class="keywordtype">void</span> decodeFrameType6(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
-<a name="l00047"></a>00047         <span class="keywordtype">void</span> decodeFrameType2or3(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame, <span class="keywordtype">bool</span> frameType2);
-<a name="l00048"></a>00048         <span class="keywordtype">void</span> decodeFrameType4or5(<span class="keyword">const</span> FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame, <span class="keywordtype">bool</span> frameType4);
+<a name="l00040"></a>00040         <span class="keywordtype">void</span> decodeFrameType0(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00041"></a>00041         <span class="keywordtype">void</span> decodeFrameType1(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00042"></a>00042         <span class="keywordtype">void</span> decodeFrameType2(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00043"></a>00043         <span class="keywordtype">void</span> decodeFrameType3(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00044"></a>00044         <span class="keywordtype">void</span> decodeFrameType4(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00045"></a>00045         <span class="keywordtype">void</span> decodeFrameType5(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00046"></a>00046         <span class="keywordtype">void</span> decodeFrameType6(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame);
+<a name="l00047"></a>00047         <span class="keywordtype">void</span> decodeFrameType2or3(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame, <span class="keywordtype">bool</span> frameType2);
+<a name="l00048"></a>00048         <span class="keywordtype">void</span> decodeFrameType4or5(FrameBytesRef frame, <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal, ColoursRef decodedFrame, <span class="keywordtype">bool</span> frameType4);
 <a name="l00049"></a>00049 
 <a name="l00050"></a>00050         <span class="keywordtype">void</span> decodeLineTransparencyLeft(<span class="keyword">const</span> uint8_t** framePtr,
 <a name="l00051"></a>00051                                         <span class="keyword">const</span> <a class="code" href="class_cel_1_1_pal.html">Pal</a>&amp; pal,
