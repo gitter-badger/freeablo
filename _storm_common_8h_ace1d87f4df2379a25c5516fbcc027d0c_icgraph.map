@@ -33,7 +33,7 @@
 <area shape="rect" id="node78" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="808,912,915,941"/>
 <area shape="rect" id="node80" href="$class_f_a_i_o_file_interface.html#a79264fa428afc4411ef4d6d4eb25f38e" title="Reads data from a previously opened file." alt="" coords="780,965,943,995"/>
 <area shape="rect" id="node40" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="1000,379,1229,408"/>
-<area shape="rect" id="node44" href="$class_f_a_audio_1_1_audio_manager.html#a1c562d006a318f6c682dd80e6a278996" title="FAAudio::AudioManager::play" alt="" coords="1017,432,1212,461"/>
+<area shape="rect" id="node44" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="999,432,1231,461"/>
 <area shape="rect" id="node48" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="1041,485,1188,515"/>
 <area shape="rect" id="node52" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="1011,565,1219,595"/>
 <area shape="rect" id="node50" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="1280,459,1467,488"/>

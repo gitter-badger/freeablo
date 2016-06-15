@@ -1,5 +1,3 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="193,5,423,35"/>
-<area shape="rect" id="node7" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="192,59,424,88"/>
-<area shape="rect" id="node5" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="472,5,712,35"/>
+<area shape="rect" id="node3" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="192,5,424,35"/>
 </map>

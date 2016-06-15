@@ -1,4 +1,5 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a13739d0733bd7b81b3ae737faacf32aa" title="FAGui::FAPythonFuncs::quitGame" alt="" coords="225,5,449,35"/>
-<area shape="rect" id="node5" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="499,5,739,35"/>
+<area shape="rect" id="node3" href="$class_engine_1_1_engine_main.html#a1b0c35db514703451f35b828aa3d2625" title="Engine::EngineMain::notify" alt="" coords="248,5,427,35"/>
+<area shape="rect" id="node5" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a13739d0733bd7b81b3ae737faacf32aa" title="FAGui::FAPythonFuncs::quitGame" alt="" coords="225,59,449,88"/>
+<area shape="rect" id="node7" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="499,59,739,88"/>
 </map>

@@ -1,4 +1,3 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_engine_1_1_engine_input_manager.html#a9e498a09e866f109b2d59d371f390ad6" title="Engine::EngineInputManager::update" alt="" coords="257,5,492,35"/>
-<area shape="rect" id="node5" href="$classpython_1_1menu_1_1_menu.html#a9011fd17cc68bdd567efb457c5f6997f" title="python.menu.Menu.onKeyDown" alt="" coords="271,59,479,88"/>
+<area shape="rect" id="node3" href="$classpython_1_1menu_1_1_menu.html#a9011fd17cc68bdd567efb457c5f6997f" title="python.menu.Menu.onKeyDown" alt="" coords="256,5,464,35"/>
 </map>

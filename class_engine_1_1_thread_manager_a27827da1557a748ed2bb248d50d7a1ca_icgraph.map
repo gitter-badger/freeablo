@@ -1,9 +1,5 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="240,5,427,35"/>
-<area shape="rect" id="node9" href="$class_f_a_world_1_1_world.html#ae5fed250c5639c9975fda9e35691007b" title="FAWorld::World::setLevel" alt="" coords="248,59,419,88"/>
-<area shape="rect" id="node5" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="523,5,685,35"/>
-<area shape="rect" id="node7" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="871,5,921,35"/>
-<area shape="rect" id="node11" href="$class_f_a_save_game_1_1_save_game_manager.html#a850dea5a0a18721bebd30e31bc47410b" title="FASaveGame::SaveGameManager::load" alt="" coords="475,59,733,88"/>
-<area shape="rect" id="node13" href="$class_f_a_gui_1_1_f_a_python_funcs.html#afbc6e00b8cd71c9d4a7e89739eb3955f" title="FAGui::FAPythonFuncs::loadGame" alt="" coords="783,59,1009,88"/>
-<area shape="rect" id="node15" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="1059,59,1299,88"/>
+<area shape="rect" id="node5" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="476,5,639,35"/>
+<area shape="rect" id="node7" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="688,5,739,35"/>
 </map>

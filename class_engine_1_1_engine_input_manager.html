@@ -100,46 +100,35 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div>
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a>  </div>
+<a href="#pub-methods">Public Member Functions</a>  </div>
   <div class="headertitle">
 <div class="title">Engine::EngineInputManager Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <!-- doxytag: class="Engine::EngineInputManager" -->
-<p><code>#include &lt;<a class="el" href="input_8h_source.html">input.h</a>&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for Engine::EngineInputManager:</div>
-<div class="dyncontent">
-<div class="center"><img src="class_engine_1_1_engine_input_manager__coll__graph.png" border="0" usemap="#_engine_1_1_engine_input_manager_coll__map" alt="Collaboration graph"/></div>
-<map name="_engine_1_1_engine_input_manager_coll__map" id="_engine_1_1_engine_input_manager_coll__map">
-<area shape="rect" id="node2" href="class_input_1_1_hotkey.html" title="Input::Hotkey" alt="" coords="49,5,151,35"/></map>
-<center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
+<p><code>#include &lt;<a class="el" href="engineinputmanager_8h_source.html">engineinputmanager.h</a>&gt;</code></p>
 
 <p><a href="class_engine_1_1_engine_input_manager-members.html">List of all members.</a></p>
 <table class="memberdecls">
 <tr><td colspan="2"><h2><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#ae90adddae507deff25cac4bc601a5141">EngineInputManager</a> (<a class="el" href="class_engine_1_1_engine_main.html">EngineMain</a> &amp;<a class="el" href="readme_8md.html#a0c672cf8c51ac9f910731bbd3cea24ca">engine</a>)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#aa2323b8d38d7f59868a51324a905241f">EngineInputManager</a> ()</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a9e498a09e866f109b2d59d371f390ad6">update</a> (<a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a> paused)</td></tr>
-<tr><td colspan="2"><h2><a name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a544be9dc6d2176feecc246d61bc9bdaa">quit_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a6f070d76f31fe562806ecb879a8cb691">noclip_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a4f5afbc14d5dee707bc6d15b11cf748f">changelvldwn_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a174bdeb9c4d43e32cb28d068e4f959a1">changelvlup_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a6308fea00a672c960da6b97d6a410b28">toggleconsole_key</a></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#aae743aecedd1a29480b3e100ca946c88">setHotkey</a> (<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a> action, <a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> hotkey)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a553c0cc1e23b8d7dd264b556ade3d472">getHotkey</a> (<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a> action)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#afb7f03273f1e38d28a273eadb312030d">getHotkeys</a> ()</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#ac2c0aadd1872535651efdd01a3ed7d16">registerKeyboardObserver</a> (<a class="el" href="class_engine_1_1_keyboard_input_observer_interface.html">KeyboardInputObserverInterface</a> *observer)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html#a337edc57848df9b0e8b7427601e80950">registerMouseObserver</a> (<a class="el" href="class_engine_1_1_mouse_input_observer_interface.html">MouseInputObserverInterface</a> *observer)</td></tr>
 </table>
 <hr/><h2>Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="ae90adddae507deff25cac4bc601a5141"></a><!-- doxytag: member="Engine::EngineInputManager::EngineInputManager" ref="ae90adddae507deff25cac4bc601a5141" args="(EngineMain &amp;engine)" -->
+<a class="anchor" id="aa2323b8d38d7f59868a51324a905241f"></a><!-- doxytag: member="Engine::EngineInputManager::EngineInputManager" ref="aa2323b8d38d7f59868a51324a905241f" args="()" -->
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="class_engine_1_1_engine_input_manager.html#ae90adddae507deff25cac4bc601a5141">Engine::EngineInputManager::EngineInputManager</a> </td>
+          <td class="memname"><a class="el" href="class_engine_1_1_engine_input_manager.html#aa2323b8d38d7f59868a51324a905241f">Engine::EngineInputManager::EngineInputManager</a> </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="class_engine_1_1_engine_main.html">EngineMain</a> &amp;&#160;</td>
-          <td class="paramname"><em>engine</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -149,6 +138,118 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/><h2>Member Function Documentation</h2>
+<a class="anchor" id="a553c0cc1e23b8d7dd264b556ade3d472"></a><!-- doxytag: member="Engine::EngineInputManager::getHotkey" ref="a553c0cc1e23b8d7dd264b556ade3d472" args="(KeyboardInputAction action)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="class_engine_1_1_engine_input_manager.html#a553c0cc1e23b8d7dd264b556ade3d472">Engine::EngineInputManager::getHotkey</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a>&#160;</td>
+          <td class="paramname"><em>action</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="afb7f03273f1e38d28a273eadb312030d"></a><!-- doxytag: member="Engine::EngineInputManager::getHotkeys" ref="afb7f03273f1e38d28a273eadb312030d" args="()" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt; <a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> &gt; <a class="el" href="class_engine_1_1_engine_input_manager.html#afb7f03273f1e38d28a273eadb312030d">Engine::EngineInputManager::getHotkeys</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_engine_1_1_engine_input_manager_afb7f03273f1e38d28a273eadb312030d_icgraph.png" border="0" usemap="#class_engine_1_1_engine_input_manager_afb7f03273f1e38d28a273eadb312030d_icgraph" alt=""/></div>
+<map name="class_engine_1_1_engine_input_manager_afb7f03273f1e38d28a273eadb312030d_icgraph" id="class_engine_1_1_engine_input_manager_afb7f03273f1e38d28a273eadb312030d_icgraph">
+<area shape="rect" id="node3" href="class_f_a_gui_1_1_f_a_python_funcs.html#a5d628bad1e601c5ea59f11bede2fd890" title="FAGui::FAPythonFuncs::getHotkeyNames" alt="" coords="319,5,588,35"/><area shape="rect" id="node7" href="class_f_a_gui_1_1_f_a_python_funcs.html#a4e2a57a6cca3fc9484e17b9381d85e5d" title="FAGui::FAPythonFuncs::getHotkeys" alt="" coords="336,59,571,88"/><area shape="rect" id="node5" href="namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="637,32,877,61"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="ac2c0aadd1872535651efdd01a3ed7d16"></a><!-- doxytag: member="Engine::EngineInputManager::registerKeyboardObserver" ref="ac2c0aadd1872535651efdd01a3ed7d16" args="(KeyboardInputObserverInterface *observer)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="class_engine_1_1_engine_input_manager.html#ac2c0aadd1872535651efdd01a3ed7d16">Engine::EngineInputManager::registerKeyboardObserver</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_engine_1_1_keyboard_input_observer_interface.html">KeyboardInputObserverInterface</a> *&#160;</td>
+          <td class="paramname"><em>observer</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a337edc57848df9b0e8b7427601e80950"></a><!-- doxytag: member="Engine::EngineInputManager::registerMouseObserver" ref="a337edc57848df9b0e8b7427601e80950" args="(MouseInputObserverInterface *observer)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="class_engine_1_1_engine_input_manager.html#a337edc57848df9b0e8b7427601e80950">Engine::EngineInputManager::registerMouseObserver</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_engine_1_1_mouse_input_observer_interface.html">MouseInputObserverInterface</a> *&#160;</td>
+          <td class="paramname"><em>observer</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="aae743aecedd1a29480b3e100ca946c88"></a><!-- doxytag: member="Engine::EngineInputManager::setHotkey" ref="aae743aecedd1a29480b3e100ca946c88" args="(KeyboardInputAction action, Input::Hotkey hotkey)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="class_engine_1_1_engine_input_manager.html#aae743aecedd1a29480b3e100ca946c88">Engine::EngineInputManager::setHotkey</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a>&#160;</td>
+          <td class="paramname"><em>action</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td>
+          <td class="paramname"><em>hotkey</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_engine_1_1_engine_input_manager_aae743aecedd1a29480b3e100ca946c88_icgraph.png" border="0" usemap="#class_engine_1_1_engine_input_manager_aae743aecedd1a29480b3e100ca946c88_icgraph" alt=""/></div>
+<map name="class_engine_1_1_engine_input_manager_aae743aecedd1a29480b3e100ca946c88_icgraph" id="class_engine_1_1_engine_input_manager_aae743aecedd1a29480b3e100ca946c88_icgraph">
+<area shape="rect" id="node3" href="class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="312,5,541,35"/><area shape="rect" id="node5" href="namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="589,5,829,35"/></map>
+</div>
+</p>
+
+</div>
+</div>
 <a class="anchor" id="a9e498a09e866f109b2d59d371f390ad6"></a><!-- doxytag: member="Engine::EngineInputManager::update" ref="a9e498a09e866f109b2d59d371f390ad6" args="(bool paused)" -->
 <div class="memitem">
 <div class="memproto">
@@ -169,81 +270,15 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_engine_1_1_engine_input_manager_a9e498a09e866f109b2d59d371f390ad6_cgraph.png" border="0" usemap="#class_engine_1_1_engine_input_manager_a9e498a09e866f109b2d59d371f390ad6_cgraph" alt=""/></div>
 <map name="class_engine_1_1_engine_input_manager_a9e498a09e866f109b2d59d371f390ad6_cgraph" id="class_engine_1_1_engine_input_manager_a9e498a09e866f109b2d59d371f390ad6_cgraph">
-<area shape="rect" id="node3" href="class_input_1_1_input_manager.html#a7bcad8c100eea21ce9d75385d6ce5081" title="Input::InputManager::processInput" alt="" coords="291,165,512,195"/><area shape="rect" id="node17" href="class_f_a_gui_1_1_console.html#a5a97b15a53198876e0870f7bb4516635" title="FAGui::Console::getInstance" alt="" coords="307,245,496,275"/><area shape="rect" id="node19" href="class_f_a_render_1_1_renderer.html#a4e68b29718f806cb93cc71656c5a4c28" title="FARender::Renderer::get" alt="" coords="317,299,485,328"/><area shape="rect" id="node21" href="class_f_a_gui_1_1_console.html#aa8e966376ec4a09e17bdef6fad13bc46" title="FAGui::Console::toggle" alt="" coords="323,352,480,381"/><area shape="rect" id="node29" href="namespace_cel.html#a4e01b99470fde6ba49817d25dc1e2bc6" title="Cel::get" alt="" coords="368,405,435,435"/><area shape="rect" id="node31" href="class_f_a_world_1_1_world.html#a8715034c60fe91ec17c2baf2d57c8e79" title="FAWorld::World::getCurrentPlayer" alt="" coords="291,459,512,488"/><area shape="rect" id="node33" href="class_f_a_world_1_1_world.html#a0cb638b42a04dba460fcaf3e0a261fd9" title="FAWorld::World::getCurrentLevel" alt="" coords="295,512,508,541"/><area shape="rect" id="node37" href="class_f_a_world_1_1_actor.html#aeae544fb56b7d7b8709e8124cb4d9577" title="FAWorld::Actor::destination" alt="" coords="311,565,492,595"/><area shape="rect" id="node39" href="class_f_a_world_1_1_game_level.html#aa5b2e7a080f00c0d4bcc854cdf5fd147" title="FAWorld::GameLevel::activate" alt="" coords="301,619,501,648"/><area shape="rect" id="node5" href="namespace_input.html#a6f96be0b5f178f7a6a5fe0ac5678d01e" title="Input::getKey" alt="" coords="605,5,704,35"/><area shape="rect" id="node7" href="namespace_input.html#a0f0d78790e21242a30dc78f50f05d2e3" title="Input::consoleTranslateKey" alt="" coords="564,59,745,88"/><area shape="rect" id="node9" href="namespace_input.html#a8ac082b0c2216953d9529ba1159febae" title="Input::rocketTranslateKey" alt="" coords="569,112,740,141"/><area shape="rect" id="node11" href="namespace_input.html#aa10b803d21913a21223acd3fcb92add5" title="Input::getRocketModifiers" alt="" coords="569,165,740,195"/><area shape="rect" id="node13" href="namespace_input.html#aaea01e6d661312e84ced4c7102fc9769" title="Input::getMouseKey" alt="" coords="585,219,724,248"/><area shape="rect" id="node15" href="namespace_input.html#aedc5d327490d1918f6b77d5e40e40bc9" title="Input::rocketTranslateMouse" alt="" coords="561,272,748,301"/><area shape="rect" id="node23" href="class_f_a_gui_1_1_console.html#a9720d6287125f1b29ffb91b7ebc20d93" title="FAGui::Console::isVisible" alt="" coords="569,325,740,355"/><area shape="rect" id="node25" href="class_f_a_gui_1_1_console.html#ab464f7d178128b97c043783145d48037" title="FAGui::Console::hide" alt="" coords="581,379,728,408"/><area shape="rect" id="node27" href="class_f_a_gui_1_1_console.html#af2701dc76b621d5a9661d61eae2e82d9" title="FAGui::Console::show" alt="" coords="577,432,732,461"/><area shape="rect" id="node35" href="class_f_a_world_1_1_actor.html#ac7f3a1a4b5b66da302e257ea3b5c0f58" title="FAWorld::Actor::getLevel" alt="" coords="571,512,739,541"/><area shape="rect" id="node41" href="class_level_1_1_level.html#a43a99c389b3cbac6ba7175e85640810d" title="Level::Level::activate" alt="" coords="581,619,728,648"/></map>
+<area shape="rect" id="node3" href="class_input_1_1_input_manager.html#a7bcad8c100eea21ce9d75385d6ce5081" title="Input::InputManager::processInput" alt="" coords="291,165,512,195"/><area shape="rect" id="node17" href="class_f_a_gui_1_1_console.html#a5a97b15a53198876e0870f7bb4516635" title="FAGui::Console::getInstance" alt="" coords="307,245,496,275"/><area shape="rect" id="node19" href="class_f_a_render_1_1_renderer.html#a4e68b29718f806cb93cc71656c5a4c28" title="FARender::Renderer::get" alt="" coords="317,299,485,328"/><area shape="rect" id="node21" href="class_f_a_gui_1_1_console.html#aa8e966376ec4a09e17bdef6fad13bc46" title="FAGui::Console::toggle" alt="" coords="323,365,480,395"/><area shape="rect" id="node5" href="namespace_input.html#a6f96be0b5f178f7a6a5fe0ac5678d01e" title="Input::getKey" alt="" coords="605,5,704,35"/><area shape="rect" id="node7" href="namespace_input.html#a0f0d78790e21242a30dc78f50f05d2e3" title="Input::consoleTranslateKey" alt="" coords="564,59,745,88"/><area shape="rect" id="node9" href="namespace_input.html#a8ac082b0c2216953d9529ba1159febae" title="Input::rocketTranslateKey" alt="" coords="569,112,740,141"/><area shape="rect" id="node11" href="namespace_input.html#aa10b803d21913a21223acd3fcb92add5" title="Input::getRocketModifiers" alt="" coords="569,165,740,195"/><area shape="rect" id="node13" href="namespace_input.html#aaea01e6d661312e84ced4c7102fc9769" title="Input::getMouseKey" alt="" coords="585,219,724,248"/><area shape="rect" id="node15" href="namespace_input.html#aedc5d327490d1918f6b77d5e40e40bc9" title="Input::rocketTranslateMouse" alt="" coords="561,272,748,301"/><area shape="rect" id="node23" href="class_f_a_gui_1_1_console.html#a9720d6287125f1b29ffb91b7ebc20d93" title="FAGui::Console::isVisible" alt="" coords="569,325,740,355"/><area shape="rect" id="node25" href="class_f_a_gui_1_1_console.html#ab464f7d178128b97c043783145d48037" title="FAGui::Console::hide" alt="" coords="581,379,728,408"/><area shape="rect" id="node27" href="class_f_a_gui_1_1_console.html#af2701dc76b621d5a9661d61eae2e82d9" title="FAGui::Console::show" alt="" coords="577,432,732,461"/></map>
 </div>
 </p>
 
 </div>
 </div>
-<hr/><h2>Member Data Documentation</h2>
-<a class="anchor" id="a4f5afbc14d5dee707bc6d15b11cf748f"></a><!-- doxytag: member="Engine::EngineInputManager::changelvldwn_key" ref="a4f5afbc14d5dee707bc6d15b11cf748f" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="class_engine_1_1_engine_input_manager.html#a4f5afbc14d5dee707bc6d15b11cf748f">Engine::EngineInputManager::changelvldwn_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a174bdeb9c4d43e32cb28d068e4f959a1"></a><!-- doxytag: member="Engine::EngineInputManager::changelvlup_key" ref="a174bdeb9c4d43e32cb28d068e4f959a1" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="class_engine_1_1_engine_input_manager.html#a174bdeb9c4d43e32cb28d068e4f959a1">Engine::EngineInputManager::changelvlup_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a6f070d76f31fe562806ecb879a8cb691"></a><!-- doxytag: member="Engine::EngineInputManager::noclip_key" ref="a6f070d76f31fe562806ecb879a8cb691" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="class_engine_1_1_engine_input_manager.html#a6f070d76f31fe562806ecb879a8cb691">Engine::EngineInputManager::noclip_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a544be9dc6d2176feecc246d61bc9bdaa"></a><!-- doxytag: member="Engine::EngineInputManager::quit_key" ref="a544be9dc6d2176feecc246d61bc9bdaa" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="class_engine_1_1_engine_input_manager.html#a544be9dc6d2176feecc246d61bc9bdaa">Engine::EngineInputManager::quit_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a6308fea00a672c960da6b97d6a410b28"></a><!-- doxytag: member="Engine::EngineInputManager::toggleconsole_key" ref="a6308fea00a672c960da6b97d6a410b28" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="class_engine_1_1_engine_input_manager.html#a6308fea00a672c960da6b97d6a410b28">Engine::EngineInputManager::toggleconsole_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>apps/freeablo/engine/<a class="el" href="input_8h_source.html">input.h</a></li>
-<li>apps/freeablo/engine/<a class="el" href="input_8cpp.html">input.cpp</a></li>
+<li>apps/freeablo/engine/<a class="el" href="engineinputmanager_8h_source.html">engineinputmanager.h</a></li>
+<li>apps/freeablo/engine/<a class="el" href="engineinputmanager_8cpp.html">engineinputmanager.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- window showing the filter options -->

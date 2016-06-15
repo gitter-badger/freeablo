@@ -1,12 +1,9 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_f_a_world_1_1_world.html#aa72cae8b62329a79324bce7294236787" title="FAWorld::World::get" alt="" coords="341,32,483,61"/>
-<area shape="rect" id="node5" href="$class_f_a_save_game_1_1_save_game_manager.html#a850dea5a0a18721bebd30e31bc47410b" title="FASaveGame::SaveGameManager::load" alt="" coords="283,85,541,115"/>
-<area shape="rect" id="node7" href="$class_f_a_world_1_1_world.html#a8715034c60fe91ec17c2baf2d57c8e79" title="FAWorld::World::getCurrentPlayer" alt="" coords="589,59,811,88"/>
-<area shape="rect" id="node9" href="$class_f_a_world_1_1_world.html#ae5fed250c5639c9975fda9e35691007b" title="FAWorld::World::setLevel" alt="" coords="615,112,785,141"/>
-<area shape="rect" id="node11" href="$class_f_a_world_1_1_actor.html#ac7f3a1a4b5b66da302e257ea3b5c0f58" title="FAWorld::Actor::getLevel" alt="" coords="905,5,1073,35"/>
-<area shape="rect" id="node13" href="$class_f_a_world_1_1_game_level.html#aa34b6cd6ab73af749fe3a92426b55bb8" title="FAWorld::GameLevel::getLevelIndex" alt="" coords="872,59,1107,88"/>
-<area shape="rect" id="node15" href="$class_f_a_world_1_1_player.html#a0fd3d6ce622b0bd7a874c820fa442953" title="FAWorld::Player::setLevel" alt="" coords="903,112,1076,141"/>
-<area shape="rect" id="node17" href="$class_f_a_audio_1_1_audio_manager.html#a0aa00bbb6d2feddb861ab0d5f2e157a9" title="FAAudio::AudioManager::playLevelMusic" alt="" coords="859,165,1120,195"/>
-<area shape="rect" id="node21" href="$class_engine_1_1_thread_manager.html#a27827da1557a748ed2bb248d50d7a1ca" title="Engine::ThreadManager::get" alt="" coords="896,219,1083,248"/>
-<area shape="rect" id="node19" href="$class_engine_1_1_thread_manager.html#aaa7f2f075f9237f1d684833b31c69556" title="Engine::ThreadManager::playMusic" alt="" coords="1168,165,1395,195"/>
+<area shape="rect" id="node3" href="$class_f_a_world_1_1_world.html#aa72cae8b62329a79324bce7294236787" title="FAWorld::World::get" alt="" coords="341,5,483,35"/>
+<area shape="rect" id="node5" href="$class_f_a_save_game_1_1_save_game_manager.html#a850dea5a0a18721bebd30e31bc47410b" title="FASaveGame::SaveGameManager::load" alt="" coords="283,59,541,88"/>
+<area shape="rect" id="node7" href="$class_f_a_world_1_1_world.html#a8715034c60fe91ec17c2baf2d57c8e79" title="FAWorld::World::getCurrentPlayer" alt="" coords="589,32,811,61"/>
+<area shape="rect" id="node9" href="$class_f_a_world_1_1_world.html#a007c249fa3741639e4a9ea741aec81ce" title="FAWorld::World::setLevel" alt="" coords="615,85,785,115"/>
+<area shape="rect" id="node11" href="$class_f_a_world_1_1_actor.html#ac7f3a1a4b5b66da302e257ea3b5c0f58" title="FAWorld::Actor::getLevel" alt="" coords="893,32,1061,61"/>
+<area shape="rect" id="node13" href="$class_f_a_world_1_1_game_level.html#aa34b6cd6ab73af749fe3a92426b55bb8" title="FAWorld::GameLevel::getLevelIndex" alt="" coords="860,85,1095,115"/>
+<area shape="rect" id="node15" href="$class_f_a_world_1_1_player.html#a0fd3d6ce622b0bd7a874c820fa442953" title="FAWorld::Player::setLevel" alt="" coords="891,139,1064,168"/>
 </map>

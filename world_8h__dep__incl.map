@@ -1,12 +1,11 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$enginemain_8cpp.html" title="apps/freeablo/engine/enginemain.cpp" alt="" coords="5,83,243,112"/>
-<area shape="rect" id="node5" href="$input_8cpp.html" title="apps/freeablo/engine/input.cpp" alt="" coords="267,83,464,112"/>
-<area shape="rect" id="node7" href="$netmanager_8cpp.html" title="apps/freeablo/engine/netmanager.cpp" alt="" coords="488,83,725,112"/>
-<area shape="rect" id="node9" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="749,83,960,112"/>
-<area shape="rect" id="node11" href="$guimanager_8cpp.html" title="apps/freeablo/fagui/guimanager.cpp" alt="" coords="984,83,1211,112"/>
-<area shape="rect" id="node13" href="$savegamemanager_8cpp.html" title="apps/freeablo/fasavegame/savegamemanager.cpp" alt="" coords="1235,83,1549,112"/>
-<area shape="rect" id="node15" href="$actor_8cpp.html" title="apps/freeablo/faworld/actor.cpp" alt="" coords="1573,83,1776,112"/>
-<area shape="rect" id="node17" href="$gamelevel_8cpp.html" title="apps/freeablo/faworld/gamelevel.cpp" alt="" coords="1800,83,2035,112"/>
-<area shape="rect" id="node19" href="$player_8cpp.html" title="apps/freeablo/faworld/player.cpp" alt="" coords="2059,83,2269,112"/>
-<area shape="rect" id="node21" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="2293,83,2499,112"/>
+<area shape="rect" id="node5" href="$netmanager_8cpp.html" title="apps/freeablo/engine/netmanager.cpp" alt="" coords="267,83,504,112"/>
+<area shape="rect" id="node7" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="528,83,739,112"/>
+<area shape="rect" id="node9" href="$guimanager_8cpp.html" title="apps/freeablo/fagui/guimanager.cpp" alt="" coords="763,83,989,112"/>
+<area shape="rect" id="node11" href="$savegamemanager_8cpp.html" title="apps/freeablo/fasavegame/savegamemanager.cpp" alt="" coords="1013,83,1328,112"/>
+<area shape="rect" id="node13" href="$actor_8cpp.html" title="apps/freeablo/faworld/actor.cpp" alt="" coords="1352,83,1555,112"/>
+<area shape="rect" id="node15" href="$gamelevel_8cpp.html" title="apps/freeablo/faworld/gamelevel.cpp" alt="" coords="1579,83,1813,112"/>
+<area shape="rect" id="node17" href="$player_8cpp.html" title="apps/freeablo/faworld/player.cpp" alt="" coords="1837,83,2048,112"/>
+<area shape="rect" id="node19" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="2072,83,2277,112"/>
 </map>

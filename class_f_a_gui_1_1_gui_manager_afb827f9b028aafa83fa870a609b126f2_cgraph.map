@@ -1,6 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$namespace_f_a_gui.html#af3f1c6ee8afa7e579b77ad7f95596fb8" title="FAGui::initPython" alt="" coords="335,5,460,35"/>
-<area shape="rect" id="node5" href="$class_input_1_1_hotkey.html#acb265f8ec7121f3eb47a415b59bf3a23" title="Input::Hotkey::initpythonwrapper" alt="" coords="292,59,503,88"/>
-<area shape="rect" id="node7" href="$namespace_cel.html#a4e01b99470fde6ba49817d25dc1e2bc6" title="Cel::get" alt="" coords="364,112,431,141"/>
-<area shape="rect" id="node9" href="$class_f_a_render_1_1_renderer.html#a9f198f6d107afbe18b9f68231c4b2b8c" title="FARender::Renderer::getRocketContext" alt="" coords="269,165,525,195"/>
+<area shape="rect" id="node3" href="$namespace_f_a_gui.html#aefb7d724be14d17eba2c097137666ed4" title="FAGui::initializePython" alt="" coords="320,5,475,35"/>
+<area shape="rect" id="node7" href="$namespace_cel.html#a4e01b99470fde6ba49817d25dc1e2bc6" title="Cel::get" alt="" coords="364,59,431,88"/>
+<area shape="rect" id="node9" href="$class_f_a_render_1_1_renderer.html#a9f198f6d107afbe18b9f68231c4b2b8c" title="FARender::Renderer::getRocketContext" alt="" coords="269,112,525,141"/>
+<area shape="rect" id="node5" href="$class_input_1_1_hotkey.html#aad7aa8f75e7368ad4626f3ee95027835" title="Input::Hotkey::initializePythonWrapper" alt="" coords="575,5,820,35"/>
 </map>

@@ -1,5 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="node2" href="$class_f_a_gui_1_1_gui_manager.html" title="FAGui::GuiManager" alt="" coords="84,197,220,227"/>
-<area shape="rect" id="node5" href="$class_f_a_world_1_1_inventory.html" title="FAWorld::Inventory" alt="" coords="5,5,139,35"/>
-<area shape="rect" id="node7" href="$class_engine_1_1_engine_main.html" title="Engine::EngineMain" alt="" coords="163,5,301,35"/>
+<area shape="rect" id="node2" href="$class_f_a_gui_1_1_gui_manager.html" title="FAGui::GuiManager" alt="" coords="69,277,205,307"/>
+<area shape="rect" id="node5" href="$class_f_a_world_1_1_inventory.html" title="FAWorld::Inventory" alt="" coords="5,85,139,115"/>
+<area shape="rect" id="node7" href="$class_engine_1_1_engine_main.html" title="Engine::EngineMain" alt="" coords="163,85,301,115"/>
+<area shape="rect" id="node9" href="$class_engine_1_1_keyboard_input_observer_interface.html" title="Engine::KeyboardInputObserverInterface" alt="" coords="103,5,361,35"/>
 </map>

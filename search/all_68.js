@@ -127,7 +127,7 @@ var searchData=
   ['horizontalspacer',['horizontalSpacer',['../class_ui___main_window.html#a7871ea8c4b6c595d7ccd53960b344719',1,'Ui_MainWindow']]],
   ['host',['host',['../classupload_1_1_abstract_rpc_server.html#ab7188d827e2faddcf970f524f5856192',1,'upload::AbstractRpcServer']]],
   ['host_5foverride',['host_override',['../classupload_1_1_abstract_rpc_server.html#a783a4a7e4ffb776a57a3f267300a213b',1,'upload::AbstractRpcServer']]],
-  ['hotkey',['Hotkey',['../class_input_1_1_hotkey.html#aa46c53768042f4b36becd21eb6badb8d',1,'Input::Hotkey::Hotkey()'],['../class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656',1,'Input::Hotkey::Hotkey(const char *name)'],['../class_input_1_1_hotkey.html#afd7137ebc76ac86902e6cb9e63918422',1,'Input::Hotkey::Hotkey(int nkey, bool nshift, bool nctrl, bool nalt)']]],
+  ['hotkey',['Hotkey',['../class_input_1_1_hotkey.html#aa46c53768042f4b36becd21eb6badb8d',1,'Input::Hotkey::Hotkey()'],['../class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656',1,'Input::Hotkey::Hotkey(const char *name)'],['../class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b',1,'Input::Hotkey::Hotkey(const std::string &amp;name)'],['../class_input_1_1_hotkey.html#afd7137ebc76ac86902e6cb9e63918422',1,'Input::Hotkey::Hotkey(int nkey, bool nshift, bool nctrl, bool nalt)']]],
   ['hotkey',['Hotkey',['../class_input_1_1_hotkey.html',1,'Input']]],
   ['hotkey_2ecpp',['hotkey.cpp',['../hotkey_8cpp.html',1,'']]],
   ['hotkey_2eh',['hotkey.h',['../hotkey_8h.html',1,'']]],

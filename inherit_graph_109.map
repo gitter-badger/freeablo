@@ -1,7 +1,3 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$class_f_a_world_1_1_actor_stats.html" title="FAWorld::ActorStats" alt="" coords="7,59,148,88"/>
-<area shape="rect" id="node3" href="$class_f_a_world_1_1_character_stats_base.html" title="FAWorld::CharacterStatsBase" alt="" coords="199,59,396,88"/>
-<area shape="rect" id="node5" href="$class_f_a_world_1_1_mage_stats.html" title="FAWorld::MageStats" alt="" coords="451,5,595,35"/>
-<area shape="rect" id="node7" href="$class_f_a_world_1_1_melee_stats.html" title="FAWorld::MeleeStats" alt="" coords="449,59,596,88"/>
-<area shape="rect" id="node9" href="$class_f_a_world_1_1_ranger_stats.html" title="FAWorld::RangerStats" alt="" coords="445,112,600,141"/>
+<area shape="rect" id="node1" href="$struct_f_a_world_1_1_actor_net_data.html" title="FAWorld::ActorNetData" alt="" coords="7,5,167,35"/>
 </map>

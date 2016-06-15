@@ -41,5 +41,5 @@ var searchData=
   ['helper2d',['Helper2D',['../class_misc_1_1_helper2_d.html#a3c66c8f9baacbd65651af7cfe54a0524',1,'Misc::Helper2D']]],
   ['hide',['hide',['../class_f_a_gui_1_1_console.html#ab464f7d178128b97c043783145d48037',1,'FAGui::Console']]],
   ['hidedoc',['hideDoc',['../classpython_1_1docmanage_1_1_doc_manager.html#a846750936832a95f1526d3f51f3d3319',1,'python::docmanage::DocManager']]],
-  ['hotkey',['Hotkey',['../class_input_1_1_hotkey.html#aa46c53768042f4b36becd21eb6badb8d',1,'Input::Hotkey::Hotkey()'],['../class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656',1,'Input::Hotkey::Hotkey(const char *name)'],['../class_input_1_1_hotkey.html#afd7137ebc76ac86902e6cb9e63918422',1,'Input::Hotkey::Hotkey(int nkey, bool nshift, bool nctrl, bool nalt)']]]
+  ['hotkey',['Hotkey',['../class_input_1_1_hotkey.html#aa46c53768042f4b36becd21eb6badb8d',1,'Input::Hotkey::Hotkey()'],['../class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656',1,'Input::Hotkey::Hotkey(const char *name)'],['../class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b',1,'Input::Hotkey::Hotkey(const std::string &amp;name)'],['../class_input_1_1_hotkey.html#afd7137ebc76ac86902e6cb9e63918422',1,'Input::Hotkey::Hotkey(int nkey, bool nshift, bool nctrl, bool nalt)']]]
 ];

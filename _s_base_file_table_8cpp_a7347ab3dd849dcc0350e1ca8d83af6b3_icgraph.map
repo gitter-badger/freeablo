@@ -29,7 +29,7 @@
 <area shape="rect" id="node53" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="945,379,1052,408"/>
 <area shape="rect" id="node55" href="$class_f_a_i_o_file_interface.html#a0dd986067a16d1ba2da857c9b59c091c" title="Opens a file." alt="" coords="917,432,1080,461"/>
 <area shape="rect" id="node33" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="1169,219,1399,248"/>
-<area shape="rect" id="node37" href="$class_f_a_audio_1_1_audio_manager.html#a1c562d006a318f6c682dd80e6a278996" title="FAAudio::AudioManager::play" alt="" coords="1187,59,1381,88"/>
+<area shape="rect" id="node37" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="1168,59,1400,88"/>
 <area shape="rect" id="node41" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="1211,165,1357,195"/>
 <area shape="rect" id="node43" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="1180,112,1388,141"/>
 <area shape="rect" id="node60" href="$class_launcher_1_1_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Launcher::MainWindow::MainWindow" alt="" coords="879,699,1119,728"/>
@@ -37,7 +37,7 @@
 <area shape="rect" id="node64" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1259,645,1309,675"/>
 <area shape="rect" id="node68" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="909,963,1088,992"/>
 <area shape="rect" id="node70" href="$class_f_a_level_gen_1_1_tile_set.html#ae1e714bc70bce6e6801511ceaf6d87de" title="FALevelGen::TileSet::TileSet" alt="" coords="903,1016,1095,1045"/>
-<area shape="rect" id="node73" href="$class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656" title="Input::Hotkey::Hotkey" alt="" coords="924,856,1073,885"/>
+<area shape="rect" id="node73" href="$class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b" title="Input::Hotkey::Hotkey" alt="" coords="924,856,1073,885"/>
 <area shape="rect" id="node75" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="931,909,1067,939"/>
 <area shape="rect" id="node81" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="971,539,1027,568"/>
 <area shape="rect" id="node89" href="$_storm_common_8h.html#a7d3f9dcaa29374564574951db3f84fd7" title="SAttrLoadAttributes" alt="" coords="393,1043,529,1072"/>

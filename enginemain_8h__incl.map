@@ -1,2 +1,9 @@
 <map id="G" name="G">
+<area shape="rect" id="node7" href="$engineinputmanager_8h.html" title="engineinputmanager.h" alt="" coords="301,83,451,112"/>
+<area shape="rect" id="node15" href="$hotkey_8h.html" title="input/hotkey.h" alt="" coords="368,160,472,189"/>
+<area shape="rect" id="node18" href="$inputmanager_8h.html" title="input/inputmanager.h" alt="" coords="548,160,689,189"/>
+<area shape="rect" id="node34" href="$inputobserverinterface_8h.html" title="inputobserverinterface.h" alt="" coords="713,160,873,189"/>
+<area shape="rect" id="node26" href="$disablewarn_8h.html" title="misc/disablewarn.h" alt="" coords="744,237,877,267"/>
+<area shape="rect" id="node30" href="$enablewarn_8h.html" title="misc/enablewarn.h" alt="" coords="1032,237,1163,267"/>
+<area shape="rect" id="node32" href="$keys_8h.html" title="keys.h" alt="" coords="1187,237,1248,267"/>
 </map>

@@ -91,37 +91,37 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l00008"></a>00008 <span class="preprocessor">#include &quot;<a class="code" href="actor_8h.html">actor.h</a>&quot;</span>
 <a name="l00009"></a>00009 <span class="preprocessor">#include &quot;<a class="code" href="player_8h.html">player.h</a>&quot;</span>
 <a name="l00010"></a>00010 <span class="preprocessor">#include &quot;<a class="code" href="gamelevel_8h.html">gamelevel.h</a>&quot;</span>
-<a name="l00011"></a>00011 
+<a name="l00011"></a>00011 <span class="preprocessor">#include &quot;../engine/inputobserverinterface.h&quot;</span>
 <a name="l00012"></a>00012 
-<a name="l00013"></a>00013 <span class="keyword">namespace </span>FARender
-<a name="l00014"></a>00014 {
-<a name="l00015"></a>00015     <span class="keyword">class </span>RenderState;
-<a name="l00016"></a>00016 }
-<a name="l00017"></a>00017 
-<a name="l00018"></a>00018 <span class="keyword">namespace </span>DiabloExe
-<a name="l00019"></a>00019 {
-<a name="l00020"></a>00020     <span class="keyword">class </span><a class="code" href="class_diablo_exe_1_1_diablo_exe.html#aae82ed26725dbd5b89faca92507958f0">DiabloExe</a>;
-<a name="l00021"></a>00021 }
-<a name="l00022"></a>00022 
-<a name="l00023"></a>00023 <span class="keyword">namespace </span>FAWorld
-<a name="l00024"></a>00024 {
-<a name="l00025"></a><a class="code" href="class_f_a_world_1_1_world.html">00025</a>     <span class="keyword">class </span><a class="code" href="class_f_a_world_1_1_world.html">World</a>
-<a name="l00026"></a>00026     {
-<a name="l00027"></a>00027         <span class="keyword">public</span>:
-<a name="l00028"></a>00028             <a class="code" href="class_f_a_world_1_1_world.html#aa01b099e77f672b1b5af97957d299e77">World</a>(<span class="keyword">const</span> <a class="code" href="class_diablo_exe_1_1_diablo_exe.html">DiabloExe::DiabloExe</a>&amp; exe);
-<a name="l00029"></a>00029             <a class="code" href="class_f_a_world_1_1_world.html#ab80db6139fc7fe03b2e174fdc1ea6243">~World</a>();
-<a name="l00030"></a>00030 
-<a name="l00031"></a>00031             <span class="keyword">static</span> <a class="code" href="class_f_a_world_1_1_world.html">World</a>* <span class="keyword">get</span>();
-<a name="l00032"></a>00032 
-<a name="l00033"></a>00033             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#a5f2ca8c8743cc7689ba9227be88f9556">generateLevels</a>();
-<a name="l00034"></a>00034 
-<a name="l00035"></a>00035             <a class="code" href="class_f_a_world_1_1_game_level.html">GameLevel</a>* <a class="code" href="class_f_a_world_1_1_world.html#a0cb638b42a04dba460fcaf3e0a261fd9">getCurrentLevel</a>();
-<a name="l00036"></a>00036             <span class="keywordtype">size_t</span> <a class="code" href="class_f_a_world_1_1_world.html#a1cecdd7a29335885b67df630d476585f">getCurrentLevelIndex</a>();
-<a name="l00037"></a>00037 
-<a name="l00038"></a>00038             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#ae5fed250c5639c9975fda9e35691007b">setLevel</a>(int32_t levelnum);
-<a name="l00039"></a>00039 
-<a name="l00040"></a>00040             <a class="code" href="class_f_a_world_1_1_game_level.html">GameLevel</a>* <a class="code" href="class_f_a_world_1_1_world.html#ac6272910c9d6657ee6bf5cac86584bd4">getLevel</a>(<span class="keywordtype">size_t</span> levelNum);
-<a name="l00041"></a>00041             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#ae0c89df31442b41a473b1d8d9094e3ed">insertLevel</a>(<span class="keywordtype">size_t</span> levelNum, <a class="code" href="class_f_a_world_1_1_game_level.html">GameLevel</a>* level);
+<a name="l00013"></a>00013 
+<a name="l00014"></a>00014 <span class="keyword">namespace </span>FARender
+<a name="l00015"></a>00015 {
+<a name="l00016"></a>00016     <span class="keyword">class </span>RenderState;
+<a name="l00017"></a>00017 }
+<a name="l00018"></a>00018 
+<a name="l00019"></a>00019 <span class="keyword">namespace </span>DiabloExe
+<a name="l00020"></a>00020 {
+<a name="l00021"></a>00021     <span class="keyword">class </span><a class="code" href="class_diablo_exe_1_1_diablo_exe.html#aae82ed26725dbd5b89faca92507958f0">DiabloExe</a>;
+<a name="l00022"></a>00022 }
+<a name="l00023"></a>00023 
+<a name="l00024"></a>00024 <span class="keyword">namespace </span>FAWorld
+<a name="l00025"></a>00025 {
+<a name="l00026"></a><a class="code" href="class_f_a_world_1_1_world.html">00026</a>     <span class="keyword">class </span><a class="code" href="class_f_a_world_1_1_world.html">World</a> : <span class="keyword">public</span> Engine::KeyboardInputObserverInterface, <span class="keyword">public</span> Engine::MouseInputObserverInterface
+<a name="l00027"></a>00027     {
+<a name="l00028"></a>00028         <span class="keyword">public</span>:
+<a name="l00029"></a>00029             <a class="code" href="class_f_a_world_1_1_world.html#aa01b099e77f672b1b5af97957d299e77">World</a>(<span class="keyword">const</span> <a class="code" href="class_diablo_exe_1_1_diablo_exe.html">DiabloExe::DiabloExe</a>&amp; exe);
+<a name="l00030"></a>00030             <a class="code" href="class_f_a_world_1_1_world.html#ab80db6139fc7fe03b2e174fdc1ea6243">~World</a>();
+<a name="l00031"></a>00031 
+<a name="l00032"></a>00032             <span class="keyword">static</span> <a class="code" href="class_f_a_world_1_1_world.html">World</a>* <span class="keyword">get</span>();
+<a name="l00033"></a>00033             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#a5ca625f65a59ea74b48b95338aae3a90">notify</a>(<a class="code" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">Engine::KeyboardInputAction</a> action);
+<a name="l00034"></a>00034             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#a5ca625f65a59ea74b48b95338aae3a90">notify</a>(<a class="code" href="namespace_engine.html#a95bfc85950c2abe409801e2c35feafef">Engine::MouseInputAction</a> action, <a class="code" href="struct_engine_1_1_point.html">Engine::Point</a> mousePosition);
+<a name="l00035"></a>00035             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#a5f2ca8c8743cc7689ba9227be88f9556">generateLevels</a>();
+<a name="l00036"></a>00036             <a class="code" href="class_f_a_world_1_1_game_level.html">GameLevel</a>* <a class="code" href="class_f_a_world_1_1_world.html#a0cb638b42a04dba460fcaf3e0a261fd9">getCurrentLevel</a>();
+<a name="l00037"></a>00037             <span class="keywordtype">size_t</span> <a class="code" href="class_f_a_world_1_1_world.html#a1cecdd7a29335885b67df630d476585f">getCurrentLevelIndex</a>();
+<a name="l00038"></a>00038 
+<a name="l00039"></a>00039             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#a007c249fa3741639e4a9ea741aec81ce">setLevel</a>(<span class="keywordtype">size_t</span> level);
+<a name="l00040"></a>00040             <a class="code" href="class_f_a_world_1_1_game_level.html">GameLevel</a>* <a class="code" href="class_f_a_world_1_1_world.html#a7d136d8ca5cf86ca4e1cc5b6fb4ef373">getLevel</a>(<span class="keywordtype">size_t</span> level);
+<a name="l00041"></a>00041             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#aef83bbf139aa4a33f05117a41bc5bed0">insertLevel</a>(<span class="keywordtype">size_t</span> level, <a class="code" href="class_f_a_world_1_1_game_level.html">GameLevel</a>* gameLevel);
 <a name="l00042"></a>00042 
 <a name="l00043"></a>00043             <a class="code" href="class_f_a_world_1_1_actor.html">Actor</a>* <a class="code" href="class_f_a_world_1_1_world.html#a232923bf93809b892f0e295ea678d395">getActorAt</a>(<span class="keywordtype">size_t</span> x, <span class="keywordtype">size_t</span> y);
 <a name="l00044"></a>00044 
@@ -141,16 +141,22 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l00058"></a>00058             <span class="keywordtype">void</span> <a class="code" href="class_f_a_world_1_1_world.html#aaecb67ae98d669231b9b2fcab7b9fc16">getAllActors</a>(std::vector&lt;Actor*&gt;&amp; actors);
 <a name="l00059"></a>00059 
 <a name="l00060"></a>00060         <span class="keyword">private</span>:
-<a name="l00061"></a>00061             std::map&lt;size_t, GameLevel*&gt; mLevels;
-<a name="l00062"></a>00062 
-<a name="l00063"></a>00063             <span class="keywordtype">size_t</span> mTicksPassed=0;
-<a name="l00064"></a>00064             <a class="code" href="class_f_a_world_1_1_player.html">Player</a>* mCurrentPlayer;
-<a name="l00065"></a>00065             std::vector&lt;Player*&gt; mPlayers;
-<a name="l00066"></a>00066             <span class="keyword">const</span> <a class="code" href="class_diablo_exe_1_1_diablo_exe.html">DiabloExe::DiabloExe</a>&amp; mDiabloExe;
-<a name="l00067"></a>00067     };
-<a name="l00068"></a>00068 }
-<a name="l00069"></a>00069 
-<a name="l00070"></a>00070 <span class="preprocessor">#endif</span>
+<a name="l00061"></a>00061             <span class="keywordtype">void</span> playLevelMusic(<span class="keywordtype">size_t</span> level);
+<a name="l00062"></a>00062             <span class="keywordtype">void</span> changeLevel(<span class="keywordtype">bool</span> up);
+<a name="l00063"></a>00063             <span class="keywordtype">void</span> stopPlayerActions();
+<a name="l00064"></a>00064             <span class="keywordtype">void</span> onMouseClick(<a class="code" href="struct_engine_1_1_point.html">Engine::Point</a> mousePosition);
+<a name="l00065"></a>00065             <span class="keywordtype">void</span> onMouseDown(<a class="code" href="struct_engine_1_1_point.html">Engine::Point</a> mousePosition);
+<a name="l00066"></a>00066 
+<a name="l00067"></a>00067             std::map&lt;size_t, GameLevel*&gt; mLevels;
+<a name="l00068"></a>00068             <span class="keywordtype">size_t</span> mTicksPassed = 0;
+<a name="l00069"></a>00069             <a class="code" href="class_f_a_world_1_1_player.html">Player</a>* mCurrentPlayer;
+<a name="l00070"></a>00070             std::vector&lt;Player*&gt; mPlayers;
+<a name="l00071"></a>00071             <span class="keyword">const</span> <a class="code" href="class_diablo_exe_1_1_diablo_exe.html">DiabloExe::DiabloExe</a>&amp; mDiabloExe;
+<a name="l00072"></a>00072             std::pair&lt;int32_t, int32_t&gt; mDestination;
+<a name="l00073"></a>00073     };
+<a name="l00074"></a>00074 }
+<a name="l00075"></a>00075 
+<a name="l00076"></a>00076 <span class="preprocessor">#endif</span>
 </pre></div></div><!-- contents -->
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"

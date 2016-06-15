@@ -89,8 +89,11 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <table class="memberdecls">
 <tr><td colspan="2"><h2><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html">EngineMain</a></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_input_manager.html">EngineInputManager</a></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html">EngineMain</a></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_engine_1_1_point.html">Point</a></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_keyboard_input_observer_interface.html">KeyboardInputObserverInterface</a></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_mouse_input_observer_interface.html">MouseInputObserverInterface</a></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_engine_1_1_server_packet_header.html">ServerPacketHeader</a></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_engine_1_1_client_packet.html">ClientPacket</a></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_net_manager.html">NetManager</a></td></tr>
@@ -98,13 +101,27 @@ Classes</h2></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_thread_manager.html">ThreadManager</a></td></tr>
 <tr><td colspan="2"><h2><a name="enum-members"></a>
 Enumerations</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a> { <br/>
+&#160;&#160;<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aad7d82bfd5b96d077d06fd2205e3f6eae">QUIT</a>, 
+<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aaa0b54255efe2a5e6fc26c5a098841934">NOCLIP</a>, 
+<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aafdfdb86b3e99df9f76d9667cbedef440">CHANGE_LEVEL_DOWN</a>, 
+<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aa0ded9fcda4bc267ad0fb8304b9bc4a16">CHANGE_LEVEL_UP</a>, 
+<br/>
+&#160;&#160;<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aaf756f4f3ffa1df247f3b36eff814572c">TOGGLE_CONSOLE</a>, 
+<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aa3cc029d4d2b62013f6c79cce981fc7b1">KEYBOARD_INPUT_ACTION_MAX</a>
+<br/>
+ }</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a95bfc85950c2abe409801e2c35feafef">MouseInputAction</a> { <a class="el" href="namespace_engine.html#a95bfc85950c2abe409801e2c35feafefa1dbbb42d4153bd42ea6c230e1c6efb2e">MOUSE_RELEASE</a>, 
+<a class="el" href="namespace_engine.html#a95bfc85950c2abe409801e2c35feafefaec79654c9e97c54c712d6ca566446520">MOUSE_DOWN</a>, 
+<a class="el" href="namespace_engine.html#a95bfc85950c2abe409801e2c35feafefa692686b94b7b05a3655cee9f3d04f3a8">MOUSE_CLICK</a>
+ }</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#ac3bcf9b01492be06a1ed501aad5aeebc">ReliableMessageKind</a> { <a class="el" href="namespace_engine.html#ac3bcf9b01492be06a1ed501aad5aeebca736f4a7bfdb25b6dac155129c5e00535">Level</a> =  100, 
 <a class="el" href="namespace_engine.html#ac3bcf9b01492be06a1ed501aad5aeebca5cca46d5eeb4639b00332b1f12c434c8">Sprite</a> =  101
  }</td></tr>
-<tr><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920">ThreadState</a> { <a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a2df62642b80b41edd9ead7c73256706f">musicPlay</a>, 
-<a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a7152e1376ce5c146cf9c51518b2e3150">soundPlay</a>, 
-<a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a32ad214bfbc87c1c8950d40c02f027ac">soundStop</a>, 
-<a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a5ae9cefa638fe6f7cce2202b8a10914b">renderState</a>
+<tr><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920">ThreadState</a> { <a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a607a240944ffb34234f86340665bc673">PLAY_MUSIC</a>, 
+<a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920aa57fe4cebf4c79aaaf07d3120bbbf6ae">PLAY_SOUND</a>, 
+<a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a1906b438a5fa847bedbe5a54b0c98382">STOP_SOUND</a>, 
+<a class="el" href="namespace_engine.html#a1dcbd7e753fb41b7760c029faed80920a860ee0853cd7b33ad66ced14cc86ffbd">RENDER_STATE</a>
  }</td></tr>
 <tr><td colspan="2"><h2><a name="func-members"></a>
 Functions</h2></td></tr>
@@ -115,14 +132,61 @@ Functions</h2></td></tr>
 <tr><td colspan="2"><h2><a name="var-members"></a>
 Variables</h2></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">volatile <a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a89057d19926de885e06263a8d3be9e95">renderDone</a> = <a class="el" href="_storm_port_8h.html#a65e9886d74aaee76545e83dd09011727">false</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a13f25430eafa776f97dc903308bf7de5">quit_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#aebed76765c9c01d7c4487e5a685dc2fc">noclip_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a0e33736fd52477614e4bd6f010a63813">changelvldwn_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a2ff9784022688f743562c4928db59f6a">changelvlup_key</a></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a4c560579dc44d62170890925aa2d4cc1">toggleconsole_key</a></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_engine_1_1_net_manager.html">NetManager</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_engine.html#a23f06f423289f8a0d4d5e53eaa0cae2f">singletonInstance</a> = <a class="el" href="huff__old_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></td></tr>
 </table>
 <hr/><h2>Enumeration Type Documentation</h2>
+<a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984a"></a><!-- doxytag: member="Engine::KeyboardInputAction" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984a" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">Engine::KeyboardInputAction</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+<dl><dt><b>Enumerator: </b></dt><dd><table border="0" cellspacing="2" cellpadding="0">
+<tr><td valign="top"><em><a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984aad7d82bfd5b96d077d06fd2205e3f6eae"></a><!-- doxytag: member="QUIT" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984aad7d82bfd5b96d077d06fd2205e3f6eae" args="" -->QUIT</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984aaa0b54255efe2a5e6fc26c5a098841934"></a><!-- doxytag: member="NOCLIP" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984aaa0b54255efe2a5e6fc26c5a098841934" args="" -->NOCLIP</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984aafdfdb86b3e99df9f76d9667cbedef440"></a><!-- doxytag: member="CHANGE_LEVEL_DOWN" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984aafdfdb86b3e99df9f76d9667cbedef440" args="" -->CHANGE_LEVEL_DOWN</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984aa0ded9fcda4bc267ad0fb8304b9bc4a16"></a><!-- doxytag: member="CHANGE_LEVEL_UP" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984aa0ded9fcda4bc267ad0fb8304b9bc4a16" args="" -->CHANGE_LEVEL_UP</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984aaf756f4f3ffa1df247f3b36eff814572c"></a><!-- doxytag: member="TOGGLE_CONSOLE" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984aaf756f4f3ffa1df247f3b36eff814572c" args="" -->TOGGLE_CONSOLE</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="aa8c0bb918cb64fe07e3d3e2c5fbc984aa3cc029d4d2b62013f6c79cce981fc7b1"></a><!-- doxytag: member="KEYBOARD_INPUT_ACTION_MAX" ref="aa8c0bb918cb64fe07e3d3e2c5fbc984aa3cc029d4d2b62013f6c79cce981fc7b1" args="" -->KEYBOARD_INPUT_ACTION_MAX</em>&nbsp;</td><td>
+</td></tr>
+</table>
+</dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="a95bfc85950c2abe409801e2c35feafef"></a><!-- doxytag: member="Engine::MouseInputAction" ref="a95bfc85950c2abe409801e2c35feafef" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_engine.html#a95bfc85950c2abe409801e2c35feafef">Engine::MouseInputAction</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+<dl><dt><b>Enumerator: </b></dt><dd><table border="0" cellspacing="2" cellpadding="0">
+<tr><td valign="top"><em><a class="anchor" id="a95bfc85950c2abe409801e2c35feafefa1dbbb42d4153bd42ea6c230e1c6efb2e"></a><!-- doxytag: member="MOUSE_RELEASE" ref="a95bfc85950c2abe409801e2c35feafefa1dbbb42d4153bd42ea6c230e1c6efb2e" args="" -->MOUSE_RELEASE</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="a95bfc85950c2abe409801e2c35feafefaec79654c9e97c54c712d6ca566446520"></a><!-- doxytag: member="MOUSE_DOWN" ref="a95bfc85950c2abe409801e2c35feafefaec79654c9e97c54c712d6ca566446520" args="" -->MOUSE_DOWN</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="a95bfc85950c2abe409801e2c35feafefa692686b94b7b05a3655cee9f3d04f3a8"></a><!-- doxytag: member="MOUSE_CLICK" ref="a95bfc85950c2abe409801e2c35feafefa692686b94b7b05a3655cee9f3d04f3a8" args="" -->MOUSE_CLICK</em>&nbsp;</td><td>
+</td></tr>
+</table>
+</dd>
+</dl>
+
+</div>
+</div>
 <a class="anchor" id="ac3bcf9b01492be06a1ed501aad5aeebc"></a><!-- doxytag: member="Engine::ReliableMessageKind" ref="ac3bcf9b01492be06a1ed501aad5aeebc" args="" -->
 <div class="memitem">
 <div class="memproto">
@@ -155,13 +219,13 @@ Variables</h2></td></tr>
 </div>
 <div class="memdoc">
 <dl><dt><b>Enumerator: </b></dt><dd><table border="0" cellspacing="2" cellpadding="0">
-<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a2df62642b80b41edd9ead7c73256706f"></a><!-- doxytag: member="musicPlay" ref="a1dcbd7e753fb41b7760c029faed80920a2df62642b80b41edd9ead7c73256706f" args="" -->musicPlay</em>&nbsp;</td><td>
+<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a607a240944ffb34234f86340665bc673"></a><!-- doxytag: member="PLAY_MUSIC" ref="a1dcbd7e753fb41b7760c029faed80920a607a240944ffb34234f86340665bc673" args="" -->PLAY_MUSIC</em>&nbsp;</td><td>
 </td></tr>
-<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a7152e1376ce5c146cf9c51518b2e3150"></a><!-- doxytag: member="soundPlay" ref="a1dcbd7e753fb41b7760c029faed80920a7152e1376ce5c146cf9c51518b2e3150" args="" -->soundPlay</em>&nbsp;</td><td>
+<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920aa57fe4cebf4c79aaaf07d3120bbbf6ae"></a><!-- doxytag: member="PLAY_SOUND" ref="a1dcbd7e753fb41b7760c029faed80920aa57fe4cebf4c79aaaf07d3120bbbf6ae" args="" -->PLAY_SOUND</em>&nbsp;</td><td>
 </td></tr>
-<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a32ad214bfbc87c1c8950d40c02f027ac"></a><!-- doxytag: member="soundStop" ref="a1dcbd7e753fb41b7760c029faed80920a32ad214bfbc87c1c8950d40c02f027ac" args="" -->soundStop</em>&nbsp;</td><td>
+<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a1906b438a5fa847bedbe5a54b0c98382"></a><!-- doxytag: member="STOP_SOUND" ref="a1dcbd7e753fb41b7760c029faed80920a1906b438a5fa847bedbe5a54b0c98382" args="" -->STOP_SOUND</em>&nbsp;</td><td>
 </td></tr>
-<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a5ae9cefa638fe6f7cce2202b8a10914b"></a><!-- doxytag: member="renderState" ref="a1dcbd7e753fb41b7760c029faed80920a5ae9cefa638fe6f7cce2202b8a10914b" args="" -->renderState</em>&nbsp;</td><td>
+<tr><td valign="top"><em><a class="anchor" id="a1dcbd7e753fb41b7760c029faed80920a860ee0853cd7b33ad66ced14cc86ffbd"></a><!-- doxytag: member="RENDER_STATE" ref="a1dcbd7e753fb41b7760c029faed80920a860ee0853cd7b33ad66ced14cc86ffbd" args="" -->RENDER_STATE</em>&nbsp;</td><td>
 </td></tr>
 </table>
 </dd>
@@ -259,58 +323,6 @@ Here is the caller graph for this function:</div>
 </div>
 </div>
 <hr/><h2>Variable Documentation</h2>
-<a class="anchor" id="a0e33736fd52477614e4bd6f010a63813"></a><!-- doxytag: member="Engine::changelvldwn_key" ref="a0e33736fd52477614e4bd6f010a63813" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="namespace_engine.html#a0e33736fd52477614e4bd6f010a63813">Engine::changelvldwn_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a2ff9784022688f743562c4928db59f6a"></a><!-- doxytag: member="Engine::changelvlup_key" ref="a2ff9784022688f743562c4928db59f6a" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="namespace_engine.html#a2ff9784022688f743562c4928db59f6a">Engine::changelvlup_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="aebed76765c9c01d7c4487e5a685dc2fc"></a><!-- doxytag: member="Engine::noclip_key" ref="aebed76765c9c01d7c4487e5a685dc2fc" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="namespace_engine.html#aebed76765c9c01d7c4487e5a685dc2fc">Engine::noclip_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a13f25430eafa776f97dc903308bf7de5"></a><!-- doxytag: member="Engine::quit_key" ref="a13f25430eafa776f97dc903308bf7de5" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="namespace_engine.html#a13f25430eafa776f97dc903308bf7de5">Engine::quit_key</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="a89057d19926de885e06263a8d3be9e95"></a><!-- doxytag: member="Engine::renderDone" ref="a89057d19926de885e06263a8d3be9e95" args="" -->
 <div class="memitem">
 <div class="memproto">
@@ -330,19 +342,6 @@ Here is the caller graph for this function:</div>
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="class_engine_1_1_net_manager.html">NetManager</a>* <a class="el" href="namespace_engine.html#a23f06f423289f8a0d4d5e53eaa0cae2f">Engine::singletonInstance</a> = <a class="el" href="huff__old_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a4c560579dc44d62170890925aa2d4cc1"></a><!-- doxytag: member="Engine::toggleconsole_key" ref="a4c560579dc44d62170890925aa2d4cc1" args="" -->
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_input_1_1_hotkey.html">Input::Hotkey</a> <a class="el" href="namespace_engine.html#a4c560579dc44d62170890925aa2d4cc1">Engine::toggleconsole_key</a></td>
         </tr>
       </table>
 </div>

@@ -29,8 +29,6 @@ var searchData=
   ['cftabcopy',['cftabCopy',['../struct_d_state.html#aff8c9bb93cdc448a3f82d654d6335311',1,'DState']]],
   ['changehotkeyerrorfile',['ChangeHotKeyErrorFile',['../classpython_1_1docmanage_1_1_doc_manager.html#ae9e6ad4aae862f0cd85b2d95fed3358a',1,'python::docmanage::DocManager']]],
   ['changehotkeyfile',['ChangeHotKeyFile',['../classpython_1_1docmanage_1_1_doc_manager.html#a953c17fc4dbf3fcdd328bb16a10352ab',1,'python::docmanage::DocManager']]],
-  ['changelvldwn_5fkey',['changelvldwn_key',['../class_engine_1_1_engine_input_manager.html#a4f5afbc14d5dee707bc6d15b11cf748f',1,'Engine::EngineInputManager::changelvldwn_key()'],['../namespace_engine.html#a0e33736fd52477614e4bd6f010a63813',1,'Engine::changelvldwn_key()']]],
-  ['changelvlup_5fkey',['changelvlup_key',['../class_engine_1_1_engine_input_manager.html#a174bdeb9c4d43e32cb28d068e4f959a1',1,'Engine::EngineInputManager::changelvlup_key()'],['../namespace_engine.html#a2ff9784022688f743562c4928db59f6a',1,'Engine::changelvlup_key()']]],
   ['characterfile',['CharacterFile',['../classpython_1_1docmanage_1_1_doc_manager.html#ac18678fa30ac06ba07c98b8c40e865ed',1,'python::docmanage::DocManager']]],
   ['chbitsasc',['ChBitsAsc',['../struct_t_dcmp_struct.html#ab367b84dc302bff3e0bfdb8327abcefa',1,'TDcmpStruct']]],
   ['check',['check',['../structinflate__state.html#ae597e4f5c37b9f7881015384bf826371',1,'inflate_state']]],

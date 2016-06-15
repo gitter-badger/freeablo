@@ -105,28 +105,42 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">Engine::EngineMain Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<!-- doxytag: class="Engine::EngineMain" -->
+<!-- doxytag: class="Engine::EngineMain" --><!-- doxytag: inherits="Engine::KeyboardInputObserverInterface" -->
 <p><code>#include &lt;<a class="el" href="enginemain_8h_source.html">enginemain.h</a>&gt;</code></p>
+<div class="dynheader">
+Inheritance diagram for Engine::EngineMain:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_engine_1_1_engine_main__inherit__graph.png" border="0" usemap="#_engine_1_1_engine_main_inherit__map" alt="Inheritance graph"/></div>
+<map name="_engine_1_1_engine_main_inherit__map" id="_engine_1_1_engine_main_inherit__map">
+<area shape="rect" id="node2" href="class_engine_1_1_keyboard_input_observer_interface.html" title="Engine::KeyboardInputObserverInterface" alt="" coords="5,5,264,35"/></map>
+<center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
+<div class="dynheader">
+Collaboration diagram for Engine::EngineMain:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_engine_1_1_engine_main__coll__graph.png" border="0" usemap="#_engine_1_1_engine_main_coll__map" alt="Collaboration graph"/></div>
+<map name="_engine_1_1_engine_main_coll__map" id="_engine_1_1_engine_main_coll__map">
+<area shape="rect" id="node2" href="class_engine_1_1_keyboard_input_observer_interface.html" title="Engine::KeyboardInputObserverInterface" alt="" coords="5,5,264,35"/></map>
+<center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 
 <p><a href="class_engine_1_1_engine_main-members.html">List of all members.</a></p>
 <table class="memberdecls">
 <tr><td colspan="2"><h2><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a9f99dffa767cfaf222cb616a17816ce2">~EngineMain</a> ()</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_engine_1_1_engine_input_manager.html">EngineInputManager</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a149932a5bad73cf8279a5b52f8a73a76">inputManager</a> ()</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf">run</a> (const boost::program_options::variables_map &amp;variables)</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a29cf2582acbc54239ea40124d157c433">stop</a> ()</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a634ca46f524b9dbd4cdd4c93b0dd3d1b">pause</a> ()</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#ae46d281c8d2c93e0536ca381726cbe47">unPause</a> ()</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a8b41dd563e60161e27bec69e768c4d60">toggleNoclip</a> ()</td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_engine_1_1_engine_input_manager.html">EngineInputManager</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#adb8f448125f3c4e10659ad7e7f135a1b">getInputManager</a> ()</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_engine_1_1_engine_main.html#a1b0c35db514703451f35b828aa3d2625">notify</a> (<a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a> action)</td></tr>
 </table>
-<hr/><h2>Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a9f99dffa767cfaf222cb616a17816ce2"></a><!-- doxytag: member="Engine::EngineMain::~EngineMain" ref="a9f99dffa767cfaf222cb616a17816ce2" args="()" -->
+<hr/><h2>Member Function Documentation</h2>
+<a class="anchor" id="a149932a5bad73cf8279a5b52f8a73a76"></a><!-- doxytag: member="Engine::EngineMain::inputManager" ref="a149932a5bad73cf8279a5b52f8a73a76" args="()" -->
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="class_engine_1_1_engine_main.html#a9f99dffa767cfaf222cb616a17816ce2">Engine::EngineMain::~EngineMain</a> </td>
+          <td class="memname"><a class="el" href="class_engine_1_1_engine_input_manager.html">EngineInputManager</a> &amp; <a class="el" href="class_engine_1_1_engine_main.html#a149932a5bad73cf8279a5b52f8a73a76">Engine::EngineMain::inputManager</a> </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -135,29 +149,40 @@ Public Member Functions</h2></td></tr>
 </div>
 <div class="memdoc">
 
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_engine_1_1_engine_main_a149932a5bad73cf8279a5b52f8a73a76_icgraph.png" border="0" usemap="#class_engine_1_1_engine_main_a149932a5bad73cf8279a5b52f8a73a76_icgraph" alt=""/></div>
+<map name="class_engine_1_1_engine_main_a149932a5bad73cf8279a5b52f8a73a76_icgraph" id="class_engine_1_1_engine_main_a149932a5bad73cf8279a5b52f8a73a76_icgraph">
+<area shape="rect" id="node3" href="class_f_a_gui_1_1_f_a_python_funcs.html#a5d628bad1e601c5ea59f11bede2fd890" title="FAGui::FAPythonFuncs::getHotkeyNames" alt="" coords="279,5,548,35"/><area shape="rect" id="node7" href="class_f_a_gui_1_1_f_a_python_funcs.html#a4e2a57a6cca3fc9484e17b9381d85e5d" title="FAGui::FAPythonFuncs::getHotkeys" alt="" coords="296,59,531,88"/><area shape="rect" id="node10" href="class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="299,112,528,141"/><area shape="rect" id="node5" href="namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="597,59,837,88"/></map>
+</div>
+</p>
+
 </div>
 </div>
-<hr/><h2>Member Function Documentation</h2>
-<a class="anchor" id="adb8f448125f3c4e10659ad7e7f135a1b"></a><!-- doxytag: member="Engine::EngineMain::getInputManager" ref="adb8f448125f3c4e10659ad7e7f135a1b" args="()" -->
+<a class="anchor" id="a1b0c35db514703451f35b828aa3d2625"></a><!-- doxytag: member="Engine::EngineMain::notify" ref="a1b0c35db514703451f35b828aa3d2625" args="(KeyboardInputAction action)" -->
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="class_engine_1_1_engine_input_manager.html">EngineInputManager</a>* <a class="el" href="class_engine_1_1_engine_main.html#adb8f448125f3c4e10659ad7e7f135a1b">Engine::EngineMain::getInputManager</a> </td>
+          <td class="memname">void <a class="el" href="class_engine_1_1_engine_main.html#a1b0c35db514703451f35b828aa3d2625">Engine::EngineMain::notify</a> </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td><code> [inline]</code></td>
+          <td class="paramtype"><a class="el" href="namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984a">KeyboardInputAction</a>&#160;</td>
+          <td class="paramname"><em>action</em></td><td>)</td>
+          <td><code> [virtual]</code></td>
         </tr>
       </table>
 </div>
 <div class="memdoc">
 
+<p>Implements <a class="el" href="class_engine_1_1_keyboard_input_observer_interface.html#a1771112e5b599c8d8c89f71ca1650984">Engine::KeyboardInputObserverInterface</a>.</p>
+
 <p><div class="dynheader">
-Here is the caller graph for this function:</div>
+Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="class_engine_1_1_engine_main_adb8f448125f3c4e10659ad7e7f135a1b_icgraph.png" border="0" usemap="#class_engine_1_1_engine_main_adb8f448125f3c4e10659ad7e7f135a1b_icgraph" alt=""/></div>
-<map name="class_engine_1_1_engine_main_adb8f448125f3c4e10659ad7e7f135a1b_icgraph" id="class_engine_1_1_engine_main_adb8f448125f3c4e10659ad7e7f135a1b_icgraph">
-<area shape="rect" id="node3" href="class_f_a_gui_1_1_f_a_python_funcs.html#a5d628bad1e601c5ea59f11bede2fd890" title="FAGui::FAPythonFuncs::getHotkeyNames" alt="" coords="297,5,567,35"/><area shape="rect" id="node7" href="class_f_a_gui_1_1_f_a_python_funcs.html#a4e2a57a6cca3fc9484e17b9381d85e5d" title="FAGui::FAPythonFuncs::getHotkeys" alt="" coords="315,59,549,88"/><area shape="rect" id="node10" href="class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="317,112,547,141"/><area shape="rect" id="node5" href="namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="616,59,856,88"/></map>
+<div class="center"><img src="class_engine_1_1_engine_main_a1b0c35db514703451f35b828aa3d2625_cgraph.png" border="0" usemap="#class_engine_1_1_engine_main_a1b0c35db514703451f35b828aa3d2625_cgraph" alt=""/></div>
+<map name="class_engine_1_1_engine_main_a1b0c35db514703451f35b828aa3d2625_cgraph" id="class_engine_1_1_engine_main_a1b0c35db514703451f35b828aa3d2625_cgraph">
+<area shape="rect" id="node3" href="class_engine_1_1_engine_main.html#a29cf2582acbc54239ea40124d157c433" title="Engine::EngineMain::stop" alt="" coords="256,5,427,35"/><area shape="rect" id="node5" href="class_engine_1_1_engine_main.html#a8b41dd563e60161e27bec69e768c4d60" title="Engine::EngineMain::toggleNoclip" alt="" coords="232,59,451,88"/></map>
 </div>
 </p>
 
@@ -242,7 +267,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_engine_1_1_engine_main_a29cf2582acbc54239ea40124d157c433_icgraph.png" border="0" usemap="#class_engine_1_1_engine_main_a29cf2582acbc54239ea40124d157c433_icgraph" alt=""/></div>
 <map name="class_engine_1_1_engine_main_a29cf2582acbc54239ea40124d157c433_icgraph" id="class_engine_1_1_engine_main_a29cf2582acbc54239ea40124d157c433_icgraph">
-<area shape="rect" id="node3" href="class_f_a_gui_1_1_f_a_python_funcs.html#a13739d0733bd7b81b3ae737faacf32aa" title="FAGui::FAPythonFuncs::quitGame" alt="" coords="225,5,449,35"/><area shape="rect" id="node5" href="namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="499,5,739,35"/></map>
+<area shape="rect" id="node3" href="class_engine_1_1_engine_main.html#a1b0c35db514703451f35b828aa3d2625" title="Engine::EngineMain::notify" alt="" coords="248,5,427,35"/><area shape="rect" id="node5" href="class_f_a_gui_1_1_f_a_python_funcs.html#a13739d0733bd7b81b3ae737faacf32aa" title="FAGui::FAPythonFuncs::quitGame" alt="" coords="225,59,449,88"/><area shape="rect" id="node7" href="namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="499,59,739,88"/></map>
 </div>
 </p>
 
@@ -261,6 +286,15 @@ Here is the caller graph for this function:</div>
       </table>
 </div>
 <div class="memdoc">
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_engine_1_1_engine_main_a8b41dd563e60161e27bec69e768c4d60_icgraph.png" border="0" usemap="#class_engine_1_1_engine_main_a8b41dd563e60161e27bec69e768c4d60_icgraph" alt=""/></div>
+<map name="class_engine_1_1_engine_main_a8b41dd563e60161e27bec69e768c4d60_icgraph" id="class_engine_1_1_engine_main_a8b41dd563e60161e27bec69e768c4d60_icgraph">
+<area shape="rect" id="node3" href="class_engine_1_1_engine_main.html#a1b0c35db514703451f35b828aa3d2625" title="Engine::EngineMain::notify" alt="" coords="272,5,451,35"/></map>
+</div>
+</p>
 
 </div>
 </div>

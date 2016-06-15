@@ -1,4 +1,4 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_engine_1_1_engine_main.html#adb8f448125f3c4e10659ad7e7f135a1b" title="Engine::EngineMain::getInputManager" alt="" coords="325,5,568,35"/>
-<area shape="rect" id="node5" href="$namespace_input.html#aa438a27dfd0bd3fff03fdff9e85d21c0" title="Input::getHotkeyName" alt="" coords="369,59,524,88"/>
+<area shape="rect" id="node3" href="$class_engine_1_1_engine_main.html#a149932a5bad73cf8279a5b52f8a73a76" title="Engine::EngineMain::inputManager" alt="" coords="345,5,569,35"/>
+<area shape="rect" id="node5" href="$class_engine_1_1_engine_input_manager.html#afb7f03273f1e38d28a273eadb312030d" title="Engine::EngineInputManager::getHotkeys" alt="" coords="325,59,589,88"/>
 </map>

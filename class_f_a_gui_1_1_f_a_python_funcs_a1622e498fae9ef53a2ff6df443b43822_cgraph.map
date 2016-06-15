@@ -1,21 +1,5 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$namespace_input.html#a475d6846ae343c7decd8a69d23aa0f82" title="Input::convertRocketKeyToAscii" alt="" coords="299,32,509,61"/>
-<area shape="rect" id="node5" href="$class_engine_1_1_engine_main.html#adb8f448125f3c4e10659ad7e7f135a1b" title="Engine::EngineMain::getInputManager" alt="" coords="283,85,525,115"/>
-<area shape="rect" id="node7" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="336,139,472,168"/>
-<area shape="rect" id="node9" href="$class_settings_1_1_settings.html#aa1bd46b374b1279a3f4d66b2e01ab03c" title="Settings::Settings::loadFromFile" alt="" coords="575,85,783,115"/>
-<area shape="rect" id="node35" href="$class_settings_1_1_settings.html#a617d9edfdc2c80e48b808efcd921b6bb" title="Settings::Settings::set" alt="" coords="603,139,755,168"/>
-<area shape="rect" id="node39" href="$class_settings_1_1_settings.html#ae752b0e9050e09a7beb01e07582fd12f" title="Settings::Settings::save" alt="" coords="597,192,760,221"/>
-<area shape="rect" id="node11" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="832,85,928,115"/>
-<area shape="rect" id="node13" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="977,59,1135,88"/>
-<area shape="rect" id="node15" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="1008,112,1104,141"/>
-<area shape="rect" id="node17" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="1192,5,1320,35"/>
-<area shape="rect" id="node19" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="1189,59,1323,88"/>
-<area shape="rect" id="node21" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="1189,112,1323,141"/>
-<area shape="rect" id="node31" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="1185,165,1327,195"/>
-<area shape="rect" id="node33" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="1209,219,1303,248"/>
-<area shape="rect" id="node23" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="1377,112,1500,141"/>
-<area shape="rect" id="node25" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="1551,85,1681,115"/>
-<area shape="rect" id="node29" href="$_s_base_file_table_8cpp.html#a8b7cf3b06d4cc7779a95a0ef92172269" title="GetBits" alt="" coords="1583,139,1649,168"/>
-<area shape="rect" id="node27" href="$lookup_8h.html#a28bbffa78951ac929184f31d92a05388" title="hashlittle2" alt="" coords="1732,85,1812,115"/>
-<area shape="rect" id="node37" href="$readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b" title="section" alt="" coords="848,139,912,168"/>
+<area shape="rect" id="node3" href="$namespace_input.html#a475d6846ae343c7decd8a69d23aa0f82" title="Input::convertRocketKeyToAscii" alt="" coords="307,5,517,35"/>
+<area shape="rect" id="node5" href="$class_engine_1_1_engine_main.html#a149932a5bad73cf8279a5b52f8a73a76" title="Engine::EngineMain::inputManager" alt="" coords="300,59,524,88"/>
+<area shape="rect" id="node7" href="$class_engine_1_1_engine_input_manager.html#aae743aecedd1a29480b3e100ca946c88" title="Engine::EngineInputManager::setHotkey" alt="" coords="284,112,540,141"/>
 </map>

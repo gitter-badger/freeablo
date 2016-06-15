@@ -1,3 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$struct_engine_1_1_message.html" title="Engine::Message" alt="" coords="5,5,128,35"/>
+<area shape="rect" id="node1" href="$class_engine_1_1_keyboard_input_observer_interface.html" title="Engine::KeyboardInputObserverInterface" alt="" coords="5,5,264,35"/>
+<area shape="rect" id="node3" href="$class_engine_1_1_engine_main.html" title="Engine::EngineMain" alt="" coords="312,5,451,35"/>
+<area shape="rect" id="node5" href="$class_f_a_world_1_1_world.html" title="FAWorld::World" alt="" coords="324,59,439,88"/>
+<area shape="rect" id="node6" href="$class_engine_1_1_mouse_input_observer_interface.html" title="Engine::MouseInputObserverInterface" alt="" coords="13,59,256,88"/>
 </map>

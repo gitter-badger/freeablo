@@ -20,13 +20,13 @@
 <area shape="rect" id="node78" href="$class_f_a_gui_1_1_f_a_python_funcs.html#af3db3e9cf3035c09423bebacde5366de" title="FAGui::FAPythonFuncs::playClickButtonSound" alt="" coords="316,326,615,356"/>
 <area shape="rect" id="node81" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a5d628bad1e601c5ea59f11bede2fd890" title="FAGui::FAPythonFuncs::getHotkeyNames" alt="" coords="331,1121,600,1150"/>
 <area shape="rect" id="node87" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a4e2a57a6cca3fc9484e17b9381d85e5d" title="FAGui::FAPythonFuncs::getHotkeys" alt="" coords="348,1068,583,1097"/>
-<area shape="rect" id="node92" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="351,1174,580,1204"/>
-<area shape="rect" id="node99" href="$class_f_a_gui_1_1_f_a_python_funcs.html#aedaa277fd1fdf292d0205a6ba0d7634d" title="FAGui::FAPythonFuncs::saveGame" alt="" coords="349,1228,581,1257"/>
-<area shape="rect" id="node101" href="$class_f_a_gui_1_1_f_a_python_funcs.html#afbc6e00b8cd71c9d4a7e89739eb3955f" title="FAGui::FAPythonFuncs::loadGame" alt="" coords="352,1281,579,1310"/>
-<area shape="rect" id="node103" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a541dbe3089e7377976ec6ed9d094276b" title="FAGui::FAPythonFuncs::getInvClass" alt="" coords="347,1334,584,1364"/>
-<area shape="rect" id="node105" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a02df52cb30147adb14606b296743e23e" title="FAGui::FAPythonFuncs::updateInventory" alt="" coords="335,1388,596,1417"/>
-<area shape="rect" id="node107" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a9cb1351ff5531061ce7f556dbf0cf478" title="FAGui::FAPythonFuncs::canPlace" alt="" coords="355,1441,576,1470"/>
-<area shape="rect" id="node109" href="$class_f_a_gui_1_1_f_a_python_funcs.html#ab6ebb3e0d60378b1c1efd6e248e28923" title="FAGui::FAPythonFuncs::placeItem" alt="" coords="352,1494,579,1524"/>
+<area shape="rect" id="node93" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="351,1174,580,1204"/>
+<area shape="rect" id="node100" href="$class_f_a_gui_1_1_f_a_python_funcs.html#aedaa277fd1fdf292d0205a6ba0d7634d" title="FAGui::FAPythonFuncs::saveGame" alt="" coords="349,1228,581,1257"/>
+<area shape="rect" id="node102" href="$class_f_a_gui_1_1_f_a_python_funcs.html#afbc6e00b8cd71c9d4a7e89739eb3955f" title="FAGui::FAPythonFuncs::loadGame" alt="" coords="352,1281,579,1310"/>
+<area shape="rect" id="node104" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a541dbe3089e7377976ec6ed9d094276b" title="FAGui::FAPythonFuncs::getInvClass" alt="" coords="347,1334,584,1364"/>
+<area shape="rect" id="node106" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a02df52cb30147adb14606b296743e23e" title="FAGui::FAPythonFuncs::updateInventory" alt="" coords="335,1388,596,1417"/>
+<area shape="rect" id="node108" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a9cb1351ff5531061ce7f556dbf0cf478" title="FAGui::FAPythonFuncs::canPlace" alt="" coords="355,1441,576,1470"/>
+<area shape="rect" id="node110" href="$class_f_a_gui_1_1_f_a_python_funcs.html#ab6ebb3e0d60378b1c1efd6e248e28923" title="FAGui::FAPythonFuncs::placeItem" alt="" coords="352,1494,579,1524"/>
 <area shape="rect" id="node5" href="$class_f_a_gui_1_1_gui_manager.html#aec069d2a4bcb858c362fd0e5f4780bcf" title="FAGui::GuiManager::openDialogue" alt="" coords="1033,166,1257,196"/>
 <area shape="rect" id="node7" href="$namespace_cel.html#a4e01b99470fde6ba49817d25dc1e2bc6" title="Cel::get" alt="" coords="1311,246,1377,276"/>
 <area shape="rect" id="node11" href="$class_f_a_gui_1_1_gui_manager.html#a709be93f3891ff52a560cfda84a97b1b" title="FAGui::GuiManager::closeDialogue" alt="" coords="1032,457,1259,486"/>
@@ -43,9 +43,9 @@
 <area shape="rect" id="node60" href="$class_engine_1_1_engine_main.html#a634ca46f524b9dbd4cdd4c93b0dd3d1b" title="Engine::EngineMain::pause" alt="" coords="743,1014,924,1044"/>
 <area shape="rect" id="node64" href="$class_engine_1_1_engine_main.html#ae46d281c8d2c93e0536ca381726cbe47" title="Engine::EngineMain::unPause" alt="" coords="735,220,932,249"/>
 <area shape="rect" id="node70" href="$class_f_a_gui_1_1_gui_manager.html#af7667c4778fe6db955c3b32399213c97" title="FAGui::GuiManager::showIngameGui" alt="" coords="715,273,952,302"/>
-<area shape="rect" id="node83" href="$class_engine_1_1_engine_main.html#adb8f448125f3c4e10659ad7e7f135a1b" title="Engine::EngineMain::getInputManager" alt="" coords="712,1174,955,1204"/>
-<area shape="rect" id="node85" href="$namespace_input.html#aa438a27dfd0bd3fff03fdff9e85d21c0" title="Input::getHotkeyName" alt="" coords="756,1121,911,1150"/>
-<area shape="rect" id="node90" href="$namespace_input.html#a82176c44e91652a3243e7319edc4d118" title="Input::convertAsciiToRocketKey" alt="" coords="728,1068,939,1097"/>
-<area shape="rect" id="node94" href="$namespace_input.html#a475d6846ae343c7decd8a69d23aa0f82" title="Input::convertRocketKeyToAscii" alt="" coords="728,1281,939,1310"/>
-<area shape="rect" id="node97" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="765,1228,901,1257"/>
+<area shape="rect" id="node83" href="$class_engine_1_1_engine_main.html#a149932a5bad73cf8279a5b52f8a73a76" title="Engine::EngineMain::inputManager" alt="" coords="721,1174,945,1204"/>
+<area shape="rect" id="node85" href="$class_engine_1_1_engine_input_manager.html#afb7f03273f1e38d28a273eadb312030d" title="Engine::EngineInputManager::getHotkeys" alt="" coords="701,1121,965,1150"/>
+<area shape="rect" id="node91" href="$namespace_input.html#a82176c44e91652a3243e7319edc4d118" title="Input::convertAsciiToRocketKey" alt="" coords="728,1068,939,1097"/>
+<area shape="rect" id="node95" href="$namespace_input.html#a475d6846ae343c7decd8a69d23aa0f82" title="Input::convertRocketKeyToAscii" alt="" coords="728,1281,939,1310"/>
+<area shape="rect" id="node98" href="$class_engine_1_1_engine_input_manager.html#aae743aecedd1a29480b3e100ca946c88" title="Engine::EngineInputManager::setHotkey" alt="" coords="705,1228,961,1257"/>
 </map>

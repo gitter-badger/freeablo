@@ -1,27 +1,26 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_engine_1_1_engine_input_manager.html#a9e498a09e866f109b2d59d371f390ad6" title="Engine::EngineInputManager::update" alt="" coords="216,5,451,35"/>
-<area shape="rect" id="node5" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a0fb990e075a6172ab332954af481042a" title="FAGui::FAPythonFuncs::startGame" alt="" coords="957,57,1187,87"/>
-<area shape="rect" id="node9" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a87545334fff51721b7d9d8dc16721b68" title="FAGui::FAPythonFuncs::playSound" alt="" coords="617,109,847,139"/>
-<area shape="rect" id="node15" href="$class_f_a_gui_1_1_f_a_python_funcs.html#abeb7b69b40aec1c51c9d2a6466619c72" title="FAGui::FAPythonFuncs::stopSound" alt="" coords="957,215,1187,244"/>
-<area shape="rect" id="node18" href="$class_f_a_gui_1_1_gui_manager.html#afb827f9b028aafa83fa870a609b126f2" title="FAGui::GuiManager::GuiManager" alt="" coords="227,213,440,243"/>
-<area shape="rect" id="node20" href="$class_f_a_gui_1_1_gui_manager.html#aec069d2a4bcb858c362fd0e5f4780bcf" title="FAGui::GuiManager::openDialogue" alt="" coords="221,267,445,296"/>
-<area shape="rect" id="node30" href="$class_f_a_gui_1_1_gui_manager.html#ad2d1e040339127fda9527be6437ff2b7" title="FAGui::GuiManager::update" alt="" coords="241,320,425,349"/>
-<area shape="rect" id="node32" href="$class_f_a_world_1_1_actor.html#ab9e28a0505dc7a3040e249c563badd37" title="FAWorld::Actor::Actor" alt="" coords="259,373,408,403"/>
-<area shape="rect" id="node34" href="$class_f_a_world_1_1_actor.html#a45131c266364a071e5e36dba66bdf38a" title="FAWorld::Actor::takeDamage" alt="" coords="236,427,431,456"/>
-<area shape="rect" id="node36" href="$class_f_a_world_1_1_player.html#aa4da592bd7d2a7523212fe7ba91b4861" title="FAWorld::Player::attack" alt="" coords="651,479,813,508"/>
-<area shape="rect" id="node38" href="$class_f_a_world_1_1_actor.html#a455e64c9a81c840a0f909cdf84624fb5" title="FAWorld::Actor::setWalkAnimation" alt="" coords="220,531,447,560"/>
-<area shape="rect" id="node40" href="$class_f_a_world_1_1_actor.html#a9df9839ef9050448179e7aded3180f48" title="FAWorld::Actor::setIdleAnimation" alt="" coords="225,584,441,613"/>
-<area shape="rect" id="node42" href="$class_f_a_world_1_1_actor.html#a5cc6f4f374e31c0a21d0f60ef6f1eb0a" title="FAWorld::Actor::die" alt="" coords="265,637,401,667"/>
-<area shape="rect" id="node45" href="$class_f_a_world_1_1_actor.html#ab53e39ee1f8c51d83f403f7c3c44ca21" title="FAWorld::Actor::readFrom" alt="" coords="247,691,420,720"/>
-<area shape="rect" id="node47" href="$class_f_a_world_1_1_item.html#a88dfcbe2414c2956442d4a291015cfba" title="FAWorld::Item::Item" alt="" coords="263,744,404,773"/>
-<area shape="rect" id="node49" href="$class_f_a_world_1_1_monster.html#ae91522503d90e572897b3d3f36dcc21c" title="FAWorld::Monster::Monster" alt="" coords="243,797,424,827"/>
-<area shape="rect" id="node51" href="$class_f_a_world_1_1_player.html#a1f1fe37fd8144a89a4f495a760cbd797" title="FAWorld::Player::Player" alt="" coords="252,851,415,880"/>
-<area shape="rect" id="node53" href="$class_f_a_world_1_1_player.html#aa6548e3961fcad13764237a7321f5a33" title="FAWorld::Player::~Player" alt="" coords="248,904,419,933"/>
-<area shape="rect" id="node56" href="$class_f_a_world_1_1_player.html#a49b86ba9b64ebe0fe837ccdcd5af78fb" title="FAWorld::Player::getCurrentAnim" alt="" coords="225,957,441,987"/>
-<area shape="rect" id="node58" href="$structstd_1_1tr1_1_1gtest__internal_1_1_same_size_tuple_prefix_comparator_3_01k_00_01k_01_4.html#a5564fbade05a2d0522d9899da62c2119" title="std::tr1::gtest_internal::SameSizeTuplePrefixComparator\&lt; k, k \&gt;::Eq" alt="" coords="123,1011,544,1040"/>
-<area shape="rect" id="node7" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="1272,188,1512,217"/>
-<area shape="rect" id="node11" href="$class_f_a_gui_1_1_f_a_python_funcs.html#af3db3e9cf3035c09423bebacde5366de" title="FAGui::FAPythonFuncs::playClickButtonSound" alt="" coords="923,161,1221,191"/>
-<area shape="rect" id="node22" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a96deda3a275a0e6a64880f04a5a391ac" title="FAGui::FAPythonFuncs::openDialogue" alt="" coords="608,267,856,296"/>
-<area shape="rect" id="node25" href="$class_f_a_gui_1_1_gui_manager.html#abb2bfd980a0ee9d54e9ec862e93e061f" title="FAGui::GuiManager::openDialogueScrollbox" alt="" coords="593,320,871,349"/>
-<area shape="rect" id="node27" href="$class_f_a_gui_1_1_f_a_python_funcs.html#aece6eeb8167be4c32a1f2d82cc5fe3e6" title="FAGui::FAPythonFuncs::openDialogueScrollbox" alt="" coords="921,320,1223,349"/>
+<area shape="rect" id="node3" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a0fb990e075a6172ab332954af481042a" title="FAGui::FAPythonFuncs::startGame" alt="" coords="957,80,1187,110"/>
+<area shape="rect" id="node7" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a87545334fff51721b7d9d8dc16721b68" title="FAGui::FAPythonFuncs::playSound" alt="" coords="617,158,847,187"/>
+<area shape="rect" id="node13" href="$class_f_a_gui_1_1_f_a_python_funcs.html#abeb7b69b40aec1c51c9d2a6466619c72" title="FAGui::FAPythonFuncs::stopSound" alt="" coords="957,238,1187,267"/>
+<area shape="rect" id="node16" href="$class_f_a_gui_1_1_gui_manager.html#afb827f9b028aafa83fa870a609b126f2" title="FAGui::GuiManager::GuiManager" alt="" coords="227,262,440,291"/>
+<area shape="rect" id="node18" href="$class_f_a_gui_1_1_gui_manager.html#aec069d2a4bcb858c362fd0e5f4780bcf" title="FAGui::GuiManager::openDialogue" alt="" coords="221,315,445,344"/>
+<area shape="rect" id="node28" href="$class_f_a_gui_1_1_gui_manager.html#ad2d1e040339127fda9527be6437ff2b7" title="FAGui::GuiManager::update" alt="" coords="241,368,425,398"/>
+<area shape="rect" id="node30" href="$class_f_a_world_1_1_actor.html#ab9e28a0505dc7a3040e249c563badd37" title="FAWorld::Actor::Actor" alt="" coords="259,422,408,451"/>
+<area shape="rect" id="node32" href="$class_f_a_world_1_1_actor.html#a45131c266364a071e5e36dba66bdf38a" title="FAWorld::Actor::takeDamage" alt="" coords="236,475,431,504"/>
+<area shape="rect" id="node34" href="$class_f_a_world_1_1_player.html#aa4da592bd7d2a7523212fe7ba91b4861" title="FAWorld::Player::attack" alt="" coords="651,527,813,556"/>
+<area shape="rect" id="node36" href="$class_f_a_world_1_1_actor.html#a455e64c9a81c840a0f909cdf84624fb5" title="FAWorld::Actor::setWalkAnimation" alt="" coords="220,579,447,608"/>
+<area shape="rect" id="node38" href="$class_f_a_world_1_1_actor.html#a9df9839ef9050448179e7aded3180f48" title="FAWorld::Actor::setIdleAnimation" alt="" coords="225,632,441,662"/>
+<area shape="rect" id="node40" href="$class_f_a_world_1_1_actor.html#a5cc6f4f374e31c0a21d0f60ef6f1eb0a" title="FAWorld::Actor::die" alt="" coords="265,686,401,715"/>
+<area shape="rect" id="node43" href="$class_f_a_world_1_1_actor.html#ab53e39ee1f8c51d83f403f7c3c44ca21" title="FAWorld::Actor::readFrom" alt="" coords="247,739,420,768"/>
+<area shape="rect" id="node45" href="$class_f_a_world_1_1_item.html#a88dfcbe2414c2956442d4a291015cfba" title="FAWorld::Item::Item" alt="" coords="263,792,404,822"/>
+<area shape="rect" id="node47" href="$class_f_a_world_1_1_monster.html#ae91522503d90e572897b3d3f36dcc21c" title="FAWorld::Monster::Monster" alt="" coords="243,846,424,875"/>
+<area shape="rect" id="node49" href="$class_f_a_world_1_1_player.html#a1f1fe37fd8144a89a4f495a760cbd797" title="FAWorld::Player::Player" alt="" coords="252,899,415,928"/>
+<area shape="rect" id="node51" href="$class_f_a_world_1_1_player.html#aa6548e3961fcad13764237a7321f5a33" title="FAWorld::Player::~Player" alt="" coords="248,952,419,982"/>
+<area shape="rect" id="node54" href="$class_f_a_world_1_1_player.html#a49b86ba9b64ebe0fe837ccdcd5af78fb" title="FAWorld::Player::getCurrentAnim" alt="" coords="225,1006,441,1035"/>
+<area shape="rect" id="node56" href="$structstd_1_1tr1_1_1gtest__internal_1_1_same_size_tuple_prefix_comparator_3_01k_00_01k_01_4.html#a5564fbade05a2d0522d9899da62c2119" title="std::tr1::gtest_internal::SameSizeTuplePrefixComparator\&lt; k, k \&gt;::Eq" alt="" coords="123,1059,544,1088"/>
+<area shape="rect" id="node5" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="1272,211,1512,240"/>
+<area shape="rect" id="node9" href="$class_f_a_gui_1_1_f_a_python_funcs.html#af3db3e9cf3035c09423bebacde5366de" title="FAGui::FAPythonFuncs::playClickButtonSound" alt="" coords="923,184,1221,214"/>
+<area shape="rect" id="node20" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a96deda3a275a0e6a64880f04a5a391ac" title="FAGui::FAPythonFuncs::openDialogue" alt="" coords="608,290,856,319"/>
+<area shape="rect" id="node23" href="$class_f_a_gui_1_1_gui_manager.html#abb2bfd980a0ee9d54e9ec862e93e061f" title="FAGui::GuiManager::openDialogueScrollbox" alt="" coords="593,343,871,372"/>
+<area shape="rect" id="node25" href="$class_f_a_gui_1_1_f_a_python_funcs.html#aece6eeb8167be4c32a1f2d82cc5fe3e6" title="FAGui::FAPythonFuncs::openDialogueScrollbox" alt="" coords="921,343,1223,372"/>
 </map>

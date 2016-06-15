@@ -39,7 +39,7 @@
 <area shape="rect" id="node82" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="859,725,965,754"/>
 <area shape="rect" id="node84" href="$class_f_a_i_o_file_interface.html#a0dd986067a16d1ba2da857c9b59c091c" title="Opens a file." alt="" coords="831,778,993,808"/>
 <area shape="rect" id="node62" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="1071,938,1300,968"/>
-<area shape="rect" id="node66" href="$class_f_a_audio_1_1_audio_manager.html#a1c562d006a318f6c682dd80e6a278996" title="FAAudio::AudioManager::play" alt="" coords="1088,992,1283,1021"/>
+<area shape="rect" id="node66" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="1069,992,1301,1021"/>
 <area shape="rect" id="node70" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="1112,1098,1259,1128"/>
 <area shape="rect" id="node72" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="1081,1045,1289,1074"/>
 <area shape="rect" id="node88" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="849,405,975,434"/>

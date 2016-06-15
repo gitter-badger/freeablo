@@ -23,7 +23,7 @@
 <area shape="rect" id="node41" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="945,909,1052,939"/>
 <area shape="rect" id="node43" href="$class_f_a_i_o_file_interface.html#a0dd986067a16d1ba2da857c9b59c091c" title="Opens a file." alt="" coords="917,963,1080,992"/>
 <area shape="rect" id="node21" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="1169,536,1399,565"/>
-<area shape="rect" id="node25" href="$class_f_a_audio_1_1_audio_manager.html#a1c562d006a318f6c682dd80e6a278996" title="FAAudio::AudioManager::play" alt="" coords="1187,589,1381,619"/>
+<area shape="rect" id="node25" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="1168,589,1400,619"/>
 <area shape="rect" id="node29" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="1211,696,1357,725"/>
 <area shape="rect" id="node31" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="1180,749,1388,779"/>
 <area shape="rect" id="node47" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1259,643,1309,672"/>
@@ -32,9 +32,9 @@
 <area shape="rect" id="node53" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1259,59,1309,88"/>
 <area shape="rect" id="node57" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="909,376,1088,405"/>
 <area shape="rect" id="node59" href="$class_f_a_level_gen_1_1_tile_set.html#ae1e714bc70bce6e6801511ceaf6d87de" title="FALevelGen::TileSet::TileSet" alt="" coords="903,429,1095,459"/>
-<area shape="rect" id="node62" href="$class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656" title="Input::Hotkey::Hotkey" alt="" coords="924,323,1073,352"/>
+<area shape="rect" id="node62" href="$class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b" title="Input::Hotkey::Hotkey" alt="" coords="924,323,1073,352"/>
 <area shape="rect" id="node64" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="931,269,1067,299"/>
-<area shape="rect" id="node66" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="1169,269,1399,299"/>
+<area shape="rect" id="node66" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="1168,269,1400,299"/>
 <area shape="rect" id="node72" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="971,163,1027,192"/>
 <area shape="rect" id="node81" href="$_storm_common_8h.html#a7d3f9dcaa29374564574951db3f84fd7" title="SAttrLoadAttributes" alt="" coords="393,1064,529,1093"/>
 <area shape="rect" id="node93" href="$_storm_lib_8h.html#a7f66db40266cb2d78416b2f9cc2804ba" title="SFileUpdateFileAttributes" alt="" coords="376,1117,547,1147"/>

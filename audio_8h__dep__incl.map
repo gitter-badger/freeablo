@@ -1,15 +1,15 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$audiomanager_8h.html" title="apps/freeablo/faaudio/audiomanager.h" alt="" coords="1172,83,1415,112"/>
-<area shape="rect" id="node18" href="$renderer_8cpp.html" title="apps/freeablo/farender/renderer.cpp" alt="" coords="2248,237,2475,267"/>
-<area shape="rect" id="node31" href="$audio_2sdl2backend_8cpp.html" title="components/audio/sdl2backend.cpp" alt="" coords="2272,83,2501,112"/>
-<area shape="rect" id="node5" href="$enginemain_8cpp.html" title="apps/freeablo/engine/enginemain.cpp" alt="" coords="5,237,243,267"/>
-<area shape="rect" id="node7" href="$threadmanager_8h.html" title="apps/freeablo/engine/threadmanager.h" alt="" coords="1172,160,1415,189"/>
-<area shape="rect" id="node12" href="$audiomanager_8cpp.html" title="apps/freeablo/faaudio/audiomanager.cpp" alt="" coords="267,237,523,267"/>
-<area shape="rect" id="node26" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="2019,237,2224,267"/>
-<area shape="rect" id="node10" href="$threadmanager_8cpp.html" title="apps/freeablo/engine/threadmanager.cpp" alt="" coords="547,237,803,267"/>
-<area shape="rect" id="node14" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="827,237,1037,267"/>
-<area shape="rect" id="node16" href="$guimanager_8cpp.html" title="apps/freeablo/fagui/guimanager.cpp" alt="" coords="1061,237,1288,267"/>
-<area shape="rect" id="node20" href="$actor_8cpp.html" title="apps/freeablo/faworld/actor.cpp" alt="" coords="1312,237,1515,267"/>
-<area shape="rect" id="node22" href="$apps_2freeablo_2faworld_2monster_8cpp.html" title="apps/freeablo/faworld/monster.cpp" alt="" coords="1539,237,1760,267"/>
-<area shape="rect" id="node24" href="$player_8cpp.html" title="apps/freeablo/faworld/player.cpp" alt="" coords="1784,237,1995,267"/>
+<area shape="rect" id="node3" href="$audiomanager_8h.html" title="apps/freeablo/faaudio/audiomanager.h" alt="" coords="641,83,884,112"/>
+<area shape="rect" id="node16" href="$renderer_8cpp.html" title="apps/freeablo/farender/renderer.cpp" alt="" coords="1968,237,2195,267"/>
+<area shape="rect" id="node30" href="$audio_2sdl2backend_8cpp.html" title="components/audio/sdl2backend.cpp" alt="" coords="1715,83,1944,112"/>
+<area shape="rect" id="node5" href="$enginemain_8cpp.html" title="apps/freeablo/engine/enginemain.cpp" alt="" coords="235,237,472,267"/>
+<area shape="rect" id="node7" href="$threadmanager_8h.html" title="apps/freeablo/engine/threadmanager.h" alt="" coords="865,160,1108,189"/>
+<area shape="rect" id="node24" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="5,237,211,267"/>
+<area shape="rect" id="node26" href="$audiomanager_8cpp.html" title="apps/freeablo/faaudio/audiomanager.cpp" alt="" coords="469,160,725,189"/>
+<area shape="rect" id="node10" href="$threadmanager_8cpp.html" title="apps/freeablo/engine/threadmanager.cpp" alt="" coords="731,237,987,267"/>
+<area shape="rect" id="node12" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="1011,237,1221,267"/>
+<area shape="rect" id="node14" href="$guimanager_8cpp.html" title="apps/freeablo/fagui/guimanager.cpp" alt="" coords="1245,237,1472,267"/>
+<area shape="rect" id="node18" href="$actor_8cpp.html" title="apps/freeablo/faworld/actor.cpp" alt="" coords="1496,237,1699,267"/>
+<area shape="rect" id="node20" href="$apps_2freeablo_2faworld_2monster_8cpp.html" title="apps/freeablo/faworld/monster.cpp" alt="" coords="1723,237,1944,267"/>
+<area shape="rect" id="node22" href="$player_8cpp.html" title="apps/freeablo/faworld/player.cpp" alt="" coords="496,237,707,267"/>
 </map>

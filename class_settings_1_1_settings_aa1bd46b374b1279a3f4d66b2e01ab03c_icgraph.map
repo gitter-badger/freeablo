@@ -2,9 +2,7 @@
 <area shape="rect" id="node3" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="284,5,463,35"/>
 <area shape="rect" id="node5" href="$class_f_a_level_gen_1_1_tile_set.html#ae1e714bc70bce6e6801511ceaf6d87de" title="FALevelGen::TileSet::TileSet" alt="" coords="277,59,469,88"/>
 <area shape="rect" id="node7" href="$class_diablo_exe_1_1_diablo_exe.html#aae82ed26725dbd5b89faca92507958f0" title="DiabloExe::DiabloExe::DiabloExe" alt="" coords="264,112,483,141"/>
-<area shape="rect" id="node9" href="$class_input_1_1_hotkey.html#a340b56efcad1598f592f635dfc77f656" title="Input::Hotkey::Hotkey" alt="" coords="299,165,448,195"/>
+<area shape="rect" id="node9" href="$class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b" title="Input::Hotkey::Hotkey" alt="" coords="299,165,448,195"/>
 <area shape="rect" id="node11" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="305,219,441,248"/>
-<area shape="rect" id="node13" href="$class_f_a_gui_1_1_f_a_python_funcs.html#a1622e498fae9ef53a2ff6df443b43822" title="FAGui::FAPythonFuncs::setHotkey" alt="" coords="532,192,761,221"/>
-<area shape="rect" id="node17" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="531,245,763,275"/>
-<area shape="rect" id="node15" href="$namespace_f_a_gui.html#afbfc2a5c5a5f9d7a9f9465179a85b8a4" title="FAGui::BOOST_PYTHON_MODULE" alt="" coords="811,192,1051,221"/>
+<area shape="rect" id="node13" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="531,219,763,248"/>
 </map>

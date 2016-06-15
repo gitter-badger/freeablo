@@ -3,7 +3,7 @@
 <area shape="rect" id="node5" href="$class_f_a_world_1_1_actor.html#a11f7b0f99d17191140088f83d130538e" title="FAWorld::Actor::setLevel" alt="" coords="340,59,508,88"/>
 <area shape="rect" id="node9" href="$class_f_a_world_1_1_player.html#a239ec7f582207322955e46c428660b64" title="FAWorld::Player::updateSpriteFormatVars" alt="" coords="291,112,557,141"/>
 <area shape="rect" id="node13" href="$class_f_a_world_1_1_world.html#a1cecdd7a29335885b67df630d476585f" title="FAWorld::World::getCurrentLevelIndex" alt="" coords="301,165,547,195"/>
-<area shape="rect" id="node21" href="$class_f_a_world_1_1_world.html#ae5fed250c5639c9975fda9e35691007b" title="FAWorld::World::setLevel" alt="" coords="339,219,509,248"/>
+<area shape="rect" id="node21" href="$class_f_a_world_1_1_world.html#a007c249fa3741639e4a9ea741aec81ce" title="FAWorld::World::setLevel" alt="" coords="339,219,509,248"/>
 <area shape="rect" id="node7" href="$class_f_a_world_1_1_actor.html#ab53e39ee1f8c51d83f403f7c3c44ca21" title="FAWorld::Actor::readFrom" alt="" coords="651,59,824,88"/>
 <area shape="rect" id="node11" href="$class_f_a_world_1_1_player.html#a49b86ba9b64ebe0fe837ccdcd5af78fb" title="FAWorld::Player::getCurrentAnim" alt="" coords="629,112,845,141"/>
 <area shape="rect" id="node15" href="$class_f_a_save_game_1_1_save_game_manager.html#a68aee19535d06533bc4dd06a872651f7" title="FASaveGame::SaveGameManager::save" alt="" coords="607,165,868,195"/>

@@ -1,6 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$console_8h.html" title="apps/freeablo/fagui/console.h" alt="" coords="120,83,312,112"/>
-<area shape="rect" id="node9" href="$autocomplete_8cpp.html" title="apps/freeablo/fagui/autocomplete.cpp" alt="" coords="336,83,573,112"/>
-<area shape="rect" id="node5" href="$input_8cpp.html" title="apps/freeablo/engine/input.cpp" alt="" coords="5,160,203,189"/>
-<area shape="rect" id="node7" href="$console_8cpp.html" title="apps/freeablo/fagui/console.cpp" alt="" coords="227,160,432,189"/>
+<area shape="rect" id="node3" href="$console_8h.html" title="apps/freeablo/fagui/console.h" alt="" coords="187,83,379,112"/>
+<area shape="rect" id="node9" href="$autocomplete_8cpp.html" title="apps/freeablo/fagui/autocomplete.cpp" alt="" coords="403,83,640,112"/>
+<area shape="rect" id="node5" href="$engineinputmanager_8cpp.html" title="apps/freeablo/engine/engineinputmanager.cpp" alt="" coords="5,160,291,189"/>
+<area shape="rect" id="node7" href="$console_8cpp.html" title="apps/freeablo/fagui/console.cpp" alt="" coords="315,160,520,189"/>
 </map>

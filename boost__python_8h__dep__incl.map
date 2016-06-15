@@ -11,6 +11,6 @@
 <area shape="rect" id="node11" href="$guimanager_8cpp.html" title="apps/freeablo/fagui/guimanager.cpp" alt="" coords="267,237,493,267"/>
 <area shape="rect" id="node24" href="$console_8h.html" title="apps/freeablo/fagui/console.h" alt="" coords="1469,160,1661,189"/>
 <area shape="rect" id="node30" href="$scriptcontext_8cpp.html" title="components/script/scriptcontext.cpp" alt="" coords="1685,160,1917,189"/>
-<area shape="rect" id="node26" href="$input_8cpp.html" title="apps/freeablo/engine/input.cpp" alt="" coords="1355,237,1552,267"/>
-<area shape="rect" id="node28" href="$console_8cpp.html" title="apps/freeablo/fagui/console.cpp" alt="" coords="1576,237,1781,267"/>
+<area shape="rect" id="node26" href="$engineinputmanager_8cpp.html" title="apps/freeablo/engine/engineinputmanager.cpp" alt="" coords="1288,237,1573,267"/>
+<area shape="rect" id="node28" href="$console_8cpp.html" title="apps/freeablo/fagui/console.cpp" alt="" coords="1597,237,1803,267"/>
 </map>

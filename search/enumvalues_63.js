@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['change_5flevel_5fdown',['CHANGE_LEVEL_DOWN',['../namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aafdfdb86b3e99df9f76d9667cbedef440',1,'Engine']]],
+  ['change_5flevel_5fup',['CHANGE_LEVEL_UP',['../namespace_engine.html#aa8c0bb918cb64fe07e3d3e2c5fbc984aa0ded9fcda4bc267ad0fb8304b9bc4a16',1,'Engine']]],
   ['check',['CHECK',['../inflate_8h.html#a164ea0159d5f0b5f12a646f25f99eceaaed65b7dfe470f4e500b15f7074bb7fa2',1,'inflate.h']]],
   ['codelens',['CODELENS',['../inflate_8h.html#a164ea0159d5f0b5f12a646f25f99eceaa77b9f2ec0ee4bb6570ef4f42d8f2a492',1,'inflate.h']]],
   ['codes',['CODES',['../inftrees_8h.html#a0f33f5acf9079ff1f054fa235df2443ba4f2ec4135d8cf82c6c35780e470cac28',1,'inftrees.h']]],
