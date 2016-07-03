@@ -1,6 +1,6 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$enginemain_8cpp.html" title="apps/freeablo/engine/enginemain.cpp" alt="" coords="5,83,243,112"/>
-<area shape="rect" id="node5" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="267,83,477,112"/>
-<area shape="rect" id="node7" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="501,83,707,112"/>
-<area shape="rect" id="node9" href="$freeablo_2main_8cpp.html" title="apps/freeablo/main.cpp" alt="" coords="731,83,888,112"/>
+<area shape="rect" id="node5" href="$fa__main_8cpp.html" title="apps/freeablo/fa_main.cpp" alt="" coords="267,83,440,112"/>
+<area shape="rect" id="node7" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="464,83,675,112"/>
+<area shape="rect" id="node9" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="699,83,904,112"/>
 </map>

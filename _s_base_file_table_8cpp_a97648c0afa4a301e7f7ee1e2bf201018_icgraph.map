@@ -1,20 +1,22 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$_storm_common_8h.html#a97fd4e4b3730b45b008fbba7dc7c07e8" title="RebuildHetTable" alt="" coords="169,269,287,299"/>
-<area shape="rect" id="node27" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1105,296,1247,325"/>
+<area shape="rect" id="node31" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1105,309,1247,339"/>
 <area shape="rect" id="node5" href="$_storm_common_8h.html#ad5fd5f53f46b1786c28ffd042b631207" title="SFileAddFile_Finish" alt="" coords="344,112,483,141"/>
 <area shape="rect" id="node19" href="$_storm_lib_8h.html#a4a8f24295ae27ee91ab52a2cc8a0e9ba" title="SFileCompactArchive" alt="" coords="907,192,1056,221"/>
-<area shape="rect" id="node34" href="$_storm_lib_8h.html#a78b84dd7671288c4fa62d0ae748b831d" title="SFileRemoveFile" alt="" coords="352,243,475,272"/>
-<area shape="rect" id="node36" href="$_storm_lib_8h.html#abf315c2be57e5ebb9790cf84fe88ef03" title="SFileRenameFile" alt="" coords="352,296,475,325"/>
-<area shape="rect" id="node39" href="$_storm_lib_8h.html#aa0066fc17b79fdbd976230a7d395d731" title="SFileSetMaxFileCount" alt="" coords="337,349,489,379"/>
+<area shape="rect" id="node38" href="$_storm_lib_8h.html#a78b84dd7671288c4fa62d0ae748b831d" title="SFileRemoveFile" alt="" coords="352,243,475,272"/>
+<area shape="rect" id="node40" href="$_storm_lib_8h.html#abf315c2be57e5ebb9790cf84fe88ef03" title="SFileRenameFile" alt="" coords="352,296,475,325"/>
+<area shape="rect" id="node43" href="$_storm_lib_8h.html#aa0066fc17b79fdbd976230a7d395d731" title="SFileSetMaxFileCount" alt="" coords="337,349,489,379"/>
 <area shape="rect" id="node7" href="$_storm_lib_8h.html#a7829275dccf80bbf47758ebd5515349a" title="SFileFinishFile" alt="" coords="557,32,664,61"/>
 <area shape="rect" id="node15" href="$_storm_common_8h.html#a1f552d4db51760c541354dc64e7808ea" title="SAttrFileSaveToMpq" alt="" coords="540,85,681,115"/>
-<area shape="rect" id="node31" href="$_storm_common_8h.html#a92fbeed559aba21268c7cf0b967e49fc" title="SListFileSaveToMpq" alt="" coords="540,139,681,168"/>
+<area shape="rect" id="node35" href="$_storm_common_8h.html#a92fbeed559aba21268c7cf0b967e49fc" title="SListFileSaveToMpq" alt="" coords="540,139,681,168"/>
 <area shape="rect" id="node9" href="$_storm_lib_8h.html#a9d092079ada150e05bfed5a26e65e184" title="SFileAddFileEx" alt="" coords="739,32,851,61"/>
 <area shape="rect" id="node11" href="$_storm_lib_8h.html#ab6184a31092ac5364a8746b1fca3a822" title="SFileAddFile" alt="" coords="933,5,1029,35"/>
 <area shape="rect" id="node13" href="$_storm_lib_8h.html#a4cc5ee53bb9a41f91d71a0be809ede22" title="SFileAddWave" alt="" coords="927,59,1036,88"/>
 <area shape="rect" id="node17" href="$_storm_lib_8h.html#a5f3daefb5c0d87a791fcc42ec40714d2" title="SFileFlushArchive" alt="" coords="731,139,859,168"/>
 <area shape="rect" id="node21" href="$_storm_lib_8h.html#abe1ae9917ea665286bffd1524561fceb" title="SFileCloseArchive" alt="" coords="916,139,1047,168"/>
 <area shape="rect" id="node23" href="$namespace_f_a_i_o.html#ae82e5f53b89d70f240951c564bdff66a" title="FAIO::quit" alt="" coords="1135,139,1217,168"/>
-<area shape="rect" id="node25" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1339,139,1389,168"/>
-<area shape="rect" id="node29" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1297,296,1431,325"/>
+<area shape="rect" id="node25" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1339,112,1389,141"/>
+<area shape="rect" id="node27" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="1331,165,1397,195"/>
+<area shape="rect" id="node29" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1480,165,1531,195"/>
+<area shape="rect" id="node33" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1297,309,1431,339"/>
 </map>

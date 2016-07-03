@@ -135,6 +135,7 @@ var searchData=
   ['loadvanimsprite',['loadVanimSprite',['../namespace_render.html#ac6568e7174aad7806fee63be8c2cca9c',1,'Render']]],
   ['local',['local',['../adler32_8c.html#a08023ea6765c99d60a6a3840cd07156e',1,'local():&#160;adler32.c'],['../zlib_2crc32_8c.html#a08023ea6765c99d60a6a3840cd07156e',1,'local():&#160;crc32.c']]],
   ['lock',['Lock',['../classtesting_1_1internal_1_1_mutex.html#ae7e2191886c00182176b23c4f4d049f8',1,'testing::internal::Mutex']]],
+  ['log2',['Log2',['../struct_log2.html',1,'']]],
   ['logmessage',['LogMessage',['../class_rocket_s_d_l2_system_interface.html#a0bfe1d3b84cd14ef0efbe5fa90323455',1,'RocketSDL2SystemInterface']]],
   ['logtostderr',['LogToStderr',['../namespacetesting_1_1internal.html#a06b1b20029fbd1dbeb59752f914fab84',1,'testing::internal']]],
   ['long',['LONG',['../_storm_port_8h.html#a9154c0d0c21af4686624543215b4e5f2',1,'StormPort.h']]],

@@ -1,6 +1,9 @@
 var searchData=
 [
+  ['e',['e',['../struct_pop_count.html#a9acc328ffefb70588c53027481340521abebbfcc29942c6288e4a8b7ef7756439',1,'PopCount::e()'],['../struct_log2.html#a07d38252e7ea2ccf19fa7de58d5fd2a6ac3a1cdc66505fe5c688ea32c5bbc02de',1,'Log2::e()']]],
   ['enablescissor',['EnableScissor',['../struct_draw_command.html#a40d8f591b21860cb525d0e1c19312c60a73e9063b623ffcb4649be6c3c153ecc2',1,'DrawCommand']]],
+  ['end',['End',['../namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69',1,'Serial::BSPos']]],
+  ['endofstream',['EndOfStream',['../namespace_serial_1_1_error.html#a1be827363d805bba5e9a27ac5b590c6fa2553a0d674fdcc7304ec651585016eee',1,'Serial::Error']]],
   ['eqamulet',['eqAMULET',['../class_f_a_world_1_1_item.html#a97a412c5cccaf808905914367c7c8417ae99ad46bc1cd78f10a9d8e630f64c747',1,'FAWorld::Item']]],
   ['eqbelt',['eqBELT',['../class_f_a_world_1_1_item.html#a97a412c5cccaf808905914367c7c8417a5b3dedcf1fa205eeadd9e5c246247797',1,'FAWorld::Item']]],
   ['eqbody',['eqBODY',['../class_f_a_world_1_1_item.html#a97a412c5cccaf808905914367c7c8417a1c18ab249bd953b270b19bd067d945b1',1,'FAWorld::Item']]],

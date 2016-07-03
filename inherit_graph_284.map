@@ -1,7 +1,3 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$classtesting_1_1_environment.html" title="testing::Environment" alt="" coords="7,85,148,115"/>
-<area shape="rect" id="node3" href="$class_bar_environment.html" title="BarEnvironment" alt="" coords="289,5,404,35"/>
-<area shape="rect" id="node5" href="$class_foo_environment.html" title="FooEnvironment" alt="" coords="288,59,405,88"/>
-<area shape="rect" id="node7" href="$classtesting_1_1internal_1_1_environment_invocation_catcher.html" title="testing::internal::EnvironmentInvocationCatcher" alt="" coords="197,112,496,141"/>
-<area shape="rect" id="node9" href="$classtesting_1_1internal_1_1_final_success_checker.html" title="testing::internal::FinalSuccessChecker" alt="" coords="224,165,469,195"/>
+<area shape="rect" id="node1" href="$struct_t_data_info.html" title="TDataInfo" alt="" coords="5,5,85,35"/>
 </map>

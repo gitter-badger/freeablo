@@ -1,47 +1,48 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="213,617,309,647"/>
-<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a19fa8e6274a04bdeb5c54d1552e6248e" title="FAIO::FAfopen" alt="" coords="420,325,529,355"/>
-<area shape="rect" id="node5" href="$class_launcher_1_1_play_page.html#a86732f5d2831e2e57be85719f7935866" title="Launcher::PlayPage::hasMaster" alt="" coords="371,564,579,593"/>
-<area shape="rect" id="node72" href="$class_settings_1_1_settings.html#a99d0bf933efedfbb5ce4f8a0c1a7f022" title="Settings::Settings::loadUserSettings" alt="" coords="357,617,592,647"/>
-<area shape="rect" id="node79" href="$class_settings_1_1_settings.html#aa1bd46b374b1279a3f4d66b2e01ab03c" title="Settings::Settings::loadFromFile" alt="" coords="371,776,579,805"/>
-<area shape="rect" id="node92" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="408,963,541,992"/>
-<area shape="rect" id="node94" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="691,1016,832,1045"/>
-<area shape="rect" id="node9" href="$mpqtool_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="736,5,787,35"/>
-<area shape="rect" id="node11" href="$class_level_1_1_tile_set.html#a25885e5e41f2220ddec063dd66615054" title="Level::TileSet::TileSet" alt="" coords="687,59,836,88"/>
-<area shape="rect" id="node13" href="$namespace_audio.html#aa723124f1d8ab10a57d74aac0df5d5cb" title="Audio::loadMusic" alt="" coords="700,112,823,141"/>
-<area shape="rect" id="node17" href="$namespace_audio.html#a640626e3ff91a05bf85051aa564d2be7" title="Audio::loadSound" alt="" coords="700,165,823,195"/>
-<area shape="rect" id="node21" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="673,219,849,248"/>
-<area shape="rect" id="node60" href="$class_cel_1_1_pal.html#a0fe143cf33cf944dd5e1befa7ae97593" title="Cel::Pal::Pal" alt="" coords="713,272,809,301"/>
-<area shape="rect" id="node62" href="$class_diablo_exe_1_1_diablo_exe.html#aae82ed26725dbd5b89faca92507958f0" title="DiabloExe::DiabloExe::DiabloExe" alt="" coords="652,696,871,725"/>
-<area shape="rect" id="node64" href="$class_level_1_1_dun.html#aebe0dd29cec43011e986c36a9a52b7b7" title="Level::Dun::Dun" alt="" coords="703,325,820,355"/>
-<area shape="rect" id="node66" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="707,379,816,408"/>
-<area shape="rect" id="node68" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="708,432,815,461"/>
-<area shape="rect" id="node70" href="$class_f_a_i_o_file_interface.html#a0dd986067a16d1ba2da857c9b59c091c" title="Opens a file." alt="" coords="680,485,843,515"/>
-<area shape="rect" id="node15" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="932,112,1161,141"/>
-<area shape="rect" id="node19" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="931,165,1163,195"/>
-<area shape="rect" id="node23" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="973,219,1120,248"/>
-<area shape="rect" id="node43" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="943,325,1151,355"/>
-<area shape="rect" id="node25" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="1211,219,1397,248"/>
-<area shape="rect" id="node27" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="1447,259,1644,288"/>
-<area shape="rect" id="node29" href="$class_f_a_render_1_1_renderer.html#a622fe982bc63abe4cd5a17612764af3c" title="FARender::Renderer::loadImage" alt="" coords="1693,312,1904,341"/>
-<area shape="rect" id="node33" href="$class_f_a_render_1_1_renderer.html#aa73fae0f49236c7a83fa6b01a9e5e8d4" title="FARender::Renderer::setCursor" alt="" coords="1696,259,1901,288"/>
-<area shape="rect" id="node31" href="$class_f_a_world_1_1_actor.html#ab9e28a0505dc7a3040e249c563badd37" title="FAWorld::Actor::Actor" alt="" coords="1989,312,2139,341"/>
-<area shape="rect" id="node35" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="1953,259,2175,288"/>
-<area shape="rect" id="node37" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="2224,399,2411,428"/>
-<area shape="rect" id="node39" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="2460,495,2623,524"/>
-<area shape="rect" id="node41" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2672,495,2723,524"/>
-<area shape="rect" id="node45" href="$namespace_render.html#a39ae636123baef1a7d42446331c82b28" title="Render::loadSprite" alt="" coords="1239,432,1369,461"/>
-<area shape="rect" id="node51" href="$namespace_render.html#ac6568e7174aad7806fee63be8c2cca9c" title="Render::loadVanimSprite" alt="" coords="1221,379,1387,408"/>
-<area shape="rect" id="node54" href="$namespace_render.html#a05c97dfcb545abc37e57ca717e15f6cc" title="Render::loadResizedSprite" alt="" coords="1215,272,1393,301"/>
-<area shape="rect" id="node57" href="$namespace_render.html#a6677c983912e2231696f463898e1a744" title="Render::loadTiledTexture" alt="" coords="1220,325,1388,355"/>
-<area shape="rect" id="node47" href="$class_f_a_render_1_1_sprite_cache.html#ada6cb9dd393a5d7a0a794f7fbf12b5e7" title="To be called from the render thread." alt="" coords="1452,352,1639,381"/>
-<area shape="rect" id="node49" href="$class_f_a_render_1_1_sprite_manager.html#aba6477a1788e19b1e953fe354785807f" title="To be called from the render thread." alt="" coords="1447,432,1644,461"/>
-<area shape="rect" id="node74" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="736,643,787,672"/>
-<area shape="rect" id="node76" href="$class_launcher_1_1_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Launcher::MainWindow::MainWindow" alt="" coords="641,539,881,568"/>
-<area shape="rect" id="node81" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="672,909,851,939"/>
-<area shape="rect" id="node83" href="$class_f_a_level_gen_1_1_tile_set.html#ae1e714bc70bce6e6801511ceaf6d87de" title="FALevelGen::TileSet::TileSet" alt="" coords="665,749,857,779"/>
-<area shape="rect" id="node86" href="$class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b" title="Input::Hotkey::Hotkey" alt="" coords="687,803,836,832"/>
-<area shape="rect" id="node88" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="693,856,829,885"/>
-<area shape="rect" id="node90" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="931,856,1163,885"/>
-<area shape="rect" id="node96" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="733,963,789,992"/>
+<area shape="rect" id="node3" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="213,753,309,783"/>
+<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a19fa8e6274a04bdeb5c54d1552e6248e" title="FAIO::FAfopen" alt="" coords="408,325,517,355"/>
+<area shape="rect" id="node5" href="$class_launcher_1_1_play_page.html#a86732f5d2831e2e57be85719f7935866" title="Launcher::PlayPage::hasMaster" alt="" coords="359,807,567,836"/>
+<area shape="rect" id="node74" href="$class_settings_1_1_settings.html#a99d0bf933efedfbb5ce4f8a0c1a7f022" title="Settings::Settings::loadUserSettings" alt="" coords="2176,724,2411,753"/>
+<area shape="rect" id="node82" href="$class_settings_1_1_settings.html#aa1bd46b374b1279a3f4d66b2e01ab03c" title="Settings::Settings::loadFromFile" alt="" coords="359,672,567,701"/>
+<area shape="rect" id="node95" href="$cel_8cpp.html#ad24dcc9f0b6e1ce2091655aba1cbaf4a" title="getCelsFromListfile" alt="" coords="396,753,529,783"/>
+<area shape="rect" id="node97" href="$cel_8cpp.html#a5d6d658fa6dd0f9b92964221a7deef05" title="getBlizzconvHashes" alt="" coords="655,859,796,888"/>
+<area shape="rect" id="node9" href="$mpqtool_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="700,325,751,355"/>
+<area shape="rect" id="node11" href="$class_level_1_1_tile_set.html#a25885e5e41f2220ddec063dd66615054" title="Level::TileSet::TileSet" alt="" coords="651,379,800,408"/>
+<area shape="rect" id="node13" href="$namespace_audio.html#aa723124f1d8ab10a57d74aac0df5d5cb" title="Audio::loadMusic" alt="" coords="664,432,787,461"/>
+<area shape="rect" id="node17" href="$namespace_audio.html#a640626e3ff91a05bf85051aa564d2be7" title="Audio::loadSound" alt="" coords="664,485,787,515"/>
+<area shape="rect" id="node21" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="637,5,813,35"/>
+<area shape="rect" id="node62" href="$class_cel_1_1_pal.html#a0fe143cf33cf944dd5e1befa7ae97593" title="Cel::Pal::Pal" alt="" coords="677,59,773,88"/>
+<area shape="rect" id="node64" href="$class_diablo_exe_1_1_diablo_exe.html#aae82ed26725dbd5b89faca92507958f0" title="DiabloExe::DiabloExe::DiabloExe" alt="" coords="616,539,835,568"/>
+<area shape="rect" id="node66" href="$class_level_1_1_dun.html#aebe0dd29cec43011e986c36a9a52b7b7" title="Level::Dun::Dun" alt="" coords="667,112,784,141"/>
+<area shape="rect" id="node68" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="671,165,780,195"/>
+<area shape="rect" id="node70" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="672,219,779,248"/>
+<area shape="rect" id="node72" href="$class_f_a_i_o_file_interface.html#a0dd986067a16d1ba2da857c9b59c091c" title="Opens a file." alt="" coords="644,272,807,301"/>
+<area shape="rect" id="node15" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="884,432,1113,461"/>
+<area shape="rect" id="node19" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="883,485,1115,515"/>
+<area shape="rect" id="node23" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="925,5,1072,35"/>
+<area shape="rect" id="node45" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="895,112,1103,141"/>
+<area shape="rect" id="node25" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="1163,5,1349,35"/>
+<area shape="rect" id="node27" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="1399,5,1596,35"/>
+<area shape="rect" id="node29" href="$class_f_a_render_1_1_renderer.html#a622fe982bc63abe4cd5a17612764af3c" title="FARender::Renderer::loadImage" alt="" coords="1645,5,1856,35"/>
+<area shape="rect" id="node33" href="$class_f_a_render_1_1_renderer.html#aa73fae0f49236c7a83fa6b01a9e5e8d4" title="FARender::Renderer::setCursor" alt="" coords="1648,431,1853,460"/>
+<area shape="rect" id="node31" href="$class_f_a_world_1_1_actor.html#ab9e28a0505dc7a3040e249c563badd37" title="FAWorld::Actor::Actor" alt="" coords="1941,5,2091,35"/>
+<area shape="rect" id="node35" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="1905,477,2127,507"/>
+<area shape="rect" id="node37" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="2200,524,2387,553"/>
+<area shape="rect" id="node39" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="2499,617,2661,647"/>
+<area shape="rect" id="node41" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="2751,697,2817,727"/>
+<area shape="rect" id="node43" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2867,697,2917,727"/>
+<area shape="rect" id="node47" href="$namespace_render.html#a39ae636123baef1a7d42446331c82b28" title="Render::loadSprite" alt="" coords="1191,59,1321,88"/>
+<area shape="rect" id="node53" href="$namespace_render.html#ac6568e7174aad7806fee63be8c2cca9c" title="Render::loadVanimSprite" alt="" coords="1173,112,1339,141"/>
+<area shape="rect" id="node56" href="$namespace_render.html#a05c97dfcb545abc37e57ca717e15f6cc" title="Render::loadResizedSprite" alt="" coords="1167,165,1345,195"/>
+<area shape="rect" id="node59" href="$namespace_render.html#a6677c983912e2231696f463898e1a744" title="Render::loadTiledTexture" alt="" coords="1172,219,1340,248"/>
+<area shape="rect" id="node49" href="$class_f_a_render_1_1_sprite_cache.html#ada6cb9dd393a5d7a0a794f7fbf12b5e7" title="To be called from the render thread." alt="" coords="1404,139,1591,168"/>
+<area shape="rect" id="node51" href="$class_f_a_render_1_1_sprite_manager.html#aba6477a1788e19b1e953fe354785807f" title="To be called from the render thread." alt="" coords="1399,59,1596,88"/>
+<area shape="rect" id="node76" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="2555,671,2605,700"/>
+<area shape="rect" id="node78" href="$class_launcher_1_1_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Launcher::MainWindow::MainWindow" alt="" coords="2460,724,2700,753"/>
+<area shape="rect" id="node84" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="636,699,815,728"/>
+<area shape="rect" id="node86" href="$class_f_a_level_gen_1_1_tile_set.html#ae1e714bc70bce6e6801511ceaf6d87de" title="FALevelGen::TileSet::TileSet" alt="" coords="629,752,821,781"/>
+<area shape="rect" id="node89" href="$class_input_1_1_hotkey.html#ad31a2ba42fdfdcdb5294e2833438136b" title="Input::Hotkey::Hotkey" alt="" coords="651,592,800,621"/>
+<area shape="rect" id="node91" href="$class_input_1_1_hotkey.html#a8e53b8978df34c035f336cc966646e41" title="Input::Hotkey::save" alt="" coords="657,645,793,675"/>
+<area shape="rect" id="node93" href="$namespace_input.html#a0d6c10e33b8662601f928c163b4c9aab" title="Input::BOOST_PYTHON_MODULE" alt="" coords="883,645,1115,675"/>
+<area shape="rect" id="node99" href="$cel_8cpp.html#a6d045982623259357c742a6c27ddecd8" title="TEST" alt="" coords="697,805,753,835"/>
 </map>

@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['d',['d',['../struct_pop_count.html#a9acc328ffefb70588c53027481340521a91768adeec8e8c9dd1b0768205f9ee5e',1,'PopCount::d()'],['../struct_log2.html#a07d38252e7ea2ccf19fa7de58d5fd2a6af22f660505b98b77f5ba72b49f4f95aa',1,'Log2::d()']]],
   ['d_5fbuf',['d_buf',['../structinternal__state.html#ac636c34c1c08dc9d2f9c199ce2caa99d',1,'internal_state']]],
   ['d_5fcode',['d_code',['../deflate_8h.html#a578b4336ef92d19278e0a0d95699def5',1,'deflate.h']]],
   ['d_5fcodes',['D_CODES',['../deflate_8h.html#a8798a9a526623abbd88fedb0727e21aa',1,'deflate.h']]],
@@ -28,7 +29,7 @@ var searchData=
   ['decode',['decode',['../class_cel_1_1_cel_decoder.html#aaeceb15b913e14638fccceaa65f6cf20',1,'Cel::CelDecoder']]],
   ['decode_5fv',['DECODE_V',['../der__decode__utctime_8c.html#a3d80a0d240593aa7e5b1b1dfb643f766',1,'der_decode_utctime.c']]],
   ['decodeonebyte',['DecodeOneByte',['../class_t_huffmann_tree.html#aeacbf46b8d0c2dd39c5525f231541d0c',1,'THuffmannTree']]],
-  ['decompress',['Decompress',['../struct_t_decompress_table.html#af377dea64b86d5ce752accd7a26cebd4',1,'TDecompressTable::Decompress()'],['../class_t_huffmann_tree.html#a5fae7bcc8bb1852bf8036ae0e78e3a09',1,'THuffmannTree::Decompress()'],['../storm__dll_8cpp.html#a206b3a5d1e02fffbdeff72ace2f4648a',1,'Decompress(char *pbOutBuffer, int *pdwOutLength, char *pbInBuffer, int dwInLength):&#160;storm_dll.cpp'],['../storm__dll_8h.html#a206b3a5d1e02fffbdeff72ace2f4648a',1,'Decompress(char *pbOutBuffer, int *pdwOutLength, char *pbInBuffer, int dwInLength):&#160;storm_dll.cpp'],['../_s_compression_8cpp.html#af41cd84b39b347c52b6ab1c05392c17f',1,'DECOMPRESS():&#160;SCompression.cpp']]],
+  ['decompress',['Decompress',['../struct_t_decompress_table.html#af377dea64b86d5ce752accd7a26cebd4',1,'TDecompressTable::Decompress()'],['../class_t_huffmann_tree.html#a5fae7bcc8bb1852bf8036ae0e78e3a09',1,'THuffmannTree::Decompress()'],['../_s_compression_8cpp.html#af41cd84b39b347c52b6ab1c05392c17f',1,'DECOMPRESS():&#160;SCompression.cpp'],['../storm__dll_8cpp.html#a206b3a5d1e02fffbdeff72ace2f4648a',1,'Decompress(char *pbOutBuffer, int *pdwOutLength, char *pbInBuffer, int dwInLength):&#160;storm_dll.cpp'],['../storm__dll_8h.html#a206b3a5d1e02fffbdeff72ace2f4648a',1,'Decompress(char *pbOutBuffer, int *pdwOutLength, char *pbInBuffer, int dwInLength):&#160;storm_dll.cpp']]],
   ['decompress_2ec',['decompress.c',['../decompress_8c.html',1,'']]],
   ['decompress_5fhuff',['Decompress_huff',['../_s_compression_8cpp.html#af6ddfa41c2bcdabfb985348a84dff2df',1,'SCompression.cpp']]],
   ['decompress_5fsparse',['Decompress_SPARSE',['../_s_compression_8cpp.html#a0ae2e64309b3cae6ee4f6fe72dae9939',1,'SCompression.cpp']]],
@@ -211,7 +212,7 @@ var searchData=
   ['dists',['DISTS',['../inftrees_8h.html#a0f33f5acf9079ff1f054fa235df2443bafd7fbb659c736b26e79316ef09a2a9a1',1,'inftrees.h']]],
   ['disttablesize',['distTableSize',['../struct_c_lzma_enc.html#a3a21fdc3d8769d29d8d9ff170ca3e570',1,'CLzmaEnc']]],
   ['div_5f2',['div_2',['../structltc__math__descriptor.html#a0d92dd63e1a895a590a987a090e5ad7c',1,'ltc_math_descriptor']]],
-  ['dl',['dl',['../structct__data__s.html#adf0b43c09ebde337bd1dd4576624da30',1,'ct_data_s']]],
+  ['dl',['dl',['../structct__data__s.html#a5bfc1c71bb4d579b0044faf19af7a6d1',1,'ct_data_s']]],
   ['dllmain',['DllMain',['../_dll_main_8c.html#a03f85c1540dd0107b41e6e15002d2d39',1,'DllMain.c']]],
   ['dllmain_2ec',['DllMain.c',['../_dll_main_8c.html',1,'']]],
   ['dmax',['dmax',['../structinflate__state.html#ae3d433011714e673b22e82156acc4416',1,'inflate_state']]],

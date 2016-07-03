@@ -1,7 +1,7 @@
 var searchData=
 [
   ['rand_5fprime',['rand_prime',['../tomcrypt__pk_8h.html#a756aed6a613ea5a005bb97a4de155622',1,'rand_prime(void *N, long len, prng_state *prng, int wprng):&#160;rand_prime.c'],['../rand__prime_8c.html#a756aed6a613ea5a005bb97a4de155622',1,'rand_prime(void *N, long len, prng_state *prng, int wprng):&#160;rand_prime.c']]],
-  ['random',['random',['../classtesting_1_1internal_1_1_unit_test_impl.html#ab3b45b5eb4d583219a3602011ea44347',1,'testing::internal::UnitTestImpl::random()'],['../classtesting_1_1internal_1_1_random.html#a6e112be5e7cce00551f6383025f69460',1,'testing::internal::Random::Random()']]],
+  ['random',['Random',['../classtesting_1_1internal_1_1_random.html#a6e112be5e7cce00551f6383025f69460',1,'testing::internal::Random::Random()'],['../classtesting_1_1internal_1_1_unit_test_impl.html#ab3b45b5eb4d583219a3602011ea44347',1,'testing::internal::UnitTestImpl::random()']]],
   ['random_5fseed',['random_seed',['../classtesting_1_1_unit_test.html#a6fa3161a230329e07fc31a339b682a20',1,'testing::UnitTest::random_seed()'],['../classtesting_1_1internal_1_1_unit_test_impl.html#a8ec59a7ab3bad96bccde98ce85ffc864',1,'testing::internal::UnitTestImpl::random_seed()']]],
   ['randominrange',['randomInRange',['../namespace_f_a_level_gen.html#a0374e2ca497149c811dbc135899a5db7',1,'FALevelGen']]],
   ['randomseed',['RandomSeed',['../structtesting_1_1_flags.html#a695cd8b8ab44df5eaa371bacded78c05',1,'testing::Flags']]],
@@ -13,6 +13,7 @@ var searchData=
   ['read32',['read32',['../namespace_f_a_i_o.html#a50246eaf6ada4cf3d4baf2233e6ff303',1,'FAIO']]],
   ['read8',['read8',['../namespace_f_a_i_o.html#a0578f755094a703e3e31b577eb2381ff',1,'FAIO']]],
   ['read_5fbuf',['read_buf',['../deflate_8c.html#a30b7fcd3e6bea023c1c00eafad492639',1,'deflate.c']]],
+  ['readbitstream',['ReadBitStream',['../class_serial_1_1_read_bit_stream.html#ad74c6db42887e9c52525ce56cee965b9',1,'Serial::ReadBitStream']]],
   ['readbytesample',['ReadByteSample',['../class_t_a_d_p_c_m_stream.html#acfef6f4241b3309207de5c75860d85b8',1,'TADPCMStream']]],
   ['readcstring',['readCString',['../namespace_f_a_i_o.html#a812b04ac9c072550624f7f652aebd213',1,'FAIO']]],
   ['readcstringfromwin32binary',['readCStringFromWin32Binary',['../namespace_f_a_i_o.html#a8d65de399c241036f7d220dd3fcf8c5d',1,'FAIO']]],

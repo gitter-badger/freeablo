@@ -1,17 +1,19 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$_storm_common_8h.html#a47f8eede57764b029bc8f5cd31690901" title="LoadMpkHashTable" alt="" coords="161,59,300,88"/>
-<area shape="rect" id="node23" href="$_storm_common_8h.html#a91db777f32d2227ed592bd6ab587fe55" title="LoadMpkBlockTable" alt="" coords="161,112,300,141"/>
+<area shape="rect" id="node27" href="$_storm_common_8h.html#a91db777f32d2227ed592bd6ab587fe55" title="LoadMpkBlockTable" alt="" coords="161,112,300,141"/>
 <area shape="rect" id="node5" href="$_storm_common_8h.html#ac783fedd5a7c270d1c1e52e846ece77e" title="LoadHashTable" alt="" coords="351,59,463,88"/>
 <area shape="rect" id="node7" href="$_storm_common_8h.html#acd34a41b8d29b48ac02c7aecd2f609b5" title="LoadAnyHashTable" alt="" coords="715,59,851,88"/>
 <area shape="rect" id="node9" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="900,85,1025,115"/>
 <area shape="rect" id="node11" href="$fontgenerator_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1131,5,1181,35"/>
 <area shape="rect" id="node13" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="1117,59,1195,88"/>
-<area shape="rect" id="node17" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1085,112,1227,141"/>
-<area shape="rect" id="node21" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="1076,165,1236,195"/>
-<area shape="rect" id="node15" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1328,59,1379,88"/>
-<area shape="rect" id="node19" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1287,112,1420,141"/>
-<area shape="rect" id="node25" href="$_storm_common_8h.html#adc2df260bf34449da5b48a19c2e9a788" title="LoadBlockTable" alt="" coords="349,112,464,141"/>
-<area shape="rect" id="node27" href="$_s_base_file_table_8cpp.html#abe1a62f60e8a51e2096f1aeff15b2170" title="BuildFileTable_Classic" alt="" coords="512,112,667,141"/>
-<area shape="rect" id="node32" href="$_storm_lib_8h.html#a65c5c13489a621c481282da76b101e16" title="SFileGetFileInfo" alt="" coords="532,165,647,195"/>
-<area shape="rect" id="node29" href="$_storm_common_8h.html#a1c0a0948adf593a715e4cdc76bd252fd" title="BuildFileTable" alt="" coords="731,112,835,141"/>
+<area shape="rect" id="node21" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1085,112,1227,141"/>
+<area shape="rect" id="node25" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="1076,165,1236,195"/>
+<area shape="rect" id="node15" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1328,5,1379,35"/>
+<area shape="rect" id="node17" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="1320,59,1387,88"/>
+<area shape="rect" id="node19" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1469,59,1520,88"/>
+<area shape="rect" id="node23" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1287,112,1420,141"/>
+<area shape="rect" id="node29" href="$_storm_common_8h.html#adc2df260bf34449da5b48a19c2e9a788" title="LoadBlockTable" alt="" coords="349,112,464,141"/>
+<area shape="rect" id="node31" href="$_s_base_file_table_8cpp.html#abe1a62f60e8a51e2096f1aeff15b2170" title="BuildFileTable_Classic" alt="" coords="512,112,667,141"/>
+<area shape="rect" id="node36" href="$_storm_lib_8h.html#a65c5c13489a621c481282da76b101e16" title="SFileGetFileInfo" alt="" coords="532,165,647,195"/>
+<area shape="rect" id="node33" href="$_storm_common_8h.html#a1c0a0948adf593a715e4cdc76bd252fd" title="BuildFileTable" alt="" coords="731,112,835,141"/>
 </map>

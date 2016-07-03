@@ -7,5 +7,6 @@
 <area shape="rect" id="node13" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="945,59,1167,88"/>
 <area shape="rect" id="node15" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="1216,59,1403,88"/>
 <area shape="rect" id="node17" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="1452,59,1615,88"/>
-<area shape="rect" id="node19" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1664,59,1715,88"/>
+<area shape="rect" id="node19" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="1665,59,1732,88"/>
+<area shape="rect" id="node21" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1781,59,1832,88"/>
 </map>

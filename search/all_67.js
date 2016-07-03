@@ -212,7 +212,7 @@ var searchData=
   ['getmousekey',['getMouseKey',['../namespace_input.html#aaea01e6d661312e84ced4c7102fc9769',1,'Input']]],
   ['getmpqfilename',['getMPQFileName',['../namespace_f_a_i_o.html#a5890c0068c95ba0f7f022edd3d4aa45b',1,'FAIO']]],
   ['getmutabletestcase',['GetMutableTestCase',['../classtesting_1_1internal_1_1_unit_test_impl.html#a2ca71a08060037357fc7e1a406b89add',1,'testing::internal::UnitTestImpl']]],
-  ['getname',['getName',['../class_f_a_world_1_1_item.html#a174acf30e1c660b888a079f093c110ae',1,'FAWorld::Item']]],
+  ['getname',['getName',['../class_f_a_world_1_1_item.html#a174acf30e1c660b888a079f093c110ae',1,'FAWorld::Item::getName()'],['../namespace_serial_1_1_error.html#afd128b2fa20f3d2d155eb1a1f42e7d19',1,'Serial::Error::getName()']]],
   ['getnewid',['getNewId',['../namespace_f_a_world.html#ae7b48dd95f63cd242f1b994c9da33bc8',1,'FAWorld']]],
   ['getnexthashentry',['GetNextHashEntry',['../_s_base_common_8cpp.html#a8ce768ce195c4379b7dccadcc6635a06',1,'GetNextHashEntry(TMPQArchive *ha, TMPQHash *pFirstHash, TMPQHash *pHash):&#160;SBaseCommon.cpp'],['../_storm_common_8h.html#a4dafa8d36c130aae1def856a8f0da655',1,'GetNextHashEntry(TMPQArchive *ha, TMPQHash *pFirstHash, TMPQHash *pPrevHash):&#160;SBaseCommon.cpp']]],
   ['getnextlevel',['getNextLevel',['../class_f_a_world_1_1_game_level.html#a787106006e9f59d23dd00bc13f791adf',1,'FAWorld::GameLevel::getNextLevel()'],['../class_level_1_1_level.html#a758d864a0451511aa1f143f05afa6d66',1,'Level::Level::getNextLevel()']]],

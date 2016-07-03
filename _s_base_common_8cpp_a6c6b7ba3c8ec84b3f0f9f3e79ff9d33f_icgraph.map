@@ -2,10 +2,10 @@
 <area shape="rect" id="node3" href="$_storm_common_8h.html#abfce4a0e949403c3bede613640942c4a" title="WriteMemDataMD5" alt="" coords="184,72,323,101"/>
 <area shape="rect" id="node5" href="$_storm_common_8h.html#ad65eac195a2ffc9e9ad511d7b381a9a5" title="WriteMpqDataMD5" alt="" coords="187,125,320,155"/>
 <area shape="rect" id="node7" href="$_storm_common_8h.html#a8bbeffca003d324051f5a4d93a6862a3" title="SFileAddFile_Write" alt="" coords="372,99,505,128"/>
-<area shape="rect" id="node36" href="$_storm_lib_8h.html#abf315c2be57e5ebb9790cf84fe88ef03" title="SFileRenameFile" alt="" coords="377,152,500,181"/>
+<area shape="rect" id="node40" href="$_storm_lib_8h.html#abf315c2be57e5ebb9790cf84fe88ef03" title="SFileRenameFile" alt="" coords="377,152,500,181"/>
 <area shape="rect" id="node9" href="$_storm_lib_8h.html#a70c78df25d758e53550021e82078352e" title="SFileWriteFile" alt="" coords="575,45,679,75"/>
 <area shape="rect" id="node17" href="$_storm_common_8h.html#a1f552d4db51760c541354dc64e7808ea" title="SAttrFileSaveToMpq" alt="" coords="556,99,697,128"/>
-<area shape="rect" id="node33" href="$_storm_common_8h.html#a92fbeed559aba21268c7cf0b967e49fc" title="SListFileSaveToMpq" alt="" coords="556,152,697,181"/>
+<area shape="rect" id="node37" href="$_storm_common_8h.html#a92fbeed559aba21268c7cf0b967e49fc" title="SListFileSaveToMpq" alt="" coords="556,152,697,181"/>
 <area shape="rect" id="node11" href="$_storm_lib_8h.html#a9d092079ada150e05bfed5a26e65e184" title="SFileAddFileEx" alt="" coords="755,45,867,75"/>
 <area shape="rect" id="node13" href="$_storm_lib_8h.html#ab6184a31092ac5364a8746b1fca3a822" title="SFileAddFile" alt="" coords="949,5,1045,35"/>
 <area shape="rect" id="node15" href="$_storm_lib_8h.html#a4cc5ee53bb9a41f91d71a0be809ede22" title="SFileAddWave" alt="" coords="943,59,1052,88"/>
@@ -13,7 +13,9 @@
 <area shape="rect" id="node21" href="$_storm_lib_8h.html#a4a8f24295ae27ee91ab52a2cc8a0e9ba" title="SFileCompactArchive" alt="" coords="923,119,1072,148"/>
 <area shape="rect" id="node23" href="$_storm_lib_8h.html#abe1ae9917ea665286bffd1524561fceb" title="SFileCloseArchive" alt="" coords="932,172,1063,201"/>
 <area shape="rect" id="node25" href="$namespace_f_a_i_o.html#ae82e5f53b89d70f240951c564bdff66a" title="FAIO::quit" alt="" coords="1151,145,1233,175"/>
-<area shape="rect" id="node29" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1121,199,1263,228"/>
-<area shape="rect" id="node27" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1355,145,1405,175"/>
-<area shape="rect" id="node31" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1313,199,1447,228"/>
+<area shape="rect" id="node33" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="1121,199,1263,228"/>
+<area shape="rect" id="node27" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1355,92,1405,121"/>
+<area shape="rect" id="node29" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="1347,145,1413,175"/>
+<area shape="rect" id="node31" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1496,145,1547,175"/>
+<area shape="rect" id="node35" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="1313,199,1447,228"/>
 </map>

@@ -1,16 +1,16 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$common_8h.html" title="components/input/common.h" alt="" coords="176,83,365,112"/>
-<area shape="rect" id="node9" href="$hotkey_8cpp.html" title="components/input/hotkey.cpp" alt="" coords="400,83,592,112"/>
-<area shape="rect" id="node11" href="$inputmanager_8h.html" title="components/input/inputmanager.h" alt="" coords="621,83,840,112"/>
+<area shape="rect" id="node3" href="$common_8h.html" title="components/input/common.h" alt="" coords="172,83,361,112"/>
+<area shape="rect" id="node9" href="$hotkey_8cpp.html" title="components/input/hotkey.cpp" alt="" coords="396,83,588,112"/>
+<area shape="rect" id="node11" href="$inputmanager_8h.html" title="components/input/inputmanager.h" alt="" coords="617,83,836,112"/>
 <area shape="rect" id="node5" href="$fapython_8cpp.html" title="apps/freeablo/fagui/fapython.cpp" alt="" coords="5,315,216,344"/>
-<area shape="rect" id="node7" href="$common_8cpp.html" title="components/input/common.cpp" alt="" coords="169,160,372,189"/>
-<area shape="rect" id="node13" href="$engineinputmanager_8h.html" title="apps/freeablo/engine/engineinputmanager.h" alt="" coords="409,160,681,189"/>
-<area shape="rect" id="node19" href="$enginemain_8cpp.html" title="apps/freeablo/engine/enginemain.cpp" alt="" coords="656,315,893,344"/>
-<area shape="rect" id="node27" href="$threadmanager_8cpp.html" title="apps/freeablo/engine/threadmanager.cpp" alt="" coords="756,160,1012,189"/>
-<area shape="rect" id="node29" href="$renderer_8cpp.html" title="apps/freeablo/farender/renderer.cpp" alt="" coords="1036,160,1263,189"/>
-<area shape="rect" id="node31" href="$input_2sdl2backend_8cpp.html" title="components/input/sdl2backend.cpp" alt="" coords="1287,160,1513,189"/>
-<area shape="rect" id="node15" href="$engineinputmanager_8cpp.html" title="apps/freeablo/engine/engineinputmanager.cpp" alt="" coords="139,237,424,267"/>
-<area shape="rect" id="node17" href="$enginemain_8h.html" title="apps/freeablo/engine/enginemain.h" alt="" coords="448,237,669,267"/>
-<area shape="rect" id="node22" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="245,315,451,344"/>
-<area shape="rect" id="node24" href="$freeablo_2main_8cpp.html" title="apps/freeablo/main.cpp" alt="" coords="475,315,632,344"/>
+<area shape="rect" id="node7" href="$common_8cpp.html" title="components/input/common.cpp" alt="" coords="165,160,368,189"/>
+<area shape="rect" id="node13" href="$engineinputmanager_8h.html" title="apps/freeablo/engine/engineinputmanager.h" alt="" coords="405,160,677,189"/>
+<area shape="rect" id="node19" href="$enginemain_8cpp.html" title="apps/freeablo/engine/enginemain.cpp" alt="" coords="673,315,911,344"/>
+<area shape="rect" id="node27" href="$threadmanager_8cpp.html" title="apps/freeablo/engine/threadmanager.cpp" alt="" coords="752,160,1008,189"/>
+<area shape="rect" id="node29" href="$renderer_8cpp.html" title="apps/freeablo/farender/renderer.cpp" alt="" coords="1032,160,1259,189"/>
+<area shape="rect" id="node31" href="$input_2sdl2backend_8cpp.html" title="components/input/sdl2backend.cpp" alt="" coords="1283,160,1509,189"/>
+<area shape="rect" id="node15" href="$engineinputmanager_8cpp.html" title="apps/freeablo/engine/engineinputmanager.cpp" alt="" coords="135,237,420,267"/>
+<area shape="rect" id="node17" href="$enginemain_8h.html" title="apps/freeablo/engine/enginemain.h" alt="" coords="444,237,665,267"/>
+<area shape="rect" id="node21" href="$fa__main_8cpp.html" title="apps/freeablo/fa_main.cpp" alt="" coords="247,315,420,344"/>
+<area shape="rect" id="node24" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="444,315,649,344"/>
 </map>

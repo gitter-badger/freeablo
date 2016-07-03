@@ -3,12 +3,12 @@
 <area shape="rect" id="node5" href="$namespace_audio.html#aa723124f1d8ab10a57d74aac0df5d5cb" title="Audio::loadMusic" alt="" coords="184,59,307,88"/>
 <area shape="rect" id="node9" href="$namespace_audio.html#a640626e3ff91a05bf85051aa564d2be7" title="Audio::loadSound" alt="" coords="184,112,307,141"/>
 <area shape="rect" id="node13" href="$namespace_render.html#ac19fcc278cfef53ca0b941ff040fb5d3" title="Render::loadNonCelImage" alt="" coords="157,165,333,195"/>
-<area shape="rect" id="node52" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="191,219,300,248"/>
-<area shape="rect" id="node54" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="192,272,299,301"/>
+<area shape="rect" id="node54" href="$class_level_1_1_min.html#ab29c456876f2cc69a0247e419fa17337" title="Level::Min::Min" alt="" coords="191,219,300,248"/>
+<area shape="rect" id="node56" href="$class_level_1_1_sol.html#ab1b97555d237cb1c671bfdbb3de5d129" title="Level::Sol::Sol" alt="" coords="192,272,299,301"/>
 <area shape="rect" id="node7" href="$class_f_a_audio_1_1_audio_manager.html#a9eaf93569374ad7fed5b0229d4e36e8b" title="FAAudio::AudioManager::playMusic" alt="" coords="383,59,612,88"/>
 <area shape="rect" id="node11" href="$class_f_a_audio_1_1_audio_manager.html#a1e89093954a2d2d2eefcb60d29101c61" title="FAAudio::AudioManager::playSound" alt="" coords="381,112,613,141"/>
 <area shape="rect" id="node15" href="$namespace_render.html#a5f9e2be0c2c45a803579d9860af440e3" title="Render::getImageInfo" alt="" coords="424,165,571,195"/>
-<area shape="rect" id="node35" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="393,245,601,275"/>
+<area shape="rect" id="node37" href="$namespace_render.html#a104d79dc130b58dd05645cc9ddfbe307" title="Render::loadNonCelImageTrans" alt="" coords="393,245,601,275"/>
 <area shape="rect" id="node17" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="661,139,848,168"/>
 <area shape="rect" id="node19" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="897,139,1095,168"/>
 <area shape="rect" id="node21" href="$class_f_a_render_1_1_renderer.html#a622fe982bc63abe4cd5a17612764af3c" title="FARender::Renderer::loadImage" alt="" coords="1144,112,1355,141"/>
@@ -17,11 +17,12 @@
 <area shape="rect" id="node27" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="1404,165,1625,195"/>
 <area shape="rect" id="node29" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="1675,165,1861,195"/>
 <area shape="rect" id="node31" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="1911,165,2073,195"/>
-<area shape="rect" id="node33" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2123,165,2173,195"/>
-<area shape="rect" id="node37" href="$namespace_render.html#a39ae636123baef1a7d42446331c82b28" title="Render::loadSprite" alt="" coords="689,192,820,221"/>
-<area shape="rect" id="node43" href="$namespace_render.html#ac6568e7174aad7806fee63be8c2cca9c" title="Render::loadVanimSprite" alt="" coords="672,245,837,275"/>
-<area shape="rect" id="node46" href="$namespace_render.html#a05c97dfcb545abc37e57ca717e15f6cc" title="Render::loadResizedSprite" alt="" coords="665,299,844,328"/>
-<area shape="rect" id="node49" href="$namespace_render.html#a6677c983912e2231696f463898e1a744" title="Render::loadTiledTexture" alt="" coords="671,352,839,381"/>
-<area shape="rect" id="node39" href="$class_f_a_render_1_1_sprite_cache.html#ada6cb9dd393a5d7a0a794f7fbf12b5e7" title="To be called from the render thread." alt="" coords="903,272,1089,301"/>
-<area shape="rect" id="node41" href="$class_f_a_render_1_1_sprite_manager.html#aba6477a1788e19b1e953fe354785807f" title="To be called from the render thread." alt="" coords="897,192,1095,221"/>
+<area shape="rect" id="node33" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="2124,165,2191,195"/>
+<area shape="rect" id="node35" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2240,165,2291,195"/>
+<area shape="rect" id="node39" href="$namespace_render.html#a39ae636123baef1a7d42446331c82b28" title="Render::loadSprite" alt="" coords="689,192,820,221"/>
+<area shape="rect" id="node45" href="$namespace_render.html#ac6568e7174aad7806fee63be8c2cca9c" title="Render::loadVanimSprite" alt="" coords="672,245,837,275"/>
+<area shape="rect" id="node48" href="$namespace_render.html#a05c97dfcb545abc37e57ca717e15f6cc" title="Render::loadResizedSprite" alt="" coords="665,299,844,328"/>
+<area shape="rect" id="node51" href="$namespace_render.html#a6677c983912e2231696f463898e1a744" title="Render::loadTiledTexture" alt="" coords="671,352,839,381"/>
+<area shape="rect" id="node41" href="$class_f_a_render_1_1_sprite_cache.html#ada6cb9dd393a5d7a0a794f7fbf12b5e7" title="To be called from the render thread." alt="" coords="903,272,1089,301"/>
+<area shape="rect" id="node43" href="$class_f_a_render_1_1_sprite_manager.html#aba6477a1788e19b1e953fe354785807f" title="To be called from the render thread." alt="" coords="897,192,1095,221"/>
 </map>

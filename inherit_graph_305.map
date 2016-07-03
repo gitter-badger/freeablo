@@ -1,3 +1,4 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$classtesting_1_1internal_1_1_const_and_non_const_castable.html" title="testing::internal::ConstAndNonConstCastable" alt="" coords="5,5,293,35"/>
+<area shape="rect" id="node1" href="$structtesting_1_1internal_1_1bool__constant.html" title="testing::internal::bool_constant\&lt; ImplicitlyConvertible\&lt; const T *, const ::ProtocolMessage * \&gt;::value\|\|ImplicitlyConvertible\&lt; const T *, const ::proto2::Message * \&gt;::value \&gt;" alt="" coords="5,5,1024,35"/>
+<area shape="rect" id="node3" href="$structtesting_1_1internal_1_1_is_a_protocol_message.html" title="testing::internal::IsAProtocolMessage\&lt; T \&gt;" alt="" coords="1072,5,1344,35"/>
 </map>

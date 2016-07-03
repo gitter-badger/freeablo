@@ -1,9 +1,9 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$celview_2mainwindow_8h.html" title="apps/celview/mainwindow.h" alt="" coords="1784,315,1968,344"/>
-<area shape="rect" id="node13" href="$apps_2freeablo_2falevelgen_2tileset_8h.html" title="apps/freeablo/falevelgen/tileset.h" alt="" coords="200,83,413,112"/>
-<area shape="rect" id="node17" href="$apps_2freeablo_2falevelgen_2tileset_8cpp.html" title="apps/freeablo/falevelgen/tileset.cpp" alt="" coords="43,160,269,189"/>
-<area shape="rect" id="node20" href="$savegamemanager_8cpp.html" title="apps/freeablo/fasavegame/savegamemanager.cpp" alt="" coords="235,469,549,499"/>
-<area shape="rect" id="node22" href="$freeablo_2main_8cpp.html" title="apps/freeablo/main.cpp" alt="" coords="1613,83,1771,112"/>
+<area shape="rect" id="node13" href="$fa__main_8cpp.html" title="apps/freeablo/fa_main.cpp" alt="" coords="1613,83,1787,112"/>
+<area shape="rect" id="node15" href="$apps_2freeablo_2falevelgen_2tileset_8h.html" title="apps/freeablo/falevelgen/tileset.h" alt="" coords="200,83,413,112"/>
+<area shape="rect" id="node19" href="$apps_2freeablo_2falevelgen_2tileset_8cpp.html" title="apps/freeablo/falevelgen/tileset.cpp" alt="" coords="43,160,269,189"/>
+<area shape="rect" id="node22" href="$savegamemanager_8cpp.html" title="apps/freeablo/fasavegame/savegamemanager.cpp" alt="" coords="235,469,549,499"/>
 <area shape="rect" id="node24" href="$page_8h.html" title="apps/launcher/page.h" alt="" coords="3001,83,3148,112"/>
 <area shape="rect" id="node47" href="$launcher_2mainwindow_8h.html" title="apps/launcher/mainwindow.h" alt="" coords="2661,160,2851,189"/>
 <area shape="rect" id="node55" href="$celdecoder_8h.html" title="components/cel/celdecoder.h" alt="" coords="1397,83,1589,112"/>
@@ -14,7 +14,7 @@
 <area shape="rect" id="node7" href="$celview_2mainwindow_8cpp.html" title="apps/celview/mainwindow.cpp" alt="" coords="2209,392,2407,421"/>
 <area shape="rect" id="node9" href="$celview_2moc__mainwindow_8cpp.html" title="build/apps/celview/moc_mainwindow.cpp" alt="" coords="1745,392,2007,421"/>
 <area shape="rect" id="node11" href="$celview__automoc_8cpp.html" title="build/apps/celview/celview_automoc.cpp" alt="" coords="1747,469,2005,499"/>
-<area shape="rect" id="node15" href="$levelgen_8cpp.html" title="apps/freeablo/falevelgen/levelgen.cpp" alt="" coords="91,392,331,421"/>
+<area shape="rect" id="node17" href="$levelgen_8cpp.html" title="apps/freeablo/falevelgen/levelgen.cpp" alt="" coords="91,392,331,421"/>
 <area shape="rect" id="node26" href="$graphicspage_8h.html" title="apps/launcher/graphicspage.h" alt="" coords="3596,160,3791,189"/>
 <area shape="rect" id="node36" href="$playpage_8h.html" title="apps/launcher/playpage.h" alt="" coords="3272,160,3443,189"/>
 <area shape="rect" id="node44" href="$moc__page_8cpp.html" title="build/apps/launcher/moc_page.cpp" alt="" coords="2964,160,3185,189"/>

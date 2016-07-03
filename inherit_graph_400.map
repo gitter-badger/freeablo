@@ -1,3 +1,6 @@
 <map id="G" name="G">
-<area shape="rect" id="node1" href="$structz__stream__s.html" title="z_stream_s" alt="" coords="5,5,96,35"/>
+<area shape="rect" id="node1" href="$classupload_1_1_version_control_system.html" title="upload.VersionControlSystem" alt="" coords="5,59,200,88"/>
+<area shape="rect" id="node3" href="$classupload_1_1_git_v_c_s.html" title="upload.GitVCS" alt="" coords="272,5,381,35"/>
+<area shape="rect" id="node5" href="$classupload_1_1_mercurial_v_c_s.html" title="upload.MercurialVCS" alt="" coords="255,59,399,88"/>
+<area shape="rect" id="node7" href="$classupload_1_1_subversion_v_c_s.html" title="upload.SubversionVCS" alt="" coords="248,112,405,141"/>
 </map>

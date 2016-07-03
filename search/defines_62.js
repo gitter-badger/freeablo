@@ -8,6 +8,7 @@ var searchData=
   ['bet_5ftable_5fsignature',['BET_TABLE_SIGNATURE',['../_storm_lib_8h.html#aed26bd0c6cd280f2dffb483779b448f3',1,'StormLib.h']]],
   ['bigfreq',['BIGFREQ',['../blocksort_8c.html#af6677da9f8724a884908abe8e67fc4ef',1,'blocksort.c']]],
   ['bits',['BITS',['../inflate_8c.html#a5967693540f086cfa357f68978bf0be7',1,'inflate.c']]],
+  ['bits_5frequired',['BITS_REQUIRED',['../bithackmacros_8h.html#a9da99276b9b46270bbb48678c802b1cb',1,'bithackmacros.h']]],
   ['bl_5fcodes',['BL_CODES',['../deflate_8h.html#a9e19158a493307d4f211cdf223da8319',1,'deflate.h']]],
   ['block4_5fblock_5fsize',['BLOCK4_BLOCK_SIZE',['../_file_stream_8cpp.html#ab527650fea18542c0f5ad9097be0c352',1,'FileStream.cpp']]],
   ['block4_5fhash_5fsize',['BLOCK4_HASH_SIZE',['../_file_stream_8cpp.html#aec8b42b0300b7efd3a7bbefbacdaa5d2',1,'FileStream.cpp']]],

@@ -1,5 +1,8 @@
 <map id="G" name="G">
-<area shape="rect" id="node11" href="$savegame_8h.html" title="../fasavegame/savegame.h" alt="" coords="837,83,1016,112"/>
-<area shape="rect" id="node29" href="$netobject_8h.html" title="netobject.h" alt="" coords="1887,83,1972,112"/>
-<area shape="rect" id="node34" href="$misc_8h.html" title="misc/misc.h" alt="" coords="1719,83,1812,112"/>
+<area shape="rect" id="node11" href="$savegame_8h.html" title="../fasavegame/savegame.h" alt="" coords="760,83,939,112"/>
+<area shape="rect" id="node29" href="$netobject_8h.html" title="netobject.h" alt="" coords="1891,83,1976,112"/>
+<area shape="rect" id="node34" href="$misc_8h.html" title="misc/misc.h" alt="" coords="1723,83,1816,112"/>
+<area shape="rect" id="node40" href="$bitstream_8h.html" title="serial/bitstream.h" alt="" coords="2052,83,2175,112"/>
+<area shape="rect" id="node48" href="$bitstream_8inl.html" title="bitstream.inl" alt="" coords="2019,160,2112,189"/>
+<area shape="rect" id="node50" href="$bithackmacros_8h.html" title="bithackmacros.h" alt="" coords="2007,237,2124,267"/>
 </map>

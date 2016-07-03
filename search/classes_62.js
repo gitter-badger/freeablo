@@ -8,6 +8,8 @@ var searchData=
   ['baseproperty',['BaseProperty',['../class_level_1_1_base_property.html',1,'Level']]],
   ['big',['Big',['../structtesting_1_1gtest__printers__test_1_1_big.html',1,'testing::gtest_printers_test']]],
   ['biggestintconvertible',['BiggestIntConvertible',['../class_biggest_int_convertible.html',1,'']]],
+  ['bitsrequired',['BitsRequired',['../struct_bits_required.html',1,'']]],
+  ['bitstreambase',['BitStreamBase',['../class_serial_1_1_bit_stream_base.html',1,'Serial']]],
   ['bool',['Bool',['../struct_bool.html',1,'']]],
   ['bool_5fconstant',['bool_constant',['../structtesting_1_1internal_1_1bool__constant.html',1,'testing::internal']]],
   ['bool_5fconstant_3c_20implicitlyconvertible_3c_20const_20t_20_2a_2c_20const_20_3a_3aprotocolmessage_20_2a_20_3e_3a_3avalue_7c_7cimplicitlyconvertible_3c_20const_20t_20_2a_2c_20const_20_3a_3aproto2_3a_3amessage_20_2a_20_3e_3a_3avalue_20_3e',['bool_constant< ImplicitlyConvertible< const T *, const ::ProtocolMessage * >::value||ImplicitlyConvertible< const T *, const ::proto2::Message * >::value >',['../structtesting_1_1internal_1_1bool__constant.html',1,'testing::internal']]],

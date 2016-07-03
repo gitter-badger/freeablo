@@ -3,5 +3,6 @@
 <area shape="rect" id="node5" href="$class_input_1_1_input_manager.html#a8c487668bd5ec294cfcccb94337f43d7" title="Input::InputManager::poll" alt="" coords="171,59,336,88"/>
 <area shape="rect" id="node7" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="395,59,581,88"/>
 <area shape="rect" id="node9" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="631,59,793,88"/>
-<area shape="rect" id="node11" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="843,59,893,88"/>
+<area shape="rect" id="node11" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="844,59,911,88"/>
+<area shape="rect" id="node13" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="960,59,1011,88"/>
 </map>

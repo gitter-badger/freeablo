@@ -6,6 +6,7 @@ var searchData=
   ['enough_5fdists',['ENOUGH_DISTS',['../inftrees_8h.html#aa4f18dce1f4ecd74cfa8b18c8cd62933',1,'inftrees.h']]],
   ['enough_5flens',['ENOUGH_LENS',['../inftrees_8h.html#a9785642d346454e272be30a8016dff04',1,'inftrees.h']]],
   ['equal',['EQUAL',['../deflate_8c.html#a214c717b2e51e1993a749ac99df7de58',1,'deflate.c']]],
+  ['err_5fget_5fname_5fimpl',['ERR_GET_NAME_IMPL',['../bitstream_8cpp.html#a662478ca2fd893b8b02c8e117ed0b42b',1,'bitstream.cpp']]],
   ['err_5fmsg',['ERR_MSG',['../zutil_8h.html#a66466516a4a71f3c78ccc40d203c92e5',1,'zutil.h']]],
   ['err_5freturn',['ERR_RETURN',['../zutil_8h.html#a0fcc2fe26110263e812ce50919b6a5c1',1,'zutil.h']]],
   ['error',['ERROR',['../save_p_n_g_8cpp.html#a8fe83ac76edc595f6b98cd4a4127aed5',1,'savePNG.cpp']]],

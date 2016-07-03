@@ -3252,7 +3252,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03169"></a>03169   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Begin()<span class="keyword"> const </span>{
 <a name="l03170"></a>03170     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.begin(), g2_, g2_.begin());
 <a name="l03171"></a>03171   }
-<a name="l03172"></a>03172   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l03172"></a>03172   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l03173"></a>03173     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end());
 <a name="l03174"></a>03174   }
 <a name="l03175"></a>03175 
@@ -3288,7 +3288,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03205"></a>03205     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l03206"></a>03206       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l03207"></a>03207     }
-<a name="l03208"></a>03208     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l03208"></a>03208     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l03209"></a>03209     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l03210"></a>03210       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l03211"></a>03211       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -3368,7 +3368,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03285"></a>03285     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.begin(), g2_, g2_.begin(), g3_,
 <a name="l03286"></a>03286         g3_.begin());
 <a name="l03287"></a>03287   }
-<a name="l03288"></a>03288   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l03288"></a>03288   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l03289"></a>03289     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end());
 <a name="l03290"></a>03290   }
 <a name="l03291"></a>03291 
@@ -3411,7 +3411,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03328"></a>03328     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l03329"></a>03329       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l03330"></a>03330     }
-<a name="l03331"></a>03331     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l03331"></a>03331     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l03332"></a>03332     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l03333"></a>03333       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l03334"></a>03334       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -3501,7 +3501,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03418"></a>03418     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.begin(), g2_, g2_.begin(), g3_,
 <a name="l03419"></a>03419         g3_.begin(), g4_, g4_.begin());
 <a name="l03420"></a>03420   }
-<a name="l03421"></a>03421   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l03421"></a>03421   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l03422"></a>03422     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l03423"></a>03423         g4_, g4_.end());
 <a name="l03424"></a>03424   }
@@ -3552,7 +3552,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03469"></a>03469     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l03470"></a>03470       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l03471"></a>03471     }
-<a name="l03472"></a>03472     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l03472"></a>03472     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l03473"></a>03473     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l03474"></a>03474       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l03475"></a>03475       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -3652,7 +3652,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03569"></a>03569     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.begin(), g2_, g2_.begin(), g3_,
 <a name="l03570"></a>03570         g3_.begin(), g4_, g4_.begin(), g5_, g5_.begin());
 <a name="l03571"></a>03571   }
-<a name="l03572"></a>03572   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l03572"></a>03572   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l03573"></a>03573     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l03574"></a>03574         g4_, g4_.end(), g5_, g5_.end());
 <a name="l03575"></a>03575   }
@@ -3710,7 +3710,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03627"></a>03627     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l03628"></a>03628       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l03629"></a>03629     }
-<a name="l03630"></a>03630     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l03630"></a>03630     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l03631"></a>03631     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l03632"></a>03632       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l03633"></a>03633       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -3822,7 +3822,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03739"></a>03739     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.begin(), g2_, g2_.begin(), g3_,
 <a name="l03740"></a>03740         g3_.begin(), g4_, g4_.begin(), g5_, g5_.begin(), g6_, g6_.begin());
 <a name="l03741"></a>03741   }
-<a name="l03742"></a>03742   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l03742"></a>03742   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l03743"></a>03743     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l03744"></a>03744         g4_, g4_.end(), g5_, g5_.end(), g6_, g6_.end());
 <a name="l03745"></a>03745   }
@@ -3887,7 +3887,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03804"></a>03804     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l03805"></a>03805       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l03806"></a>03806     }
-<a name="l03807"></a>03807     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l03807"></a>03807     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l03808"></a>03808     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l03809"></a>03809       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l03810"></a>03810       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -4009,7 +4009,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03926"></a>03926         g3_.begin(), g4_, g4_.begin(), g5_, g5_.begin(), g6_, g6_.begin(), g7_,
 <a name="l03927"></a>03927         g7_.begin());
 <a name="l03928"></a>03928   }
-<a name="l03929"></a>03929   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l03929"></a>03929   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l03930"></a>03930     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l03931"></a>03931         g4_, g4_.end(), g5_, g5_.end(), g6_, g6_.end(), g7_, g7_.end());
 <a name="l03932"></a>03932   }
@@ -4081,7 +4081,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l03998"></a>03998     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l03999"></a>03999       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l04000"></a>04000     }
-<a name="l04001"></a>04001     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l04001"></a>04001     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l04002"></a>04002     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l04003"></a>04003       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l04004"></a>04004       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -4214,7 +4214,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l04131"></a>04131         g3_.begin(), g4_, g4_.begin(), g5_, g5_.begin(), g6_, g6_.begin(), g7_,
 <a name="l04132"></a>04132         g7_.begin(), g8_, g8_.begin());
 <a name="l04133"></a>04133   }
-<a name="l04134"></a>04134   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l04134"></a>04134   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l04135"></a>04135     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l04136"></a>04136         g4_, g4_.end(), g5_, g5_.end(), g6_, g6_.end(), g7_, g7_.end(), g8_,
 <a name="l04137"></a>04137         g8_.end());
@@ -4294,7 +4294,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l04211"></a>04211     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l04212"></a>04212       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l04213"></a>04213     }
-<a name="l04214"></a>04214     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l04214"></a>04214     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l04215"></a>04215     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l04216"></a>04216       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l04217"></a>04217       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -4436,7 +4436,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l04353"></a>04353         g3_.begin(), g4_, g4_.begin(), g5_, g5_.begin(), g6_, g6_.begin(), g7_,
 <a name="l04354"></a>04354         g7_.begin(), g8_, g8_.begin(), g9_, g9_.begin());
 <a name="l04355"></a>04355   }
-<a name="l04356"></a>04356   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l04356"></a>04356   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l04357"></a>04357     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l04358"></a>04358         g4_, g4_.end(), g5_, g5_.end(), g6_, g6_.end(), g7_, g7_.end(), g8_,
 <a name="l04359"></a>04359         g8_.end(), g9_, g9_.end());
@@ -4523,7 +4523,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l04440"></a>04440     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l04441"></a>04441       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l04442"></a>04442     }
-<a name="l04443"></a>04443     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l04443"></a>04443     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l04444"></a>04444     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l04445"></a>04445       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l04446"></a>04446       <span class="comment">// iterator is of the same type and we can downcast.</span>
@@ -4676,7 +4676,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l04593"></a>04593         g3_.begin(), g4_, g4_.begin(), g5_, g5_.begin(), g6_, g6_.begin(), g7_,
 <a name="l04594"></a>04594         g7_.begin(), g8_, g8_.begin(), g9_, g9_.begin(), g10_, g10_.begin());
 <a name="l04595"></a>04595   }
-<a name="l04596"></a>04596   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* End()<span class="keyword"> const </span>{
+<a name="l04596"></a>04596   <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641a8ef473b92be7eb921fc0b02888d17f69">End</a>()<span class="keyword"> const </span>{
 <a name="l04597"></a>04597     <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(<span class="keyword">this</span>, g1_, g1_.end(), g2_, g2_.end(), g3_, g3_.end(),
 <a name="l04598"></a>04598         g4_, g4_.end(), g5_, g5_.end(), g6_, g6_.end(), g7_, g7_.end(), g8_,
 <a name="l04599"></a>04599         g8_.end(), g9_, g9_.end(), g10_, g10_.end());
@@ -4770,7 +4770,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l04687"></a>04687     <span class="keyword">virtual</span> ParamIteratorInterface&lt;ParamType&gt;* Clone()<span class="keyword"> const </span>{
 <a name="l04688"></a>04688       <span class="keywordflow">return</span> <span class="keyword">new</span> Iterator(*<span class="keyword">this</span>);
 <a name="l04689"></a>04689     }
-<a name="l04690"></a>04690     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* Current()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
+<a name="l04690"></a>04690     <span class="keyword">virtual</span> <span class="keyword">const</span> ParamType* <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641abd795b6144da194daf988e43708203de">Current</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> &amp;current_value_; }
 <a name="l04691"></a>04691     <span class="keyword">virtual</span> <span class="keywordtype">bool</span> Equals(<span class="keyword">const</span> ParamIteratorInterface&lt;ParamType&gt;&amp; other)<span class="keyword"> const </span>{
 <a name="l04692"></a>04692       <span class="comment">// Having the same base generator guarantees that the other</span>
 <a name="l04693"></a>04693       <span class="comment">// iterator is of the same type and we can downcast.</span>

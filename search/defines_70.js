@@ -13,7 +13,7 @@ var searchData=
   ['pqremove',['pqremove',['../trees_8c.html#abf2ba789ae874d21ce278885758c4dcc',1,'trees.c']]],
   ['preset_5fdict',['PRESET_DICT',['../zutil_8h.html#a1156d73d88538d122acfa852b95492bd',1,'zutil.h']]],
   ['prime_5fsize',['PRIME_SIZE',['../tommath_8h.html#a317e37eaaa9dc3752550ede7f1afb197',1,'tommath.h']]],
-  ['private',['private',['../cel_8cpp.html#a6a1d6e1a12975a4e9a0b5b952e79eaad',1,'cel.cpp']]],
+  ['private',['private',['../cel_8cpp.html#a6a1d6e1a12975a4e9a0b5b952e79eaad',1,'private():&#160;cel.cpp'],['../serial_8cpp.html#a6a1d6e1a12975a4e9a0b5b952e79eaad',1,'private():&#160;serial.cpp']]],
   ['ptr_5fint',['PTR_INT',['../huff__old_8h.html#aaec3278afbf237954cc4b39903d59b6b',1,'huff_old.h']]],
   ['ptr_5finvalid',['PTR_INVALID',['../huff__old_8cpp.html#ae35934d2985221152fe57ec00c88bcdf',1,'huff_old.cpp']]],
   ['ptr_5finvalid_5for_5fnull',['PTR_INVALID_OR_NULL',['../huff__old_8cpp.html#a1ac8b5f5a8f58659bc9d56b361178b22',1,'huff_old.cpp']]],

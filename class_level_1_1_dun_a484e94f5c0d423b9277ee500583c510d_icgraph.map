@@ -20,13 +20,14 @@
 <area shape="rect" id="node41" href="$namespace_f_a_level_gen.html#aaadc8f0a4f323fffca554c5bb48bd218" title="FALevelGen::addDoors" alt="" coords="980,343,1137,372"/>
 <area shape="rect" id="node56" href="$namespace_f_a_level_gen.html#a2f48db4843ed8be1a245fed54a4b7e0b" title="FALevelGen::placeMonsters" alt="" coords="965,588,1152,617"/>
 <area shape="rect" id="node59" href="$class_f_a_world_1_1_game_level.html#af36b2f0b685b079cba343778904c5930" title="FAWorld::GameLevel::width" alt="" coords="704,837,891,867"/>
-<area shape="rect" id="node69" href="$namespace_render.html#ae442c971a465dedb95a9f7a0341038fb" title="Render::drawAt" alt="" coords="472,677,584,707"/>
-<area shape="rect" id="node71" href="$namespace_render.html#aa1e46d36c78f3a7f7f2715ebaa057bc9" title="Render::getMapScreenCoords" alt="" coords="429,784,627,813"/>
-<area shape="rect" id="node78" href="$namespace_render.html#a4d30f80e7e20bffea849c6efdf7076b1" title="Render::drawLevelHelper" alt="" coords="444,731,612,760"/>
+<area shape="rect" id="node71" href="$namespace_render.html#ae442c971a465dedb95a9f7a0341038fb" title="Render::drawAt" alt="" coords="472,677,584,707"/>
+<area shape="rect" id="node73" href="$namespace_render.html#aa1e46d36c78f3a7f7f2715ebaa057bc9" title="Render::getMapScreenCoords" alt="" coords="429,784,627,813"/>
+<area shape="rect" id="node80" href="$namespace_render.html#a4d30f80e7e20bffea849c6efdf7076b1" title="Render::drawLevelHelper" alt="" coords="444,731,612,760"/>
 <area shape="rect" id="node61" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="948,784,1169,813"/>
 <area shape="rect" id="node63" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="1219,784,1405,813"/>
 <area shape="rect" id="node65" href="$class_engine_1_1_engine_main.html#a5a16165ab6d6e9f2bb2f2739bd1b11bf" title="Engine::EngineMain::run" alt="" coords="1455,784,1617,813"/>
-<area shape="rect" id="node67" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1747,784,1797,813"/>
-<area shape="rect" id="node73" href="$namespace_render.html#a14fb455a9e0201367451b54ff2276f9f" title="Render::getClickedTile" alt="" coords="720,784,875,813"/>
-<area shape="rect" id="node75" href="$namespace_render.html#aa2625d5d45177718b16be35d3de01643" title="Render::drawLevel" alt="" coords="732,731,863,760"/>
+<area shape="rect" id="node67" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="1739,784,1805,813"/>
+<area shape="rect" id="node69" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1925,784,1976,813"/>
+<area shape="rect" id="node75" href="$namespace_render.html#a14fb455a9e0201367451b54ff2276f9f" title="Render::getClickedTile" alt="" coords="720,784,875,813"/>
+<area shape="rect" id="node77" href="$namespace_render.html#aa2625d5d45177718b16be35d3de01643" title="Render::drawLevel" alt="" coords="732,731,863,760"/>
 </map>

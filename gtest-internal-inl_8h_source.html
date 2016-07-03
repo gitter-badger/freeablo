@@ -1219,10 +1219,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l01136"></a>01136   <span class="keyword">static</span> <span class="keywordtype">string</span> UrlEncode(<span class="keyword">const</span> <span class="keywordtype">char</span>* str);
 <a name="l01137"></a>01137 
 <a name="l01138"></a>01138   StreamingListener(<span class="keyword">const</span> <span class="keywordtype">string</span>&amp; host, <span class="keyword">const</span> <span class="keywordtype">string</span>&amp; port)
-<a name="l01139"></a>01139       : socket_writer_(new SocketWriter(host, port)) { Start(); }
+<a name="l01139"></a>01139       : socket_writer_(new SocketWriter(host, port)) { <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641aa1fba6cfa4e8629c74d2a0e64344dce5">Start</a>(); }
 <a name="l01140"></a>01140 
 <a name="l01141"></a>01141   <span class="keyword">explicit</span> StreamingListener(AbstractSocketWriter* socket_writer)
-<a name="l01142"></a>01142       : socket_writer_(socket_writer) { Start(); }
+<a name="l01142"></a>01142       : socket_writer_(socket_writer) { <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641aa1fba6cfa4e8629c74d2a0e64344dce5">Start</a>(); }
 <a name="l01143"></a>01143 
 <a name="l01144"></a>01144   <span class="keywordtype">void</span> OnTestProgramStart(<span class="keyword">const</span> UnitTest&amp; <span class="comment">/* unit_test */</span>) {
 <a name="l01145"></a>01145     SendLn(<span class="stringliteral">&quot;event=TestProgramStart&quot;</span>);
@@ -1284,7 +1284,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l01201"></a>01201 
 <a name="l01202"></a>01202   <span class="comment">// Called at the start of streaming to notify the receiver what</span>
 <a name="l01203"></a>01203   <span class="comment">// protocol we are using.</span>
-<a name="l01204"></a>01204   <span class="keywordtype">void</span> Start() { SendLn(<span class="stringliteral">&quot;gtest_streaming_protocol_version=1.0&quot;</span>); }
+<a name="l01204"></a>01204   <span class="keywordtype">void</span> <a class="code" href="namespace_serial_1_1_b_s_pos.html#ad6c8ee0b692aed13599fb06a95ad1641aa1fba6cfa4e8629c74d2a0e64344dce5">Start</a>() { SendLn(<span class="stringliteral">&quot;gtest_streaming_protocol_version=1.0&quot;</span>); }
 <a name="l01205"></a>01205 
 <a name="l01206"></a>01206   <span class="keywordtype">string</span> FormatBool(<span class="keywordtype">bool</span> <a class="code" href="der__length__ia5__string_8c.html#ac4f474c82e82cbb89ca7c36dd52be0ed">value</a>) { <span class="keywordflow">return</span> value ? <span class="stringliteral">&quot;1&quot;</span> : <span class="stringliteral">&quot;0&quot;</span>; }
 <a name="l01207"></a>01207 

@@ -7,5 +7,6 @@ var searchData=
   ['enumwithprintto',['EnumWithPrintTo',['../gtest-printers__test_8cc.html#a904d619d593201ed509be794aed041ec',1,'gtest-printers_test.cc']]],
   ['enumwithstreaming',['EnumWithStreaming',['../gtest-printers__test_8cc.html#a52d9f846ca7a081ba3acf88dd6cd46dc',1,'gtest-printers_test.cc']]],
   ['equiploc',['equipLoc',['../class_f_a_world_1_1_item.html#a97a412c5cccaf808905914367c7c8417',1,'FAWorld::Item']]],
+  ['error',['Error',['../namespace_serial_1_1_error.html#a1be827363d805bba5e9a27ac5b590c6f',1,'Serial::Error']]],
   ['eszseek',['ESzSeek',['../_types_8h.html#ab0216441b8737c13f5b275408f9e9709',1,'Types.h']]]
 ];

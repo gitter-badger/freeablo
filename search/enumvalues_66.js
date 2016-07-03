@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['f',['f',['../struct_log2.html#a07d38252e7ea2ccf19fa7de58d5fd2a6acc7b293bfda654c8220934d750959d68',1,'Log2']]],
   ['famod_5falt',['FAMOD_ALT',['../namespace_input.html#a1c39e19422b6144499a478cdc907baabae557d263d2ecdfaa35c919d261726981',1,'Input']]],
   ['famod_5fctrl',['FAMOD_CTRL',['../namespace_input.html#a1c39e19422b6144499a478cdc907baaba6e54d886726fdedc91c3a09e6212bd1c',1,'Input']]],
   ['famod_5fshift',['FAMOD_SHIFT',['../namespace_input.html#a1c39e19422b6144499a478cdc907baaba4bbce56f0c68e04c4c2a5dafde468772',1,'Input']]],

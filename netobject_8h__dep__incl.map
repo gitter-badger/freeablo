@@ -1,9 +1,10 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$position_8h.html" title="apps/freeablo/faworld/position.h" alt="" coords="1288,83,1493,112"/>
-<area shape="rect" id="node86" href="$netobject_8cpp.html" title="apps/freeablo/faworld/netobject.cpp" alt="" coords="1517,83,1744,112"/>
+<area shape="rect" id="node3" href="$position_8h.html" title="apps/freeablo/faworld/position.h" alt="" coords="1361,83,1567,112"/>
+<area shape="rect" id="node88" href="$netobject_8cpp.html" title="apps/freeablo/faworld/netobject.cpp" alt="" coords="1591,83,1817,112"/>
 <area shape="rect" id="node5" href="$renderer_8h.html" title="apps/freeablo/farender/renderer.h" alt="" coords="969,160,1183,189"/>
 <area shape="rect" id="node9" href="$actor_8h.html" title="apps/freeablo/faworld/actor.h" alt="" coords="1388,237,1577,267"/>
 <area shape="rect" id="node84" href="$position_8cpp.html" title="apps/freeablo/faworld/position.cpp" alt="" coords="1428,160,1647,189"/>
+<area shape="rect" id="node86" href="$serial_8cpp.html" title="test/serial.cpp" alt="" coords="1671,160,1775,189"/>
 <area shape="rect" id="node7" href="$engineinputmanager_8cpp.html" title="apps/freeablo/engine/engineinputmanager.cpp" alt="" coords="753,237,1039,267"/>
 <area shape="rect" id="node19" href="$guimanager_8cpp.html" title="apps/freeablo/fagui/guimanager.cpp" alt="" coords="5,469,232,499"/>
 <area shape="rect" id="node29" href="$world_8cpp.html" title="apps/freeablo/faworld/world.cpp" alt="" coords="1024,469,1229,499"/>

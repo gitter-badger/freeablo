@@ -3,8 +3,10 @@
 <area shape="rect" id="node5" href="$_storm_lib_8h.html#a8b031afa4f88b4b3705c274a0b5b4f73" title="SFileOpenArchive" alt="" coords="172,85,297,115"/>
 <area shape="rect" id="node7" href="$fontgenerator_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="403,5,453,35"/>
 <area shape="rect" id="node9" href="$namespace_f_a_i_o.html#a2c6d08b4256153f34907093724c0f995" title="FAIO::init" alt="" coords="389,59,467,88"/>
-<area shape="rect" id="node13" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="357,112,499,141"/>
-<area shape="rect" id="node17" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="348,165,508,195"/>
-<area shape="rect" id="node11" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="600,59,651,88"/>
-<area shape="rect" id="node15" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="559,112,692,141"/>
+<area shape="rect" id="node17" href="$_storm_lib_8h.html#aa2b6fa8f16b5ac42868c546533fe26ce" title="SFileCreateArchive2" alt="" coords="357,112,499,141"/>
+<area shape="rect" id="node21" href="$_storm_lib_8h.html#a6daebdc66320d44284e960bbff33e886" title="SFileOpenPatchArchive" alt="" coords="348,165,508,195"/>
+<area shape="rect" id="node11" href="$exedump_2main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="600,5,651,35"/>
+<area shape="rect" id="node13" href="$freeablo_2main_8cpp.html#a20c9aff286d7dc7fab927aa4baecaccb" title="fa_main" alt="" coords="592,59,659,88"/>
+<area shape="rect" id="node15" href="$freeablo_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="741,59,792,88"/>
+<area shape="rect" id="node19" href="$_storm_lib_8h.html#a11342f379ed88e7b54873f1f53feb773" title="SFileCreateArchive" alt="" coords="559,112,692,141"/>
 </map>

@@ -33,7 +33,7 @@ var searchData=
   ['resized',['resized',['../namespace_render.html#afce94cf658f01bed8d147b5f394a2cac',1,'Render']]],
   ['resolutioncombobox',['resolutionComboBox',['../class_ui___main_window.html#a8c5631ac36d8996b1426e9d3c7a6b435',1,'Ui_MainWindow']]],
   ['rest_5fof_5fline_5fregex',['REST_OF_LINE_REGEX',['../namespacepump.html#a5a64bb07267a8cbf1b6277f3021ec926',1,'pump']]],
-  ['result',['result',['../struct___c_match_finder.html#aa4ed148a7fd9516453828cda11bd0e31',1,'_CMatchFinder::result()'],['../struct_c_lzma_enc.html#a03235d1f075cb92be3ce26f25a3ced2c',1,'CLzmaEnc::result()']]],
+  ['result',['result',['../struct_bits_required.html#aca02ddc83ae3e0a3102be4008554d83f',1,'BitsRequired::result()'],['../struct___c_match_finder.html#aa4ed148a7fd9516453828cda11bd0e31',1,'_CMatchFinder::result()'],['../struct_c_lzma_enc.html#a03235d1f075cb92be3ce26f25a3ced2c',1,'CLzmaEnc::result()']]],
   ['rev_5fend',['rev_end',['../classupload_1_1_subversion_v_c_s.html#ac0bb07a099c722b7f8622de4b225904f',1,'upload::SubversionVCS']]],
   ['rev_5fstart',['rev_start',['../classupload_1_1_subversion_v_c_s.html#ad1553a69f4a790309273dbdeb9077732',1,'upload::SubversionVCS']]],
   ['rfreq',['rfreq',['../struct_e_state.html#a9a925e22f64a78c4a1080c66ffa0ef62',1,'EState']]],
